@@ -41,12 +41,16 @@ Other scripts: `npm run check:data` (validates the JSON), `npm run lint`, `npm r
 3. In the Elements tab, the `.rows` element holds about 17 to 21 children, never 400.
 
 ## Performance note
-How I measured: Chrome DevTools, Performance tab, record while scrolling the list quickly from top to bottom. You can also open the page with `?fps` in the address bar to show a live frame counter.
+**How I measured:** I built the production version (`npm run build`, then `npm run preview`) and opened it in Chrome on Windows. In Chrome DevTools I recorded about 9.6 seconds of scrolling in the Performance tab, and I also watched the live "Frame Rendering Stats" meter while scrolling the list quickly.
 
-- Browser and device: __
-- Frame rate while scrolling: __ fps
-- Longest frame: __ ms
-- Rows in the page while scrolling: 17 to 21 of 400
+**Results**
+- Frame rate while scrolling: about 135 fps (about 7 ms per frame) on my high-refresh screen. This is well above the 55 fps target.
+- Rows in the page while scrolling: 20 to 22 of 400 (from the console logs).
+- My app's own JavaScript used about 47 ms of main-thread time over the whole recording.
+- Scripting 423 ms, Rendering 1,304 ms and Painting 424 ms out of 9,590 ms. The main thread was idle about 75% of the time.
+- Layout shift (CLS): 0.
+
+**Conclusion:** Scrolling stays smooth because only about 20 rows exist in the page at any time, and the rows are reused instead of recreated.
 
 ## Accessibility
 - The list is a keyboard-focusable region: use Tab to reach it, then arrow keys, Page Up and Page Down to scroll.
