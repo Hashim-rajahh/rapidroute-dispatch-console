@@ -1,0 +1,21 @@
+{
+  "name": "rapidroute-dispatch-console",
+  "version": "0.1.0",
+  "description": "RapidRoute Logistics Live Dispatch Console: virtualized vehicle list",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generateData.js",
+    "check:data": "node scripts/checkData.js",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.12.0",
+    "globals": "^17.13.0",
+    "vite": "^8.3.4"
+  }
+}

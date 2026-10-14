@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "VH-0001",
+    "plate": "KYU-0412",
+    "driver": "Rachel Kowalski",
+    "status": "In transit",
+    "location": "Indianapolis, IN",
+    "lat": 39.4721,
+    "lng": -86.1872
+  },
+  {
+    "id": "VH-0002",
+    "plate": "XUG-9981",
+    "driver": "Michael Murphy",
+    "status": "In transit",
+    "location": "Omaha, NE",
+    "lat": 41.4804,
+    "lng": -95.6929
+  },
+  {
+    "id": "VH-0003",
+    "plate": "QSF-4123",
+    "driver": "Carlos Reyes",
+    "status": "In transit",
+    "location": "St. Louis, MO",
+    "lat": 38.8793,
+    "lng": -89.9956
+  },
+  {
+    "id": "VH-0004",
+    "plate": "KTA-4430",
+    "driver": "Jennifer Brown",
+    "status": "Delayed",
+    "location": "Minneapolis, MN",
+    "lat": 45.0055,
+    "lng": -93.3325
+  },
+  {
+    "id": "VH-0005",
+    "plate": "DTB-3882",
+    "driver": "Kevin Patel",
+    "status": "In transit",
+    "location": "Fort Wayne, IN",
+    "lat": 40.9094,
+    "lng": -85.426
+  },
+  {
+    "id": "VH-0006",
+    "plate": "CGA-1526",
+    "driver": "Rachel Walker",
+    "status": "Idle",
+    "location": "Cincinnati, OH",
+    "lat": 39.0109,
+    "lng": -84.3125
+  },
+  {
+    "id": "VH-0007",
+    "plate": "RCP-2579",
+    "driver": "Marcus Sullivan",
+    "status": "Delayed",
+    "location": "Toledo, OH",
+    "lat": 41.7561,
+    "lng": -83.2563
+  },
+  {
+    "id": "VH-0008",
+    "plate": "LXR-8316",
+    "driver": "James Hughes",
+    "status": "In transit",
+    "location": "Detroit, MI",
+    "lat": 42.4801,
+    "lng": -83.005
+  },
+  {
+    "id": "VH-0009",
+    "plate": "LAT-6803",
+    "driver": "Rachel Davis",
+    "status": "In transit",
+    "location": "Kansas City, MO",
+    "lat": 38.9197,
+    "lng": -94.8392
+  },
+  {
+    "id": "VH-0010",
+    "plate": "QMC-7385",
+    "driver": "Robert Martinez",
+    "status": "Maintenance",
+    "location": "Des Moines, IA",
+    "lat": 41.8459,
+    "lng": -93.6746
+  },
+  {
+    "id": "VH-0011",
+    "plate": "NFG-0908",
+    "driver": "Priya Hughes",
+    "status": "In transit",
+    "location": "Minneapolis, MN",
+    "lat": 44.9417,
+    "lng": -93.0557
+  },
+  {
+    "id": "VH-0012",
+    "plate": "VQR-4263",
+    "driver": "Daniel Martinez",
+    "status": "In transit",
+    "location": "Milwaukee, WI",
+    "lat": 42.8416,
+    "lng": -88.0148
+  },
+  {
+    "id": "VH-0013",
+    "plate": "MDH-1944",
+    "driver": "Derek Martinez",
+    "status": "In transit",
+    "location": "Cleveland, OH",
+    "lat": 41.6764,
+    "lng": -81.6076
+  },
+  {
+    "id": "VH-0014",
+    "plate": "MHA-8494",
+    "driver": "Grace Brown",
+    "status": "Delayed",
+    "location": "Cleveland, OH",
+    "lat": 41.7671,
+    "lng": -81.936
+  },
+  {
+    "id": "VH-0015",
+    "plate": "GAF-6973",
+    "driver": "Anthony Olson",
+    "status": "Maintenance",
+    "location": "Toledo, OH",
+    "lat": 41.6978,
+    "lng": -83.5724
+  },
+  {
+    "id": "VH-0016",
+    "plate": "BZE-9243",
+    "driver": "Jennifer Patel",
+    "status": "In transit",
+    "location": "Omaha, NE",
+    "lat": 41.1074,
+    "lng": -96.0028
+  },
+  {
+    "id": "VH-0017",
+    "plate": "TDC-2993",
+    "driver": "Teresa Patel",
+    "status": "In transit",
+    "location": "Chicago, IL",
+    "lat": 41.7666,
+    "lng": -87.7452
+  },
+  {
+    "id": "VH-0018",
+    "plate": "QWX-1345",
+    "driver": "Hannah Anderson",
+    "status": "In transit",
+    "location": "Detroit, MI",
+    "lat": 42.234,
+    "lng": -82.997
+  },
+  {
+    "id": "VH-0019",
+    "plate": "KLA-4134",
+    "driver": "Brian Kowalski",
+    "status": "Idle",
+    "location": "Cleveland, OH",
+    "lat": 41.7829,
+    "lng": -81.5247
+  },
+  {
+    "id": "VH-0020",
+    "plate": "AAC-8201",
+    "driver": "Jennifer Mitchell",
+    "status": "Maintenance",
+    "location": "Milwaukee, WI",
+    "lat": 43.1529,
+    "lng": -87.6624
+  },
+  {
+    "id": "VH-0021",
+    "plate": "XMP-3722",
+    "driver": "Maria Carter",
+    "status": "Delayed",
+    "location": "St. Louis, MO",
+    "lat": 38.4164,
+    "lng": -90.4819
+  },
+  {
+    "id": "VH-0022",
+    "plate": "JNU-6010",
+    "driver": "Daniel Martinez",
+    "status": "In transit",
+    "location": "Omaha, NE",
+    "lat": 41.2714,
+    "lng": -96.1539
+  },
+  {
+    "id": "VH-0023",
+    "plate": "WXS-2949",
+    "driver": "Angela Coleman",
+    "status": "Maintenance",
+    "location": "Cincinnati, OH",
+    "lat": 39.2886,
+    "lng": -84.7236
+  },
+  {
+    "id": "VH-0024",
+    "plate": "NGV-0570",
+    "driver": "Marcus Williams",
+    "status": "Loading",
+    "location": "Kansas City, MO",
+    "lat": 39.1697,
+    "lng": -94.3352
+  },
+  {
+    "id": "VH-0025",
+    "plate": "MBD-7697",
+    "driver": "Brian Davis",
+    "status": "Delayed",
+    "location": "Fort Wayne, IN",
+    "lat": 41.2041,
+    "lng": -85.0838
+  },
+  {
+    "id": "VH-0026",
+    "plate": "YGX-7470",
+    "driver": "Robert Brown",
+    "status": "Idle",
+    "location": "Fort Wayne, IN",
+    "lat": 41.3777,
+    "lng": -85.3422
+  },
+  {
+    "id": "VH-0027",
+    "plate": "TCG-2357",
+    "driver": "Susan Kowalski",
+    "status": "In transit",
+    "location": "Des Moines, IA",
+    "lat": 41.6127,
+    "lng": -93.6088
+  },
+  {
+    "id": "VH-0028",
+    "plate": "UNR-7246",
+    "driver": "Susan Anderson",
+    "status": "In transit",
+    "location": "Milwaukee, WI",
+    "lat": 43.1828,
+    "lng": -87.993
+  },
+  {
+    "id": "VH-0029",
+    "plate": "RXH-9952",
+    "driver": "Linda Walker",
+    "status": "Maintenance",
+    "location": "Columbus, OH",
+    "lat": 39.8575,
+    "lng": -83.127
+  },
+  {
+    "id": "VH-0030",
+    "plate": "FTV-8776",
+    "driver": "Samuel Kowalski",
+    "status": "In transit",
+    "location": "Chicago, IL",
+    "lat": 41.6182,
+    "lng": -87.679
+  },
+  {
+    "id": "VH-0031",
+    "plate": "JVD-4078",
+    "driver": "Carlos Olson",
+    "status": "Idle",
+    "location": "Minneapolis, MN",
+    "lat": 44.831,
+    "lng": -93.0494
+  },
+  {
+    "id": "VH-0032",
+    "plate": "XLW-2986",
+    "driver": "Teresa Williams",
+    "status": "Delayed",
+    "location": "Kansas City, MO",
+    "lat": 39.0916,
+    "lng": -94.5755
+  },
+  {
+    "id": "VH-0033",
+    "plate": "YAN-9256",
+    "driver": "Robert Foster",
+    "status": "In transit",
+    "location": "Omaha, NE",
+    "lat": 41.4266,
+    "lng": -95.9962
+  },
+  {
+    "id": "VH-0034",
+    "plate": "GYS-0136",
+    "driver": "Omar Carter",
+    "status": "In transit",
+    "location": "Chicago, IL",
+    "lat": 41.832,
+    "lng": -87.4716
+  },
+  {
+    "id": "VH-0035",
+    "plate": "NCH-5716",
+    "driver": "Tyrone Johnson",
+    "status": "Loading",
+    "location": "Madison, WI",
+    "lat": 43.0557,
+    "lng": -89.1191
+  },
+  {
+    "id": "VH-0036",
+    "plate": "WJB-3078",
+    "driver": "Megan Kowalski",
+    "status": "Idle",
+    "location": "Kansas City, MO",
+    "lat": 39.0655,
+    "lng": -94.2938
+  },
+  {
+    "id": "VH-0037",
+    "plate": "XXL-9368",
+    "driver": "Linda Brown",
+    "status": "In transit",
+    "location": "Omaha, NE",
+    "lat": 41.4313,
+    "lng": -95.6843
+  },
+  {
+    "id": "VH-0038",
+    "plate": "WDE-3304",
+    "driver": "Grace Thompson",
+    "status": "Idle",
+    "location": "Cincinnati, OH",
+    "lat": 39.3552,
+    "lng": -84.6557
+  },
+  {
+    "id": "VH-0039",
+    "plate": "RZJ-8410",
+    "driver": "Hannah Nowak",
+    "status": "Loading",
+    "location": "St. Louis, MO",
+    "lat": 38.8588,
+    "lng": -90.171
+  },
+  {
+    "id": "VH-0040",
+    "plate": "SNJ-7179",
+    "driver": "Anthony Larsen",
+    "status": "Maintenance",
+    "location": "Omaha, NE",
+    "lat": 41.2248,
+    "lng": -96.1489
+  },
+  {
+    "id": "VH-0041",
+    "plate": "ZXK-3523",
+    "driver": "Marcus Sullivan",
+    "status": "In transit",
+    "location": "Minneapolis, MN",
+    "lat": 45.1437,
+    "lng": -93.1156
+  },
+  {
+    "id": "VH-0042",
+    "plate": "KZT-8302",
+    "driver": "Teresa Martinez",
+    "status": "In transit",
+    "location": "Milwaukee, WI",
+    "lat": 42.9395,
+    "lng": -88.2
+  },
+  {
+    "id": "VH-0043",
+    "plate": "ZHH-2012",
+    "driver": "Patricia Thompson",
+    "status": "In transit",
+    "location": "Detroit, MI",
+    "lat": 42.6281,
+    "lng": -83.0564
+  },
+  {
+    "id": "VH-0044",
+    "plate": "PGN-0088",
+    "driver": "Samuel Walker",
+    "status": "In transit",
+    "location": "Des Moines, IA",
+    "lat": 41.3378,
+    "lng": -93.7761
+  },
+  {
+    "id": "VH-0045",
+    "plate": "GHB-1780",
+    "driver": "Maria Sullivan",
+    "status": "Delayed",
+    "location": "Milwaukee, WI",
+    "lat": 43.2616,
+    "lng": -87.7895
+  },
+  {
+    "id": "VH-0046",
+    "plate": "UUL-5006",
+    "driver": "Carlos Nguyen",
+    "status": "Idle",
+    "location": "Madison, WI",
+    "lat": 42.833,
+    "lng": -89.6547
+  },
+  {
+    "id": "VH-0047",
+    "plate": "DNA-3494",
+    "driver": "Michael Anderson",
+    "status": "In transit",
+    "location": "Kansas City, MO",
+    "lat": 38.9625,
+    "lng": -94.6988
+  },
+  {
+    "id": "VH-0048",
+    "plate": "HXT-1273",
+    "driver": "Jennifer Nowak",
+    "status": "Idle",
+    "location": "Milwaukee, WI",
+    "lat": 43.2099,
+    "lng": -88.0405
+  },
+  {
+    "id": "VH-0049",
+    "plate": "FSS-6615",
+    "driver": "Patricia Patel",
+    "status": "In transit",
+    "location": "Detroit, MI",
+    "lat": 42.2816,
+    "lng": -83.282
+  },
+  {
+    "id": "VH-0050",
+    "plate": "ZFE-9429",
+    "driver": "Priya Thompson",
+    "status": "In transit",
+    "location": "Toledo, OH",
+    "lat": 41.8919,
+    "lng": -83.6722
+  },
+  {
+    "id": "VH-0051",
+    "plate": "JRS-0234",
+    "driver": "Omar Nguyen",
+    "status": "Idle",
+    "location": "Indianapolis, IN",
+    "lat": 40.012,
+    "lng": -85.9689
+  },
+  {
+    "id": "VH-0052",
+    "plate": "YFT-7508",
+    "driver": "Patricia Coleman",
+    "status": "In transit",
+    "location": "Kansas City, MO",
+    "lat": 38.9458,
+    "lng": -94.8401
+  },
+  {
+    "id": "VH-0053",
+    "plate": "RUJ-1246",
+    "driver": "Susan Torres",
+    "status": "Idle",
+    "location": "Fort Wayne, IN",
+    "lat": 40.9298,
+    "lng": -85.0428
+  },
+  {
+    "id": "VH-0054",
+    "plate": "KFT-5832",
+    "driver": "Jennifer Mitchell",
+    "status": "Delayed",
+    "location": "Cleveland, OH",
+    "lat": 41.6676,
+    "lng": -81.6219
+  },
+  {
+    "id": "VH-0055",
+    "plate": "BGQ-4167",
+    "driver": "David Larsen",
+    "status": "Loading",
+    "location": "Cincinnati, OH",
+    "lat": 39.2847,
+    "lng": -84.2187
+  },
+  {
+    "id": "VH-0056",
+    "plate": "GXX-9221",
+    "driver": "Daniel Murphy",
+    "status": "In transit",
+    "location": "Louisville, KY",
+    "lat": 38.4718,
+    "lng": -85.9515
+  },
+  {
+    "id": "VH-0057",
+    "plate": "ZKN-4283",
+    "driver": "Laura Schmidt",
+    "status": "Idle",
+    "location": "Des Moines, IA",
+    "lat": 41.7766,
+    "lng": -93.7042
+  },
+  {
+    "id": "VH-0058",
+    "plate": "EPH-6081",
+    "driver": "Omar Hughes",
+    "status": "In transit",
+    "location": "St. Louis, MO",
+    "lat": 38.9126,
+    "lng": -90.0242
+  },
+  {
+    "id": "VH-0059",
+    "plate": "GXW-9094",
+    "driver": "Robert Reyes",
+    "status": "Loading",
+    "location": "Cleveland, OH",
+    "lat": 41.4863,
+    "lng": -81.5402
+  },
+  {
+    "id": "VH-0060",
+    "plate": "GCY-6387",
+    "driver": "Linda Johnson",
+    "status": "Delayed",
+    "location": "St. Louis, MO",
+    "lat": 38.4295,
+    "lng": -90.3902
+  },
+  {
+    "id": "VH-0061",
+    "plate": "FYB-7360",
+    "driver": "Priya Brooks",
+    "status": "Maintenance",
+    "location": "Toledo, OH",
+    "lat": 41.6877,
+    "lng": -83.6353
+  },
+  {
+    "id": "VH-0062",
+    "plate": "ZMJ-7290",
+    "driver": "Maria Patel",
+    "status": "In transit",
+    "location": "Fort Wayne, IN",
+    "lat": 41.1296,
+    "lng": -84.8734
+  },
+  {
+    "id": "VH-0063",
+    "plate": "MPL-2978",
+    "driver": "Nicole Walker",
+    "status": "In transit",
+    "location": "Milwaukee, WI",
+    "lat": 42.8216,
+    "lng": -87.6842
+  },
+  {
+    "id": "VH-0064",
+    "plate": "UJF-2839",
+    "driver": "Hannah Walker",
+    "status": "In transit",
+    "location": "Detroit, MI",
+    "lat": 42.1408,
+    "lng": -83.2127
+  },
+  {
+    "id": "VH-0065",
+    "plate": "GNB-3596",
+    "driver": "Derek Nguyen",
+    "status": "Maintenance",
+    "location": "Chicago, IL",
+    "lat": 41.9923,
+    "lng": -87.5975
+  },
+  {
+    "id": "VH-0066",
+    "plate": "VYS-5369",
+    "driver": "Kevin Davis",
+    "status": "In transit",
+    "location": "Minneapolis, MN",
+    "lat": 44.8224,
+    "lng": -93.4739
+  },
+  {
+    "id": "VH-0067",
+    "plate": "ZDL-8064",
+    "driver": "Megan Hansen",
+    "status": "In transit",
+    "location": "Madison, WI",
+    "lat": 42.9546,
+    "lng": -89.2014
+  },
+  {
+    "id": "VH-0068",
+    "plate": "KHA-3402",
+    "driver": "Omar Reyes",
+    "status": "In transit",
+    "location": "Fort Wayne, IN",
+    "lat": 41.2709,
+    "lng": -85.0288
+  },
+  {
+    "id": "VH-0069",
+    "plate": "VHC-9937",
+    "driver": "Priya Davis",
+    "status": "Delayed",
+    "location": "Toledo, OH",
+    "lat": 41.8742,
+    "lng": -83.3542
+  },
+  {
+    "id": "VH-0070",
+    "plate": "SMC-4647",
+    "driver": "Grace Hansen",
+    "status": "Delayed",
+    "location": "Milwaukee, WI",
+    "lat": 43.2452,
+    "lng": -87.6737
+  },
+  {
+    "id": "VH-0071",
+    "plate": "BHM-0846",
+    "driver": "Carlos Martinez",
+    "status": "In transit",
+    "location": "Omaha, NE",
+    "lat": 41.3457,
+    "lng": -95.8765
+  },
+  {
+    "id": "VH-0072",
+    "plate": "MWA-3314",
+    "driver": "Robert Murphy",
+    "status": "In transit",
+    "location": "Chicago, IL",
+    "lat": 41.8048,
+    "lng": -87.685
+  },
+  {
+    "id": "VH-0073",
+    "plate": "CUA-2302",
+    "driver": "Grace Walker",
+    "status": "Delayed",
+    "location": "Chicago, IL",
+    "lat": 41.8843,
+    "lng": -87.4223
+  },
+  {
+    "id": "VH-0074",
+    "plate": "VSF-0382",
+    "driver": "Robert Martinez",
+    "status": "Maintenance",
+    "location": "Omaha, NE",
+    "lat": 41.3155,
+    "lng": -96.1006
+  },
+  {
+    "id": "VH-0075",
+    "plate": "MEQ-8754",
+    "driver": "Brian Mitchell",
+    "status": "Delayed",
+    "location": "Kansas City, MO",
+    "lat": 39.1332,
+    "lng": -94.527
+  },
+  {
+    "id": "VH-0076",
+    "plate": "JRC-3889",
+    "driver": "Victor Kowalski",
+    "status": "In transit",
+    "location": "Indianapolis, IN",
+    "lat": 39.7964,
+    "lng": -86.3493
+  },
+  {
+    "id": "VH-0077",
+    "plate": "THR-9499",
+    "driver": "Patricia Bennett",
+    "status": "Maintenance",
+    "location": "Madison, WI",
+    "lat": 43.2638,
+    "lng": -89.3393
+  },
+  {
+    "id": "VH-0078",
+    "plate": "DWW-8318",
+    "driver": "Maria Davis",
+    "status": "In transit",
+    "location": "Columbus, OH",
+    "lat": 40.1112,
+    "lng": -82.9017
+  },
+  {
+    "id": "VH-0079",
+    "plate": "ZVR-3266",
+    "driver": "Victor Nguyen",
+    "status": "Delayed",
+    "location": "Milwaukee, WI",
+    "lat": 43.299,
+    "lng": -87.8289
+  },
+  {
+    "id": "VH-0080",
+    "plate": "RGJ-5848",
+    "driver": "Megan Torres",
+    "status": "Maintenance",
+    "location": "Louisville, KY",
+    "lat": 38.399,
+    "lng": -85.6379
+  },
+  {
+    "id": "VH-0081",
+    "plate": "VAF-4642",
+    "driver": "Carlos Nguyen",
+    "status": "Delayed",
+    "location": "Chicago, IL",
+    "lat": 42.1604,
+    "lng": -87.7735
+  },
+  {
+    "id": "VH-0082",
+    "plate": "YHT-4919",
+    "driver": "Priya Rivera",
+    "status": "In transit",
+    "location": "Milwaukee, WI",
+    "lat": 43.2096,
+    "lng": -87.7129
+  },
+  {
+    "id": "VH-0083",
+    "plate": "ZYZ-4649",
+    "driver": "Victor Kowalski",
+    "status": "Idle",
+    "location": "Des Moines, IA",
+    "lat": 41.6967,
+    "lng": -93.4628
+  },
+  {
+    "id": "VH-0084",
+    "plate": "GWR-2278",
+    "driver": "Maria Rivera",
+    "status": "In transit",
+    "location": "St. Louis, MO",
+    "lat": 38.8373,
+    "lng": -90.2378
+  },
+  {
+    "id": "VH-0085",
+    "plate": "EHH-5150",
+    "driver": "Susan Murphy",
+    "status": "In transit",
+    "location": "Minneapolis, MN",
+    "lat": 44.8209,
+    "lng": -93.0177
+  },
+  {
+    "id": "VH-0086",
+    "plate": "NVJ-0696",
+    "driver": "Omar Murphy",
+    "status": "Maintenance",
+    "location": "Columbus, OH",
+    "lat": 39.8847,
+    "lng": -83.1219
+  },
+  {
+    "id": "VH-0087",
+    "plate": "HXL-2701",
+    "driver": "Jennifer Fischer",
+    "status": "In transit",
+    "location": "Des Moines, IA",
+    "lat": 41.5687,
+    "lng": -93.3274
+  },
+  {
+    "id": "VH-0088",
+    "plate": "RVX-6771",
+    "driver": "Victor Davis",
+    "status": "In transit",
+    "location": "Kansas City, MO",
+    "lat": 38.9627,
+    "lng": -94.3927
+  },
+  {
+    "id": "VH-0089",
+    "plate": "GHB-3722",
+    "driver": "Marcus Olson",
+    "status": "Delayed",
+    "location": "Cleveland, OH",
+    "lat": 41.4272,
+    "lng": -81.7083
+  },
+  {
+    "id": "VH-0090",
+    "plate": "AHN-7439",
+    "driver": "Samuel Anderson",
+    "status": "Loading",
+    "location": "Fort Wayne, IN",
+    "lat": 41.1537,
+    "lng": -85.391
+  },
+  {
+    "id": "VH-0091",
+    "plate": "CEW-2855",
+    "driver": "Angela Miller",
+    "status": "In transit",
+    "location": "Toledo, OH",
+    "lat": 41.908,
+    "lng": -83.5581
+  },
+  {
+    "id": "VH-0092",
+    "plate": "CUG-8072",
+    "driver": "Kevin Carter",
+    "status": "In transit",
+    "location": "Indianapolis, IN",
+    "lat": 39.6726,
+    "lng": -86.3579
+  },
+  {
+    "id": "VH-0093",
+    "plate": "BYU-7308",
+    "driver": "Jennifer Kowalski",
+    "status": "Idle",
+    "location": "Fort Wayne, IN",
+    "lat": 41.371,
+    "lng": -85.2462
+  },
+  {
+    "id": "VH-0094",
+    "plate": "CSL-0737",
+    "driver": "Anthony Foster",
+    "status": "Loading",
+    "location": "Cincinnati, OH",
+    "lat": 38.8428,
+    "lng": -84.2113
+  },
+  {
+    "id": "VH-0095",
+    "plate": "FAZ-3040",
+    "driver": "David Reyes",
+    "status": "Maintenance",
+    "location": "Des Moines, IA",
+    "lat": 41.3294,
+    "lng": -93.6515
+  },
+  {
+    "id": "VH-0096",
+    "plate": "HLP-0781",
+    "driver": "Tyrone Johnson",
+    "status": "In transit",
+    "location": "Cleveland, OH",
+    "lat": 41.7222,
+    "lng": -81.8316
+  },
+  {
+    "id": "VH-0097",
+    "plate": "LKC-6946",
+    "driver": "Derek Martinez",
+    "status": "Idle",
+    "location": "Kansas City, MO",
+    "lat": 39.285,
+    "lng": -94.5358
+  },
+  {
+    "id": "VH-0098",
+    "plate": "CEA-7512",
+    "driver": "Linda Brooks",
+    "status": "Loading",
+    "location": "Omaha, NE",
+    "lat": 41.0446,
+    "lng": -95.9608
+  },
+  {
+    "id": "VH-0099",
+    "plate": "MMQ-3475",
+    "driver": "Laura Anderson",
+    "status": "In transit",
+    "location": "Des Moines, IA",
+    "lat": 41.7727,
+    "lng": -93.545
+  },
+  {
+    "id": "VH-0100",
+    "plate": "UJF-6287",
+    "driver": "Michael Williams",
+    "status": "In transit",
+    "location": "Cleveland, OH",
+    "lat": 41.6413,
+    "lng": -81.8002
+  },
+  {
+    "id": "VH-0101",
+    "plate": "XKQ-9635",
+    "driver": "Rachel Williams",
+    "status": "Delayed",
+    "location": "Detroit, MI",
+    "lat": 42.4193,
+    "lng": -82.8172
+  },
+  {
+    "id": "VH-0102",
+    "plate": "GPR-9167",
+    "driver": "Nicole Rivera",
+    "status": "Delayed",
+    "location": "Milwaukee, WI",
+    "lat": 42.78,
+    "lng": -88.1955
+  },
+  {
+    "id": "VH-0103",
+    "plate": "DNL-1318",
+    "driver": "James Mitchell",
+    "status": "In transit",
+    "location": "Minneapolis, MN",
+    "lat": 44.696,
+    "lng": -93.5071
+  },
+  {
+    "id": "VH-0104",
+    "plate": "FEQ-2775",
+    "driver": "Hannah Fischer",
+    "status": "In transit",
+    "location": "Omaha, NE",
+    "lat": 41.5453,
+    "lng": -95.7382
+  },
+  {
+    "id": "VH-0105",
+    "plate": "ARH-4050",
+    "driver": "Susan Fischer",
+    "status": "Maintenance",
+    "location": "Indianapolis, IN",
+    "lat": 39.6542,
+    "lng": -86.0785
+  },
+  {
+    "id": "VH-0106",
+    "plate": "HDG-1792",
+    "driver": "Susan Reyes",
+    "status": "Idle",
+    "location": "Cincinnati, OH",
+    "lat": 39.2467,
+    "lng": -84.6894
+  },
+  {
+    "id": "VH-0107",
+    "plate": "FSB-4742",
+    "driver": "Megan Murphy",
+    "status": "In transit",
+    "location": "Toledo, OH",
+    "lat": 41.5338,
+    "lng": -83.3659
+  },
+  {
+    "id": "VH-0108",
+    "plate": "HKR-4781",
+    "driver": "Derek Schmidt",
+    "status": "Loading",
+    "location": "Des Moines, IA",
+    "lat": 41.4015,
+    "lng": -93.5453
+  },
+  {
+    "id": "VH-0109",
+    "plate": "KTX-5321",
+    "driver": "Kevin Murphy",
+    "status": "In transit",
+    "location": "Madison, WI",
+    "lat": 42.8209,
+    "lng": -89.5685
+  },
+  {
+    "id": "VH-0110",
+    "plate": "SUR-4810",
+    "driver": "James Williams",
+    "status": "In transit",
+    "location": "Chicago, IL",
+    "lat": 41.981,
+    "lng": -87.894
+  },
+  {
+    "id": "VH-0111",
+    "plate": "QKT-4205",
+    "driver": "Tyrone Nowak",
+    "status": "Idle",
+    "location": "Minneapolis, MN",
+    "lat": 45.0232,
+    "lng": -93.1251
+  },
+  {
+    "id": "VH-0112",
+    "plate": "TLH-7767",
+    "driver": "Derek Nguyen",
+    "status": "In transit",
+    "location": "Indianapolis, IN",
+    "lat": 39.9838,
+    "lng": -86.1755
+  },
+  {
+    "id": "VH-0113",
+    "plate": "LBV-1191",
+    "driver": "David Patel",
+    "status": "Idle",
+    "location": "St. Louis, MO",
+    "lat": 38.6818,
+    "lng": -90.3994
+  },
+  {
+    "id": "VH-0114",
+    "plate": "SDB-2292",
+    "driver": "Hannah Hughes",
+    "status": "Loading",
+    "location": "Fort Wayne, IN",
+    "lat": 41.3509,
+    "lng": -85.1186
+  },
+  {
+    "id": "VH-0115",
+    "plate": "KSD-0624",
+    "driver": "Laura Brown",
+    "status": "In transit",
+    "location": "Chicago, IL",
+    "lat": 42.0273,
+    "lng": -87.6902
+  },
+  {
+    "id": "VH-0116",
+    "plate": "LXS-6675",
+    "driver": "Victor Brown",
+    "status": "In transit",
+    "location": "Minneapolis, MN",
+    "lat": 44.7453,
+    "lng": -93.5142
+  },
+  {
+    "id": "VH-0117",
+    "plate": "DMT-9948",
+    "driver": "Laura Anderson",
+    "status": "In transit",
+    "location": "Fort Wayne, IN",
+    "lat": 41.1703,
+    "lng": -85.3052
+  },
+  {
+    "id": "VH-0118",
+    "plate": "AJX-2281",
+    "driver": "Omar Williams",
+    "status": "Maintenance",
+    "location": "Kansas City, MO",
+    "lat": 38.9103,
+    "lng": -94.5966
+  },
+  {
+    "id": "VH-0119",
+    "plate": "ULN-8323",
+    "driver": "Hannah Nguyen",
+    "status": "In transit",
+    "location": "Columbus, OH",
+    "lat": 39.9487,
+    "lng": -82.7458
+  },
+  {
+    "id": "VH-0120",
+    "plate": "NUS-9164",
+    "driver": "Carlos Sullivan",
+    "status": "Maintenance",
+    "location": "Cincinnati, OH",
+    "lat": 39.0419,
+    "lng": -84.5944
+  },
+  {
+    "id": "VH-0121",
+    "plate": "PJK-2007",
+    "driver": "Tyrone Davis",
+    "status": "Idle",
+    "location": "St. Louis, MO",
+    "lat": 38.5507,
+    "lng": -90.364
+  },
+  {
+    "id": "VH-0122",
+    "plate": "HJY-4233",
+    "driver": "Robert Larsen",
+    "status": "Delayed",
+    "location": "Minneapolis, MN",
+    "lat": 44.9365,
+    "lng": -93.3522
+  },
+  {
+    "id": "VH-0123",
+    "plate": "QVE-1290",
+    "driver": "Grace Sullivan",
+    "status": "Loading",
+    "location": "Cleveland, OH",
+    "lat": 41.6051,
+    "lng": -81.8395
+  },
+  {
+    "id": "VH-0124",
+    "plate": "ZRG-3402",
+    "driver": "Angela Olson",
+    "status": "Idle",
+    "location": "Cleveland, OH",
+    "lat": 41.2837,
+    "lng": -81.5565
+  },
+  {
+    "id": "VH-0125",
+    "plate": "NUW-8397",
+    "driver": "Omar Nguyen",
+    "status": "Loading",
+    "location": "Fort Wayne, IN",
+    "lat": 41.1756,
+    "lng": -85.3238
+  },
+  {
+    "id": "VH-0126",
+    "plate": "JHR-7683",
+    "driver": "Derek Brown",
+    "status": "Delayed",
+    "location": "Columbus, OH",
+    "lat": 40.2234,
+    "lng": -83.0878
+  },
+  {
+    "id": "VH-0127",
+    "plate": "JGR-9787",
+    "driver": "Susan Carter",
+    "status": "Idle",
+    "location": "Cincinnati, OH",
+    "lat": 38.92,
+    "lng": -84.3748
+  },
+  {
+    "id": "VH-0128",
+    "plate": "KYQ-2409",
+    "driver": "Tyrone Torres",
+    "status": "In transit",
+    "location": "Louisville, KY",
+    "lat": 38.2846,
+    "lng": -85.9977
+  },
+  {
+    "id": "VH-0129",
+    "plate": "TNW-6715",
+    "driver": "Maria Anderson",
+    "status": "In transit",
+    "location": "Kansas City, MO",
+    "lat": 38.8828,
+    "lng": -94.6539
+  },
+  {
+    "id": "VH-0130",
+    "plate": "DCL-4467",
+    "driver": "Grace Carter",
+    "status": "Delayed",
+    "location": "Columbus, OH",
+    "lat": 40.2014,
+    "lng": -83.2726
+  },
+  {
+    "id": "VH-0131",
+    "plate": "YML-8847",
+    "driver": "Carlos Hughes",
+    "status": "Delayed",
+    "location": "Minneapolis, MN",
+    "lat": 45.1406,
+    "lng": -93.402
+  },
+  {
+    "id": "VH-0132",
+    "plate": "WTW-7579",
+    "driver": "Hannah Johnson",
+    "status": "Maintenance",
+    "location": "Cincinnati, OH",
+    "lat": 39.3111,
+    "lng": -84.5869
+  },
+  {
+    "id": "VH-0133",
+    "plate": "BKB-9874",
+    "driver": "Anthony Miller",
+    "status": "Idle",
+    "location": "Fort Wayne, IN",
+    "lat": 41.1641,
+    "lng": -85.338
+  },
+  {
+    "id": "VH-0134",
+    "plate": "DYS-7727",
+    "driver": "Nicole Nguyen",
+    "status": "Maintenance",
+    "location": "Indianapolis, IN",
+    "lat": 39.5494,
+    "lng": -86.3755
+  },
+  {
+    "id": "VH-0135",
+    "plate": "YAJ-4869",
+    "driver": "Rachel Kowalski",
+    "status": "In transit",
+    "location": "Omaha, NE",
+    "lat": 41.393,
+    "lng": -96.1997
+  },
+  {
+    "id": "VH-0136",
+    "plate": "JZG-2557",
+    "driver": "Anthony Williams",
+    "status": "Idle",
+    "location": "Minneapolis, MN",
+    "lat": 44.7793,
+    "lng": -93.0378
+  },
+  {
+    "id": "VH-0137",
+    "plate": "BHB-6082",
+    "driver": "Olivia Martinez",
+    "status": "In transit",
+    "location": "Columbus, OH",
+    "lat": 39.7523,
+    "lng": -83.2721
+  },
+  {
+    "id": "VH-0138",
+    "plate": "KYZ-9820",
+    "driver": "Robert Brooks",
+    "status": "Idle",
+    "location": "Minneapolis, MN",
+    "lat": 44.8002,
+    "lng": -93.3198
+  },
+  {
+    "id": "VH-0139",
+    "plate": "QEF-7792",
+    "driver": "Linda Torres",
+    "status": "Delayed",
+    "location": "Fort Wayne, IN",
+    "lat": 41.3316,
+    "lng": -84.9379
+  },
+  {
+    "id": "VH-0140",
+    "plate": "JXC-9786",
+    "driver": "Megan Mitchell",
+    "status": "Idle",
+    "location": "Des Moines, IA",
+    "lat": 41.7691,
+    "lng": -93.6925
+  },
+  {
+    "id": "VH-0141",
+    "plate": "JER-5939",
+    "driver": "Tyrone Johnson",
+    "status": "Idle",
+    "location": "Minneapolis, MN",
+    "lat": 45.047,
+    "lng": -93.3286
+  },
+  {
+    "id": "VH-0142",
+    "plate": "XXH-5837",
+    "driver": "Olivia Anderson",
+    "status": "Maintenance",
+    "location": "Detroit, MI",
+    "lat": 42.3299,
+    "lng": -83.1093
+  },
+  {
+    "id": "VH-0143",
+    "plate": "PLG-6837",
+    "driver": "Rachel Coleman",
+    "status": "Idle",
+    "location": "Columbus, OH",
+    "lat": 39.9643,
+    "lng": -82.9247
+  },
+  {
+    "id": "VH-0144",
+    "plate": "DTP-6884",
+    "driver": "Derek Patel",
+    "status": "Loading",
+    "location": "Des Moines, IA",
+    "lat": 41.5546,
+    "lng": -93.8323
+  },
+  {
+    "id": "VH-0145",
+    "plate": "XZR-6660",
+    "driver": "Robert Miller",
+    "status": "Idle",
+    "location": "Cincinnati, OH",
+    "lat": 39.333,
+    "lng": -84.5049
+  },
+  {
+    "id": "VH-0146",
+    "plate": "ZFZ-6017",
+    "driver": "Nicole Hughes",
+    "status": "Loading",
+    "location": "St. Louis, MO",
+    "lat": 38.5976,
+    "lng": -90.4311
+  },
+  {
+    "id": "VH-0147",
+    "plate": "RBM-8899",
+    "driver": "Brian Walker",
+    "status": "In transit",
+    "location": "Detroit, MI",
+    "lat": 42.3304,
+    "lng": -82.9813
+  },
+  {
+    "id": "VH-0148",
+    "plate": "VBD-6753",
+    "driver": "Omar Torres",
+    "status": "In transit",
+    "location": "Madison, WI",
+    "lat": 43.3048,
+    "lng": -89.6741
+  },
+  {
+    "id": "VH-0149",
+    "plate": "KXJ-2767",
+    "driver": "Michael Williams",
+    "status": "In transit",
+    "location": "Minneapolis, MN",
+    "lat": 44.8799,
+    "lng": -93.5144
+  },
+  {
+    "id": "VH-0150",
+    "plate": "DSZ-3496",
+    "driver": "Jennifer Nowak",
+    "status": "Maintenance",
+    "location": "Toledo, OH",
+    "lat": 41.792,
+    "lng": -83.4625
+  },
+  {
+    "id": "VH-0151",
+    "plate": "RUQ-2075",
+    "driver": "Anthony Hansen",
+    "status": "In transit",
+    "location": "Fort Wayne, IN",
+    "lat": 40.8025,
+    "lng": -85.0701
+  },
+  {
+    "id": "VH-0152",
+    "plate": "TZQ-0282",
+    "driver": "Megan Hughes",
+    "status": "Loading",
+    "location": "Madison, WI",
+    "lat": 43.0187,
+    "lng": -89.5096
+  },
+  {
+    "id": "VH-0153",
+    "plate": "YHY-4840",
+    "driver": "Victor Mitchell",
+    "status": "In transit",
+    "location": "Toledo, OH",
+    "lat": 41.6507,
+    "lng": -83.6636
+  },
+  {
+    "id": "VH-0154",
+    "plate": "ZZD-8696",
+    "driver": "Brian Nowak",
+    "status": "In transit",
+    "location": "Louisville, KY",
+    "lat": 38.1471,
+    "lng": -85.6162
+  },
+  {
+    "id": "VH-0155",
+    "plate": "TSP-8705",
+    "driver": "Olivia Kowalski",
+    "status": "In transit",
+    "location": "Des Moines, IA",
+    "lat": 41.5306,
+    "lng": -93.5208
+  },
+  {
+    "id": "VH-0156",
+    "plate": "MKU-6167",
+    "driver": "Brian Patel",
+    "status": "In transit",
+    "location": "Minneapolis, MN",
+    "lat": 44.9264,
+    "lng": -93.0361
+  },
+  {
+    "id": "VH-0157",
+    "plate": "LCY-8169",
+    "driver": "Robert Hughes",
+    "status": "In transit",
+    "location": "Detroit, MI",
+    "lat": 42.4946,
+    "lng": -82.9218
+  },
+  {
+    "id": "VH-0158",
+    "plate": "YFJ-8653",
+    "driver": "Teresa Larsen",
+    "status": "In transit",
+    "location": "Des Moines, IA",
+    "lat": 41.6346,
+    "lng": -93.6241
+  },
+  {
+    "id": "VH-0159",
+    "plate": "TRT-0434",
+    "driver": "David Brooks",
+    "status": "In transit",
+    "location": "Kansas City, MO",
+    "lat": 38.9714,
+    "lng": -94.7932
+  },
+  {
+    "id": "VH-0160",
+    "plate": "AVJ-2939",
+    "driver": "Olivia Coleman",
+    "status": "Idle",
+    "location": "Des Moines, IA",
+    "lat": 41.6155,
+    "lng": -93.4981
+  },
+  {
+    "id": "VH-0161",
+    "plate": "DWD-6602",
+    "driver": "Megan Larsen",
+    "status": "Delayed",
+    "location": "Fort Wayne, IN",
+    "lat": 41.0938,
+    "lng": -85.0993
+  },
+  {
+    "id": "VH-0162",
+    "plate": "TLM-2285",
+    "driver": "David Rivera",
+    "status": "In transit",
+    "location": "Columbus, OH",
+    "lat": 39.7308,
+    "lng": -82.984
+  },
+  {
+    "id": "VH-0163",
+    "plate": "AWA-5414",
+    "driver": "James Thompson",
+    "status": "Loading",
+    "location": "Milwaukee, WI",
+    "lat": 43.2293,
+    "lng": -87.7054
+  },
+  {
+    "id": "VH-0164",
+    "plate": "JDB-4902",
+    "driver": "Kevin Fischer",
+    "status": "In transit",
+    "location": "Madison, WI",
+    "lat": 42.8503,
+    "lng": -89.5434
+  },
+  {
+    "id": "VH-0165",
+    "plate": "YYX-1014",
+    "driver": "Grace Torres",
+    "status": "In transit",
+    "location": "Columbus, OH",
+    "lat": 39.6989,
+    "lng": -83.1078
+  },
+  {
+    "id": "VH-0166",
+    "plate": "EDY-1050",
+    "driver": "Victor Nguyen",
+    "status": "In transit",
+    "location": "St. Louis, MO",
+    "lat": 38.5788,
+    "lng": -90.4656
+  },
+  {
+    "id": "VH-0167",
+    "plate": "EKH-3243",
+    "driver": "Priya Williams",
+    "status": "In transit",
+    "location": "Madison, WI",
+    "lat": 42.8408,
+    "lng": -89.3105
+  },
+  {
+    "id": "VH-0168",
+    "plate": "HQS-3112",
+    "driver": "Anthony Brown",
+    "status": "Idle",
+    "location": "Des Moines, IA",
+    "lat": 41.4039,
+    "lng": -93.3493
+  },
+  {
+    "id": "VH-0169",
+    "plate": "XBK-0899",
+    "driver": "Robert Murphy",
+    "status": "In transit",
+    "location": "Chicago, IL",
+    "lat": 42.0906,
+    "lng": -87.5329
+  },
+  {
+    "id": "VH-0170",
+    "plate": "AWN-1897",
+    "driver": "Victor Kowalski",
+    "status": "In transit",
+    "location": "Cleveland, OH",
+    "lat": 41.7633,
+    "lng": -81.934
+  },
+  {
+    "id": "VH-0171",
+    "plate": "WWX-9937",
+    "driver": "Patricia Miller",
+    "status": "Delayed",
+    "location": "Cleveland, OH",
+    "lat": 41.4272,
+    "lng": -81.5314
+  },
+  {
+    "id": "VH-0172",
+    "plate": "BUZ-7514",
+    "driver": "Daniel Sullivan",
+    "status": "Maintenance",
+    "location": "Kansas City, MO",
+    "lat": 39.2558,
+    "lng": -94.3622
+  },
+  {
+    "id": "VH-0173",
+    "plate": "BKT-5992",
+    "driver": "Maria Patel",
+    "status": "Idle",
+    "location": "Milwaukee, WI",
+    "lat": 43.2201,
+    "lng": -88.1001
+  },
+  {
+    "id": "VH-0174",
+    "plate": "XCW-2496",
+    "driver": "Marcus Mitchell",
+    "status": "In transit",
+    "location": "Kansas City, MO",
+    "lat": 38.8305,
+    "lng": -94.4977
+  },
+  {
+    "id": "VH-0175",
+    "plate": "KDA-1311",
+    "driver": "Priya Coleman",
+    "status": "Idle",
+    "location": "Madison, WI",
+    "lat": 43.0429,
+    "lng": -89.2086
+  },
+  {
+    "id": "VH-0176",
+    "plate": "XMD-9460",
+    "driver": "Grace Anderson",
+    "status": "In transit",
+    "location": "Des Moines, IA",
+    "lat": 41.5956,
+    "lng": -93.4477
+  },
+  {
+    "id": "VH-0177",
+    "plate": "MSH-2866",
+    "driver": "Grace Olson",
+    "status": "Delayed",
+    "location": "St. Louis, MO",
+    "lat": 38.4032,
+    "lng": -90.2692
+  },
+  {
+    "id": "VH-0178",
+    "plate": "AHF-4507",
+    "driver": "Kevin Patel",
+    "status": "Delayed",
+    "location": "Toledo, OH",
+    "lat": 41.8929,
+    "lng": -83.8163
+  },
+  {
+    "id": "VH-0179",
+    "plate": "EFP-7090",
+    "driver": "Tyrone Coleman",
+    "status": "In transit",
+    "location": "Omaha, NE",
+    "lat": 41.3319,
+    "lng": -96.205
+  },
+  {
+    "id": "VH-0180",
+    "plate": "GSB-1288",
+    "driver": "James Mitchell",
+    "status": "In transit",
+    "location": "Chicago, IL",
+    "lat": 41.6816,
+    "lng": -87.5379
+  },
+  {
+    "id": "VH-0181",
+    "plate": "FCW-3474",
+    "driver": "Victor Davis",
+    "status": "In transit",
+    "location": "Detroit, MI",
+    "lat": 42.2387,
+    "lng": -83.0119
+  },
+  {
+    "id": "VH-0182",
+    "plate": "CMS-4647",
+    "driver": "Megan Carter",
+    "status": "Delayed",
+    "location": "Des Moines, IA",
+    "lat": 41.2902,
+    "lng": -93.7757
+  },
+  {
+    "id": "VH-0183",
+    "plate": "PCX-3197",
+    "driver": "Hannah Johnson",
+    "status": "Loading",
+    "location": "Kansas City, MO",
+    "lat": 39.1246,
+    "lng": -94.8026
+  },
+  {
+    "id": "VH-0184",
+    "plate": "DQZ-0571",
+    "driver": "Olivia Hansen",
+    "status": "In transit",
+    "location": "Milwaukee, WI",
+    "lat": 43.3245,
+    "lng": -87.7243
+  },
+  {
+    "id": "VH-0185",
+    "plate": "FMF-0111",
+    "driver": "Anthony Martinez",
+    "status": "Idle",
+    "location": "Des Moines, IA",
+    "lat": 41.3514,
+    "lng": -93.3466
+  },
+  {
+    "id": "VH-0186",
+    "plate": "YFP-0442",
+    "driver": "Jennifer Miller",
+    "status": "In transit",
+    "location": "Chicago, IL",
+    "lat": 41.7531,
+    "lng": -87.8954
+  },
+  {
+    "id": "VH-0187",
+    "plate": "VPN-3959",
+    "driver": "Jennifer Anderson",
+    "status": "In transit",
+    "location": "Cincinnati, OH",
+    "lat": 38.9842,
+    "lng": -84.7524
+  },
+  {
+    "id": "VH-0188",
+    "plate": "VKJ-3054",
+    "driver": "Megan Schmidt",
+    "status": "Idle",
+    "location": "Minneapolis, MN",
+    "lat": 44.7548,
+    "lng": -93.4348
+  },
+  {
+    "id": "VH-0189",
+    "plate": "YZF-6901",
+    "driver": "Brian Hansen",
+    "status": "Delayed",
+    "location": "Milwaukee, WI",
+    "lat": 42.9964,
+    "lng": -87.963
+  },
+  {
+    "id": "VH-0190",
+    "plate": "WWQ-9404",
+    "driver": "Tyrone Williams",
+    "status": "In transit",
+    "location": "Toledo, OH",
+    "lat": 41.527,
+    "lng": -83.3611
+  },
+  {
+    "id": "VH-0191",
+    "plate": "LCD-4927",
+    "driver": "Samuel Murphy",
+    "status": "In transit",
+    "location": "Cincinnati, OH",
+    "lat": 39.2778,
+    "lng": -84.2157
+  },
+  {
+    "id": "VH-0192",
+    "plate": "FMH-3062",
+    "driver": "Laura Anderson",
+    "status": "In transit",
+    "location": "Cleveland, OH",
+    "lat": 41.7035,
+    "lng": -81.5139
+  },
+  {
+    "id": "VH-0193",
+    "plate": "CYK-8700",
+    "driver": "Rachel Larsen",
+    "status": "Loading",
+    "location": "Indianapolis, IN",
+    "lat": 39.9892,
+    "lng": -86.0671
+  },
+  {
+    "id": "VH-0194",
+    "plate": "UVV-1895",
+    "driver": "Teresa Nguyen",
+    "status": "In transit",
+    "location": "Kansas City, MO",
+    "lat": 39.3677,
+    "lng": -94.7817
+  },
+  {
+    "id": "VH-0195",
+    "plate": "GLT-4761",
+    "driver": "James Reyes",
+    "status": "In transit",
+    "location": "Toledo, OH",
+    "lat": 41.4386,
+    "lng": -83.2583
+  },
+  {
+    "id": "VH-0196",
+    "plate": "HVD-8148",
+    "driver": "Derek Williams",
+    "status": "In transit",
+    "location": "Fort Wayne, IN",
+    "lat": 40.8881,
+    "lng": -84.8483
+  },
+  {
+    "id": "VH-0197",
+    "plate": "JPA-0861",
+    "driver": "Jennifer Sullivan",
+    "status": "Idle",
+    "location": "Des Moines, IA",
+    "lat": 41.8214,
+    "lng": -93.4634
+  },
+  {
+    "id": "VH-0198",
+    "plate": "FFD-2664",
+    "driver": "Laura Brown",
+    "status": "In transit",
+    "location": "St. Louis, MO",
+    "lat": 38.3825,
+    "lng": -89.9626
+  },
+  {
+    "id": "VH-0199",
+    "plate": "JNP-3956",
+    "driver": "Laura Hansen",
+    "status": "In transit",
+    "location": "Detroit, MI",
+    "lat": 42.5175,
+    "lng": -83.0648
+  },
+  {
+    "id": "VH-0200",
+    "plate": "VWK-9626",
+    "driver": "Omar Schmidt",
+    "status": "In transit",
+    "location": "Toledo, OH",
+    "lat": 41.9336,
+    "lng": -83.4065
+  },
+  {
+    "id": "VH-0201",
+    "plate": "DVL-4956",
+    "driver": "Hannah Thompson",
+    "status": "In transit",
+    "location": "Cleveland, OH",
+    "lat": 41.6923,
+    "lng": -81.6247
+  },
+  {
+    "id": "VH-0202",
+    "plate": "MDT-2825",
+    "driver": "James Reyes",
+    "status": "In transit",
+    "location": "Cleveland, OH",
+    "lat": 41.6249,
+    "lng": -81.4459
+  },
+  {
+    "id": "VH-0203",
+    "plate": "WAD-3487",
+    "driver": "Tyrone Thompson",
+    "status": "In transit",
+    "location": "Indianapolis, IN",
+    "lat": 40.0197,
+    "lng": -86.2319
+  },
+  {
+    "id": "VH-0204",
+    "plate": "CPJ-3540",
+    "driver": "Linda Reyes",
+    "status": "In transit",
+    "location": "Cleveland, OH",
+    "lat": 41.2971,
+    "lng": -81.9658
+  },
+  {
+    "id": "VH-0205",
+    "plate": "AKJ-1657",
+    "driver": "Samuel Hughes",
+    "status": "In transit",
+    "location": "Cleveland, OH",
+    "lat": 41.6841,
+    "lng": -81.8107
+  },
+  {
+    "id": "VH-0206",
+    "plate": "RSA-3963",
+    "driver": "Rachel Brown",
+    "status": "In transit",
+    "location": "Chicago, IL",
+    "lat": 41.5855,
+    "lng": -87.5812
+  },
+  {
+    "id": "VH-0207",
+    "plate": "SSF-3660",
+    "driver": "Omar Hughes",
+    "status": "Loading",
+    "location": "Madison, WI",
+    "lat": 42.8704,
+    "lng": -89.3962
+  },
+  {
+    "id": "VH-0208",
+    "plate": "DKN-4068",
+    "driver": "Olivia Anderson",
+    "status": "Maintenance",
+    "location": "Minneapolis, MN",
+    "lat": 45.1869,
+    "lng": -93.3555
+  },
+  {
+    "id": "VH-0209",
+    "plate": "VYV-4924",
+    "driver": "Michael Hansen",
+    "status": "In transit",
+    "location": "Minneapolis, MN",
+    "lat": 45.0126,
+    "lng": -93.0983
+  },
+  {
+    "id": "VH-0210",
+    "plate": "LCA-8756",
+    "driver": "Teresa Mitchell",
+    "status": "In transit",
+    "location": "Chicago, IL",
+    "lat": 41.7565,
+    "lng": -87.6734
+  },
+  {
+    "id": "VH-0211",
+    "plate": "UEF-4700",
+    "driver": "Rachel Hughes",
+    "status": "Idle",
+    "location": "Kansas City, MO",
+    "lat": 39.2122,
+    "lng": -94.692
+  },
+  {
+    "id": "VH-0212",
+    "plate": "WXF-8339",
+    "driver": "Rachel Nguyen",
+    "status": "Idle",
+    "location": "Minneapolis, MN",
+    "lat": 44.7133,
+    "lng": -93.1727
+  },
+  {
+    "id": "VH-0213",
+    "plate": "PNX-4780",
+    "driver": "Nicole Thompson",
+    "status": "Maintenance",
+    "location": "Cincinnati, OH",
+    "lat": 38.9085,
+    "lng": -84.646
+  },
+  {
+    "id": "VH-0214",
+    "plate": "YMW-4564",
+    "driver": "Hannah Martinez",
+    "status": "In transit",
+    "location": "Madison, WI",
+    "lat": 43.3012,
+    "lng": -89.2121
+  },
+  {
+    "id": "VH-0215",
+    "plate": "ZTP-1225",
+    "driver": "Michael Walker",
+    "status": "Maintenance",
+    "location": "St. Louis, MO",
+    "lat": 38.9077,
+    "lng": -90.4893
+  },
+  {
+    "id": "VH-0216",
+    "plate": "ECQ-9815",
+    "driver": "Victor Sullivan",
+    "status": "In transit",
+    "location": "St. Louis, MO",
+    "lat": 38.6939,
+    "lng": -90.4634
+  },
+  {
+    "id": "VH-0217",
+    "plate": "PDP-9119",
+    "driver": "Olivia Olson",
+    "status": "In transit",
+    "location": "Indianapolis, IN",
+    "lat": 39.7223,
+    "lng": -86.2591
+  },
+  {
+    "id": "VH-0218",
+    "plate": "CQE-2429",
+    "driver": "Angela Mitchell",
+    "status": "Delayed",
+    "location": "St. Louis, MO",
+    "lat": 38.7908,
+    "lng": -90.4976
+  },
+  {
+    "id": "VH-0219",
+    "plate": "NAW-1639",
+    "driver": "Derek Sullivan",
+    "status": "Maintenance",
+    "location": "Louisville, KY",
+    "lat": 38.2768,
+    "lng": -85.4901
+  },
+  {
+    "id": "VH-0220",
+    "plate": "AYF-6329",
+    "driver": "Anthony Olson",
+    "status": "In transit",
+    "location": "Toledo, OH",
+    "lat": 41.6733,
+    "lng": -83.3498
+  },
+  {
+    "id": "VH-0221",
+    "plate": "ZLF-0213",
+    "driver": "Rachel Bennett",
+    "status": "Idle",
+    "location": "Columbus, OH",
+    "lat": 39.9436,
+    "lng": -83.0036
+  },
+  {
+    "id": "VH-0222",
+    "plate": "BBC-6379",
+    "driver": "Jennifer Nowak",
+    "status": "Delayed",
+    "location": "Madison, WI",
+    "lat": 42.8182,
+    "lng": -89.6914
+  },
+  {
+    "id": "VH-0223",
+    "plate": "ZKG-8436",
+    "driver": "Tyrone Foster",
+    "status": "In transit",
+    "location": "Fort Wayne, IN",
+    "lat": 41.2605,
+    "lng": -85.3355
+  },
+  {
+    "id": "VH-0224",
+    "plate": "WZT-2171",
+    "driver": "Marcus Johnson",
+    "status": "Delayed",
+    "location": "Columbus, OH",
+    "lat": 39.9978,
+    "lng": -83.0954
+  },
+  {
+    "id": "VH-0225",
+    "plate": "PGD-0991",
+    "driver": "Daniel Larsen",
+    "status": "In transit",
+    "location": "Cincinnati, OH",
+    "lat": 39.0493,
+    "lng": -84.562
+  },
+  {
+    "id": "VH-0226",
+    "plate": "SWC-2569",
+    "driver": "Robert Sullivan",
+    "status": "In transit",
+    "location": "Chicago, IL",
+    "lat": 41.7964,
+    "lng": -87.6487
+  },
+  {
+    "id": "VH-0227",
+    "plate": "SNE-3207",
+    "driver": "Angela Brown",
+    "status": "Delayed",
+    "location": "Omaha, NE",
+    "lat": 41.5006,
+    "lng": -95.9963
+  },
+  {
+    "id": "VH-0228",
+    "plate": "KAZ-2938",
+    "driver": "Maria Sullivan",
+    "status": "In transit",
+    "location": "Kansas City, MO",
+    "lat": 39.2107,
+    "lng": -94.8629
+  },
+  {
+    "id": "VH-0229",
+    "plate": "KBJ-6532",
+    "driver": "Laura Nguyen",
+    "status": "Maintenance",
+    "location": "Milwaukee, WI",
+    "lat": 43.2528,
+    "lng": -87.6603
+  },
+  {
+    "id": "VH-0230",
+    "plate": "GXF-5103",
+    "driver": "Priya Brooks",
+    "status": "In transit",
+    "location": "Des Moines, IA",
+    "lat": 41.4803,
+    "lng": -93.5126
+  },
+  {
+    "id": "VH-0231",
+    "plate": "CFS-5844",
+    "driver": "Grace Martinez",
+    "status": "In transit",
+    "location": "Omaha, NE",
+    "lat": 41.4344,
+    "lng": -96.1561
+  },
+  {
+    "id": "VH-0232",
+    "plate": "QTM-8912",
+    "driver": "Maria Brooks",
+    "status": "Idle",
+    "location": "Milwaukee, WI",
+    "lat": 43.0388,
+    "lng": -88.0991
+  },
+  {
+    "id": "VH-0233",
+    "plate": "YKV-7090",
+    "driver": "Kevin Carter",
+    "status": "Delayed",
+    "location": "Chicago, IL",
+    "lat": 41.979,
+    "lng": -87.5495
+  },
+  {
+    "id": "VH-0234",
+    "plate": "NWL-7237",
+    "driver": "Maria Olson",
+    "status": "In transit",
+    "location": "Cincinnati, OH",
+    "lat": 39.0959,
+    "lng": -84.4983
+  },
+  {
+    "id": "VH-0235",
+    "plate": "BHN-2379",
+    "driver": "Brian Patel",
+    "status": "Delayed",
+    "location": "Omaha, NE",
+    "lat": 41.4138,
+    "lng": -95.6861
+  },
+  {
+    "id": "VH-0236",
+    "plate": "GGZ-6783",
+    "driver": "Jennifer Reyes",
+    "status": "Maintenance",
+    "location": "Toledo, OH",
+    "lat": 41.9311,
+    "lng": -83.411
+  },
+  {
+    "id": "VH-0237",
+    "plate": "YXF-3154",
+    "driver": "Susan Brown",
+    "status": "Delayed",
+    "location": "Fort Wayne, IN",
+    "lat": 41.0764,
+    "lng": -85.0539
+  },
+  {
+    "id": "VH-0238",
+    "plate": "JTP-3004",
+    "driver": "Brian Hansen",
+    "status": "Maintenance",
+    "location": "St. Louis, MO",
+    "lat": 38.6321,
+    "lng": -90.0498
+  },
+  {
+    "id": "VH-0239",
+    "plate": "WYC-5633",
+    "driver": "Angela Hughes",
+    "status": "In transit",
+    "location": "Kansas City, MO",
+    "lat": 39.2006,
+    "lng": -94.4749
+  },
+  {
+    "id": "VH-0240",
+    "plate": "JPD-8630",
+    "driver": "Omar Sullivan",
+    "status": "In transit",
+    "location": "Omaha, NE",
+    "lat": 41.0544,
+    "lng": -96.1204
+  },
+  {
+    "id": "VH-0241",
+    "plate": "DRF-0739",
+    "driver": "Hannah Carter",
+    "status": "Maintenance",
+    "location": "Kansas City, MO",
+    "lat": 39.2181,
+    "lng": -94.6881
+  },
+  {
+    "id": "VH-0242",
+    "plate": "CNW-6344",
+    "driver": "Tyrone Reyes",
+    "status": "Delayed",
+    "location": "St. Louis, MO",
+    "lat": 38.4808,
+    "lng": -90.1992
+  },
+  {
+    "id": "VH-0243",
+    "plate": "KSC-9538",
+    "driver": "Victor Rivera",
+    "status": "In transit",
+    "location": "Detroit, MI",
+    "lat": 42.1399,
+    "lng": -82.8274
+  },
+  {
+    "id": "VH-0244",
+    "plate": "ADG-1973",
+    "driver": "David Nowak",
+    "status": "In transit",
+    "location": "Fort Wayne, IN",
+    "lat": 41.0497,
+    "lng": -85.1657
+  },
+  {
+    "id": "VH-0245",
+    "plate": "BUY-3327",
+    "driver": "Omar Bennett",
+    "status": "In transit",
+    "location": "Madison, WI",
+    "lat": 43.1748,
+    "lng": -89.6815
+  },
+  {
+    "id": "VH-0246",
+    "plate": "FDR-5119",
+    "driver": "James Davis",
+    "status": "In transit",
+    "location": "Madison, WI",
+    "lat": 43.0953,
+    "lng": -89.5005
+  },
+  {
+    "id": "VH-0247",
+    "plate": "UTD-2749",
+    "driver": "Grace Sullivan",
+    "status": "In transit",
+    "location": "Des Moines, IA",
+    "lat": 41.7051,
+    "lng": -93.3442
+  },
+  {
+    "id": "VH-0248",
+    "plate": "QBX-1679",
+    "driver": "Brian Hansen",
+    "status": "In transit",
+    "location": "Milwaukee, WI",
+    "lat": 42.8864,
+    "lng": -87.7838
+  },
+  {
+    "id": "VH-0249",
+    "plate": "HVW-8833",
+    "driver": "Tyrone Schmidt",
+    "status": "Idle",
+    "location": "Cleveland, OH",
+    "lat": 41.7173,
+    "lng": -81.9431
+  },
+  {
+    "id": "VH-0250",
+    "plate": "DSC-8165",
+    "driver": "Omar Hansen",
+    "status": "Maintenance",
+    "location": "Toledo, OH",
+    "lat": 41.3674,
+    "lng": -83.5701
+  },
+  {
+    "id": "VH-0251",
+    "plate": "QWC-6075",
+    "driver": "Angela Hansen",
+    "status": "Maintenance",
+    "location": "Madison, WI",
+    "lat": 43.0146,
+    "lng": -89.4078
+  },
+  {
+    "id": "VH-0252",
+    "plate": "SAN-1713",
+    "driver": "Olivia Miller",
+    "status": "In transit",
+    "location": "Cleveland, OH",
+    "lat": 41.7793,
+    "lng": -81.539
+  },
+  {
+    "id": "VH-0253",
+    "plate": "DZW-3019",
+    "driver": "Priya Thompson",
+    "status": "Idle",
+    "location": "Milwaukee, WI",
+    "lat": 42.813,
+    "lng": -87.7449
+  },
+  {
+    "id": "VH-0254",
+    "plate": "HSQ-9263",
+    "driver": "Victor Larsen",
+    "status": "In transit",
+    "location": "Toledo, OH",
+    "lat": 41.3684,
+    "lng": -83.7337
+  },
+  {
+    "id": "VH-0255",
+    "plate": "CVP-7155",
+    "driver": "Laura Mitchell",
+    "status": "Delayed",
+    "location": "Detroit, MI",
+    "lat": 42.2156,
+    "lng": -82.8775
+  },
+  {
+    "id": "VH-0256",
+    "plate": "PSL-0494",
+    "driver": "Hannah Schmidt",
+    "status": "Loading",
+    "location": "Minneapolis, MN",
+    "lat": 45.2249,
+    "lng": -93.0596
+  },
+  {
+    "id": "VH-0257",
+    "plate": "JDR-1780",
+    "driver": "Anthony Torres",
+    "status": "In transit",
+    "location": "Kansas City, MO",
+    "lat": 38.9043,
+    "lng": -94.6613
+  },
+  {
+    "id": "VH-0258",
+    "plate": "EGY-7389",
+    "driver": "Omar Walker",
+    "status": "In transit",
+    "location": "Omaha, NE",
+    "lat": 40.9789,
+    "lng": -95.8765
+  },
+  {
+    "id": "VH-0259",
+    "plate": "VZZ-8274",
+    "driver": "Megan Nguyen",
+    "status": "Idle",
+    "location": "Cleveland, OH",
+    "lat": 41.4218,
+    "lng": -81.6515
+  },
+  {
+    "id": "VH-0260",
+    "plate": "HJR-4490",
+    "driver": "Marcus Bennett",
+    "status": "In transit",
+    "location": "Omaha, NE",
+    "lat": 41.3651,
+    "lng": -95.6538
+  },
+  {
+    "id": "VH-0261",
+    "plate": "PFX-5953",
+    "driver": "Tyrone Bennett",
+    "status": "Delayed",
+    "location": "Toledo, OH",
+    "lat": 41.4969,
+    "lng": -83.3791
+  },
+  {
+    "id": "VH-0262",
+    "plate": "SHH-1215",
+    "driver": "Brian Reyes",
+    "status": "In transit",
+    "location": "Detroit, MI",
+    "lat": 42.5051,
+    "lng": -83.089
+  },
+  {
+    "id": "VH-0263",
+    "plate": "XLZ-3922",
+    "driver": "Michael Kowalski",
+    "status": "Delayed",
+    "location": "Cleveland, OH",
+    "lat": 41.4238,
+    "lng": -81.8079
+  },
+  {
+    "id": "VH-0264",
+    "plate": "KDG-0189",
+    "driver": "Daniel Brown",
+    "status": "In transit",
+    "location": "Madison, WI",
+    "lat": 43.3368,
+    "lng": -89.1417
+  },
+  {
+    "id": "VH-0265",
+    "plate": "MNG-4519",
+    "driver": "Brian Miller",
+    "status": "Idle",
+    "location": "Columbus, OH",
+    "lat": 40.0342,
+    "lng": -82.8259
+  },
+  {
+    "id": "VH-0266",
+    "plate": "SXM-6734",
+    "driver": "Maria Davis",
+    "status": "In transit",
+    "location": "Louisville, KY",
+    "lat": 38.1741,
+    "lng": -85.8128
+  },
+  {
+    "id": "VH-0267",
+    "plate": "WDX-1068",
+    "driver": "Jennifer Johnson",
+    "status": "Delayed",
+    "location": "Cleveland, OH",
+    "lat": 41.7174,
+    "lng": -81.4345
+  },
+  {
+    "id": "VH-0268",
+    "plate": "AWP-6824",
+    "driver": "Robert Brooks",
+    "status": "Maintenance",
+    "location": "Detroit, MI",
+    "lat": 42.4905,
+    "lng": -83.0494
+  },
+  {
+    "id": "VH-0269",
+    "plate": "JSD-8361",
+    "driver": "Brian Reyes",
+    "status": "In transit",
+    "location": "Cleveland, OH",
+    "lat": 41.4755,
+    "lng": -81.8222
+  },
+  {
+    "id": "VH-0270",
+    "plate": "PNV-8552",
+    "driver": "Patricia Bennett",
+    "status": "In transit",
+    "location": "Detroit, MI",
+    "lat": 42.5514,
+    "lng": -83.1136
+  },
+  {
+    "id": "VH-0271",
+    "plate": "ZXS-0319",
+    "driver": "Jennifer Brooks",
+    "status": "Idle",
+    "location": "Toledo, OH",
+    "lat": 41.3836,
+    "lng": -83.7642
+  },
+  {
+    "id": "VH-0272",
+    "plate": "ZSS-7474",
+    "driver": "Samuel Reyes",
+    "status": "Delayed",
+    "location": "St. Louis, MO",
+    "lat": 38.734,
+    "lng": -90.1119
+  },
+  {
+    "id": "VH-0273",
+    "plate": "EEF-1237",
+    "driver": "Victor Patel",
+    "status": "Maintenance",
+    "location": "Detroit, MI",
+    "lat": 42.3678,
+    "lng": -83.1623
+  },
+  {
+    "id": "VH-0274",
+    "plate": "QEC-4837",
+    "driver": "Jennifer Nguyen",
+    "status": "In transit",
+    "location": "Fort Wayne, IN",
+    "lat": 41.2777,
+    "lng": -85.4122
+  },
+  {
+    "id": "VH-0275",
+    "plate": "THA-9401",
+    "driver": "Priya Patel",
+    "status": "Idle",
+    "location": "St. Louis, MO",
+    "lat": 38.911,
+    "lng": -89.9474
+  },
+  {
+    "id": "VH-0276",
+    "plate": "DGZ-4405",
+    "driver": "Samuel Anderson",
+    "status": "Idle",
+    "location": "Detroit, MI",
+    "lat": 42.6183,
+    "lng": -82.8598
+  },
+  {
+    "id": "VH-0277",
+    "plate": "YAZ-7364",
+    "driver": "Daniel Brown",
+    "status": "Loading",
+    "location": "Fort Wayne, IN",
+    "lat": 40.9304,
+    "lng": -85.3333
+  },
+  {
+    "id": "VH-0278",
+    "plate": "NSN-6754",
+    "driver": "Tyrone Rivera",
+    "status": "In transit",
+    "location": "Indianapolis, IN",
+    "lat": 39.5856,
+    "lng": -85.9227
+  },
+  {
+    "id": "VH-0279",
+    "plate": "ZFL-2654",
+    "driver": "Laura Carter",
+    "status": "Idle",
+    "location": "Omaha, NE",
+    "lat": 40.974,
+    "lng": -96.0544
+  },
+  {
+    "id": "VH-0280",
+    "plate": "RHT-4203",
+    "driver": "Anthony Carter",
+    "status": "In transit",
+    "location": "Kansas City, MO",
+    "lat": 39.325,
+    "lng": -94.2805
+  },
+  {
+    "id": "VH-0281",
+    "plate": "ZSC-6018",
+    "driver": "Priya Johnson",
+    "status": "In transit",
+    "location": "Minneapolis, MN",
+    "lat": 44.7706,
+    "lng": -93.3471
+  },
+  {
+    "id": "VH-0282",
+    "plate": "AZB-2948",
+    "driver": "Teresa Coleman",
+    "status": "Loading",
+    "location": "Cleveland, OH",
+    "lat": 41.7347,
+    "lng": -81.8956
+  },
+  {
+    "id": "VH-0283",
+    "plate": "VNS-6955",
+    "driver": "Daniel Fischer",
+    "status": "Idle",
+    "location": "Madison, WI",
+    "lat": 43.1078,
+    "lng": -89.5231
+  },
+  {
+    "id": "VH-0284",
+    "plate": "CQV-1530",
+    "driver": "James Johnson",
+    "status": "In transit",
+    "location": "Columbus, OH",
+    "lat": 39.7395,
+    "lng": -82.7102
+  },
+  {
+    "id": "VH-0285",
+    "plate": "STR-2898",
+    "driver": "Samuel Davis",
+    "status": "In transit",
+    "location": "Cincinnati, OH",
+    "lat": 39.0138,
+    "lng": -84.3366
+  },
+  {
+    "id": "VH-0286",
+    "plate": "UUH-6782",
+    "driver": "Daniel Martinez",
+    "status": "Delayed",
+    "location": "Minneapolis, MN",
+    "lat": 45.1941,
+    "lng": -93.1784
+  },
+  {
+    "id": "VH-0287",
+    "plate": "VVR-3254",
+    "driver": "Olivia Olson",
+    "status": "Idle",
+    "location": "Fort Wayne, IN",
+    "lat": 41.0132,
+    "lng": -84.9911
+  },
+  {
+    "id": "VH-0288",
+    "plate": "BRB-3482",
+    "driver": "Linda Anderson",
+    "status": "Idle",
+    "location": "Madison, WI",
+    "lat": 42.955,
+    "lng": -89.4809
+  },
+  {
+    "id": "VH-0289",
+    "plate": "RVX-8356",
+    "driver": "Hannah Brown",
+    "status": "In transit",
+    "location": "Omaha, NE",
+    "lat": 41.162,
+    "lng": -95.7468
+  },
+  {
+    "id": "VH-0290",
+    "plate": "JVX-6779",
+    "driver": "Marcus Anderson",
+    "status": "Maintenance",
+    "location": "Louisville, KY",
+    "lat": 38.3175,
+    "lng": -85.7416
+  },
+  {
+    "id": "VH-0291",
+    "plate": "MKK-8475",
+    "driver": "Grace Martinez",
+    "status": "Delayed",
+    "location": "Fort Wayne, IN",
+    "lat": 40.9228,
+    "lng": -85.2082
+  },
+  {
+    "id": "VH-0292",
+    "plate": "RLM-8048",
+    "driver": "Maria Foster",
+    "status": "Loading",
+    "location": "Cleveland, OH",
+    "lat": 41.6279,
+    "lng": -81.7576
+  },
+  {
+    "id": "VH-0293",
+    "plate": "SFM-3750",
+    "driver": "Maria Hughes",
+    "status": "In transit",
+    "location": "Fort Wayne, IN",
+    "lat": 41.3307,
+    "lng": -84.9621
+  },
+  {
+    "id": "VH-0294",
+    "plate": "RHJ-3464",
+    "driver": "Brian Torres",
+    "status": "In transit",
+    "location": "Fort Wayne, IN",
+    "lat": 40.8399,
+    "lng": -84.8938
+  },
+  {
+    "id": "VH-0295",
+    "plate": "ZVT-0405",
+    "driver": "Michael Coleman",
+    "status": "In transit",
+    "location": "Cincinnati, OH",
+    "lat": 38.9084,
+    "lng": -84.6064
+  },
+  {
+    "id": "VH-0296",
+    "plate": "KNH-7911",
+    "driver": "Rachel Foster",
+    "status": "Maintenance",
+    "location": "Fort Wayne, IN",
+    "lat": 40.787,
+    "lng": -85.1472
+  },
+  {
+    "id": "VH-0297",
+    "plate": "MXM-8345",
+    "driver": "Rachel Nowak",
+    "status": "Idle",
+    "location": "Toledo, OH",
+    "lat": 41.6591,
+    "lng": -83.2412
+  },
+  {
+    "id": "VH-0298",
+    "plate": "NYK-7005",
+    "driver": "Omar Olson",
+    "status": "Idle",
+    "location": "Milwaukee, WI",
+    "lat": 43.1059,
+    "lng": -88.0905
+  },
+  {
+    "id": "VH-0299",
+    "plate": "UEE-1371",
+    "driver": "Teresa Reyes",
+    "status": "In transit",
+    "location": "Cincinnati, OH",
+    "lat": 39.3615,
+    "lng": -84.7954
+  },
+  {
+    "id": "VH-0300",
+    "plate": "JVE-2525",
+    "driver": "Derek Brooks",
+    "status": "Idle",
+    "location": "Des Moines, IA",
+    "lat": 41.7009,
+    "lng": -93.7145
+  },
+  {
+    "id": "VH-0301",
+    "plate": "ZSG-8213",
+    "driver": "Michael Hansen",
+    "status": "In transit",
+    "location": "Milwaukee, WI",
+    "lat": 42.9325,
+    "lng": -88.1908
+  },
+  {
+    "id": "VH-0302",
+    "plate": "ENE-5163",
+    "driver": "Nicole Patel",
+    "status": "In transit",
+    "location": "Cincinnati, OH",
+    "lat": 39.0946,
+    "lng": -84.4062
+  },
+  {
+    "id": "VH-0303",
+    "plate": "VCZ-8653",
+    "driver": "Susan Martinez",
+    "status": "In transit",
+    "location": "Kansas City, MO",
+    "lat": 38.8036,
+    "lng": -94.3299
+  },
+  {
+    "id": "VH-0304",
+    "plate": "HUS-1989",
+    "driver": "Anthony Brooks",
+    "status": "In transit",
+    "location": "Milwaukee, WI",
+    "lat": 42.9556,
+    "lng": -87.9765
+  },
+  {
+    "id": "VH-0305",
+    "plate": "ENJ-2313",
+    "driver": "Carlos Schmidt",
+    "status": "In transit",
+    "location": "Minneapolis, MN",
+    "lat": 44.773,
+    "lng": -93.416
+  },
+  {
+    "id": "VH-0306",
+    "plate": "SZV-5055",
+    "driver": "Victor Kowalski",
+    "status": "Maintenance",
+    "location": "Louisville, KY",
+    "lat": 38.0067,
+    "lng": -86.0258
+  },
+  {
+    "id": "VH-0307",
+    "plate": "PPH-8643",
+    "driver": "Kevin Hansen",
+    "status": "Idle",
+    "location": "Fort Wayne, IN",
+    "lat": 41.0483,
+    "lng": -85.1127
+  },
+  {
+    "id": "VH-0308",
+    "plate": "NLV-8796",
+    "driver": "Marcus Brown",
+    "status": "Idle",
+    "location": "Milwaukee, WI",
+    "lat": 43.1353,
+    "lng": -87.9976
+  },
+  {
+    "id": "VH-0309",
+    "plate": "VAK-6710",
+    "driver": "Teresa Brown",
+    "status": "Idle",
+    "location": "Kansas City, MO",
+    "lat": 38.9699,
+    "lng": -94.8288
+  },
+  {
+    "id": "VH-0310",
+    "plate": "RAJ-9832",
+    "driver": "Linda Brooks",
+    "status": "In transit",
+    "location": "Indianapolis, IN",
+    "lat": 40.0219,
+    "lng": -86.2727
+  },
+  {
+    "id": "VH-0311",
+    "plate": "NNZ-9338",
+    "driver": "Omar Johnson",
+    "status": "Idle",
+    "location": "Louisville, KY",
+    "lat": 38.0476,
+    "lng": -85.9617
+  },
+  {
+    "id": "VH-0312",
+    "plate": "GYT-7395",
+    "driver": "Kevin Murphy",
+    "status": "Loading",
+    "location": "Des Moines, IA",
+    "lat": 41.6447,
+    "lng": -93.464
+  },
+  {
+    "id": "VH-0313",
+    "plate": "QRJ-1938",
+    "driver": "Michael Johnson",
+    "status": "In transit",
+    "location": "Indianapolis, IN",
+    "lat": 39.4942,
+    "lng": -86.1814
+  },
+  {
+    "id": "VH-0314",
+    "plate": "VBH-8573",
+    "driver": "Tyrone Walker",
+    "status": "Idle",
+    "location": "Kansas City, MO",
+    "lat": 38.9187,
+    "lng": -94.3247
+  },
+  {
+    "id": "VH-0315",
+    "plate": "RRL-5942",
+    "driver": "Rachel Walker",
+    "status": "In transit",
+    "location": "Des Moines, IA",
+    "lat": 41.7824,
+    "lng": -93.5546
+  },
+  {
+    "id": "VH-0316",
+    "plate": "GAC-1091",
+    "driver": "Susan Coleman",
+    "status": "In transit",
+    "location": "Detroit, MI",
+    "lat": 42.5458,
+    "lng": -82.9609
+  },
+  {
+    "id": "VH-0317",
+    "plate": "RQT-7723",
+    "driver": "Carlos Fischer",
+    "status": "In transit",
+    "location": "Chicago, IL",
+    "lat": 41.7095,
+    "lng": -87.8776
+  },
+  {
+    "id": "VH-0318",
+    "plate": "SGU-5708",
+    "driver": "Anthony Anderson",
+    "status": "Loading",
+    "location": "Kansas City, MO",
+    "lat": 39.2773,
+    "lng": -94.4554
+  },
+  {
+    "id": "VH-0319",
+    "plate": "RQQ-9581",
+    "driver": "Laura Sullivan",
+    "status": "In transit",
+    "location": "Minneapolis, MN",
+    "lat": 44.7937,
+    "lng": -93.4202
+  },
+  {
+    "id": "VH-0320",
+    "plate": "BQB-0571",
+    "driver": "Maria Thompson",
+    "status": "In transit",
+    "location": "Kansas City, MO",
+    "lat": 39.0661,
+    "lng": -94.3749
+  },
+  {
+    "id": "VH-0321",
+    "plate": "TVA-6841",
+    "driver": "Robert Foster",
+    "status": "Idle",
+    "location": "Milwaukee, WI",
+    "lat": 42.8411,
+    "lng": -87.6244
+  },
+  {
+    "id": "VH-0322",
+    "plate": "PSD-0828",
+    "driver": "Angela Williams",
+    "status": "In transit",
+    "location": "Des Moines, IA",
+    "lat": 41.4136,
+    "lng": -93.4401
+  },
+  {
+    "id": "VH-0323",
+    "plate": "TWE-1329",
+    "driver": "Michael Brooks",
+    "status": "Maintenance",
+    "location": "Louisville, KY",
+    "lat": 38.4879,
+    "lng": -85.9248
+  },
+  {
+    "id": "VH-0324",
+    "plate": "XSA-5771",
+    "driver": "Olivia Olson",
+    "status": "In transit",
+    "location": "Louisville, KY",
+    "lat": 38.0583,
+    "lng": -85.8345
+  },
+  {
+    "id": "VH-0325",
+    "plate": "LXZ-8936",
+    "driver": "David Thompson",
+    "status": "In transit",
+    "location": "Milwaukee, WI",
+    "lat": 43.0696,
+    "lng": -87.6758
+  },
+  {
+    "id": "VH-0326",
+    "plate": "LGT-4932",
+    "driver": "Linda Davis",
+    "status": "Maintenance",
+    "location": "Fort Wayne, IN",
+    "lat": 40.8751,
+    "lng": -85.2571
+  },
+  {
+    "id": "VH-0327",
+    "plate": "FVN-4686",
+    "driver": "Laura Bennett",
+    "status": "Idle",
+    "location": "Cleveland, OH",
+    "lat": 41.5566,
+    "lng": -81.7475
+  },
+  {
+    "id": "VH-0328",
+    "plate": "VCF-4935",
+    "driver": "Robert Nowak",
+    "status": "Idle",
+    "location": "Indianapolis, IN",
+    "lat": 39.9328,
+    "lng": -86.1416
+  },
+  {
+    "id": "VH-0329",
+    "plate": "VWC-9295",
+    "driver": "Grace Coleman",
+    "status": "Delayed",
+    "location": "St. Louis, MO",
+    "lat": 38.8968,
+    "lng": -90.0664
+  },
+  {
+    "id": "VH-0330",
+    "plate": "NDX-2735",
+    "driver": "Tyrone Coleman",
+    "status": "Delayed",
+    "location": "Columbus, OH",
+    "lat": 40.25,
+    "lng": -83.1376
+  },
+  {
+    "id": "VH-0331",
+    "plate": "XFW-0454",
+    "driver": "Samuel Williams",
+    "status": "Delayed",
+    "location": "Des Moines, IA",
+    "lat": 41.4379,
+    "lng": -93.8993
+  },
+  {
+    "id": "VH-0332",
+    "plate": "LEV-1011",
+    "driver": "Omar Bennett",
+    "status": "In transit",
+    "location": "St. Louis, MO",
+    "lat": 38.7045,
+    "lng": -89.9448
+  },
+  {
+    "id": "VH-0333",
+    "plate": "MSG-8227",
+    "driver": "Daniel Carter",
+    "status": "Idle",
+    "location": "Kansas City, MO",
+    "lat": 39.2762,
+    "lng": -94.4664
+  },
+  {
+    "id": "VH-0334",
+    "plate": "FBD-2541",
+    "driver": "Laura Fischer",
+    "status": "Delayed",
+    "location": "Chicago, IL",
+    "lat": 41.7763,
+    "lng": -87.8226
+  },
+  {
+    "id": "VH-0335",
+    "plate": "DUY-7600",
+    "driver": "Patricia Nowak",
+    "status": "In transit",
+    "location": "Des Moines, IA",
+    "lat": 41.6503,
+    "lng": -93.6679
+  },
+  {
+    "id": "VH-0336",
+    "plate": "JDB-2656",
+    "driver": "David Schmidt",
+    "status": "Idle",
+    "location": "Des Moines, IA",
+    "lat": 41.3048,
+    "lng": -93.6284
+  },
+  {
+    "id": "VH-0337",
+    "plate": "BWH-1822",
+    "driver": "Samuel Sullivan",
+    "status": "In transit",
+    "location": "Cincinnati, OH",
+    "lat": 38.951,
+    "lng": -84.7254
+  },
+  {
+    "id": "VH-0338",
+    "plate": "MDC-5726",
+    "driver": "Nicole Kowalski",
+    "status": "Loading",
+    "location": "Madison, WI",
+    "lat": 43.3558,
+    "lng": -89.6008
+  },
+  {
+    "id": "VH-0339",
+    "plate": "KYV-2485",
+    "driver": "Susan Sullivan",
+    "status": "In transit",
+    "location": "Milwaukee, WI",
+    "lat": 43.0256,
+    "lng": -87.8487
+  },
+  {
+    "id": "VH-0340",
+    "plate": "PMF-9245",
+    "driver": "Susan Torres",
+    "status": "In transit",
+    "location": "Madison, WI",
+    "lat": 42.8669,
+    "lng": -89.4214
+  },
+  {
+    "id": "VH-0341",
+    "plate": "NHM-5785",
+    "driver": "James Nguyen",
+    "status": "Idle",
+    "location": "Cleveland, OH",
+    "lat": 41.4456,
+    "lng": -81.7993
+  },
+  {
+    "id": "VH-0342",
+    "plate": "XAU-2968",
+    "driver": "Omar Brooks",
+    "status": "Idle",
+    "location": "Cleveland, OH",
+    "lat": 41.5271,
+    "lng": -81.654
+  },
+  {
+    "id": "VH-0343",
+    "plate": "CSU-0283",
+    "driver": "Hannah Rivera",
+    "status": "In transit",
+    "location": "Madison, WI",
+    "lat": 43.356,
+    "lng": -89.6975
+  },
+  {
+    "id": "VH-0344",
+    "plate": "VVW-5150",
+    "driver": "Omar Johnson",
+    "status": "Loading",
+    "location": "Columbus, OH",
+    "lat": 39.8554,
+    "lng": -83.204
+  },
+  {
+    "id": "VH-0345",
+    "plate": "FJX-3009",
+    "driver": "Daniel Brooks",
+    "status": "Maintenance",
+    "location": "Detroit, MI",
+    "lat": 42.3919,
+    "lng": -82.7936
+  },
+  {
+    "id": "VH-0346",
+    "plate": "AJN-9689",
+    "driver": "Angela Rivera",
+    "status": "Maintenance",
+    "location": "Toledo, OH",
+    "lat": 41.5682,
+    "lng": -83.8321
+  },
+  {
+    "id": "VH-0347",
+    "plate": "MZT-0544",
+    "driver": "Samuel Thompson",
+    "status": "In transit",
+    "location": "Louisville, KY",
+    "lat": 38.5072,
+    "lng": -85.9045
+  },
+  {
+    "id": "VH-0348",
+    "plate": "BAR-2268",
+    "driver": "Susan Carter",
+    "status": "Maintenance",
+    "location": "Madison, WI",
+    "lat": 42.9885,
+    "lng": -89.2417
+  },
+  {
+    "id": "VH-0349",
+    "plate": "PMV-4563",
+    "driver": "Anthony Patel",
+    "status": "In transit",
+    "location": "Louisville, KY",
+    "lat": 38.4088,
+    "lng": -85.8666
+  },
+  {
+    "id": "VH-0350",
+    "plate": "WBV-6490",
+    "driver": "Tyrone Martinez",
+    "status": "In transit",
+    "location": "St. Louis, MO",
+    "lat": 38.7912,
+    "lng": -90.4452
+  },
+  {
+    "id": "VH-0351",
+    "plate": "MPR-0919",
+    "driver": "Daniel Brooks",
+    "status": "Idle",
+    "location": "Indianapolis, IN",
+    "lat": 39.8607,
+    "lng": -86.2542
+  },
+  {
+    "id": "VH-0352",
+    "plate": "LHX-9199",
+    "driver": "Derek Brooks",
+    "status": "Idle",
+    "location": "St. Louis, MO",
+    "lat": 38.564,
+    "lng": -90.0583
+  },
+  {
+    "id": "VH-0353",
+    "plate": "VWP-1429",
+    "driver": "Linda Foster",
+    "status": "In transit",
+    "location": "Chicago, IL",
+    "lat": 41.6985,
+    "lng": -87.3956
+  },
+  {
+    "id": "VH-0354",
+    "plate": "KSZ-8419",
+    "driver": "Anthony Murphy",
+    "status": "In transit",
+    "location": "Milwaukee, WI",
+    "lat": 42.8163,
+    "lng": -88.0714
+  },
+  {
+    "id": "VH-0355",
+    "plate": "NJN-5609",
+    "driver": "Samuel Hansen",
+    "status": "Maintenance",
+    "location": "Toledo, OH",
+    "lat": 41.4446,
+    "lng": -83.424
+  },
+  {
+    "id": "VH-0356",
+    "plate": "HVW-9763",
+    "driver": "Robert Carter",
+    "status": "Delayed",
+    "location": "Columbus, OH",
+    "lat": 39.9707,
+    "lng": -82.7737
+  },
+  {
+    "id": "VH-0357",
+    "plate": "YEB-0319",
+    "driver": "Priya Carter",
+    "status": "In transit",
+    "location": "Des Moines, IA",
+    "lat": 41.6671,
+    "lng": -93.6988
+  },
+  {
+    "id": "VH-0358",
+    "plate": "VWF-2240",
+    "driver": "Patricia Nguyen",
+    "status": "Idle",
+    "location": "Toledo, OH",
+    "lat": 41.8164,
+    "lng": -83.6768
+  },
+  {
+    "id": "VH-0359",
+    "plate": "PRT-2204",
+    "driver": "David Hansen",
+    "status": "In transit",
+    "location": "Cincinnati, OH",
+    "lat": 39.2648,
+    "lng": -84.7127
+  },
+  {
+    "id": "VH-0360",
+    "plate": "DUG-5412",
+    "driver": "Marcus Patel",
+    "status": "In transit",
+    "location": "Kansas City, MO",
+    "lat": 38.8477,
+    "lng": -94.3865
+  },
+  {
+    "id": "VH-0361",
+    "plate": "BTS-1709",
+    "driver": "Victor Reyes",
+    "status": "Delayed",
+    "location": "Madison, WI",
+    "lat": 43.1628,
+    "lng": -89.3517
+  },
+  {
+    "id": "VH-0362",
+    "plate": "QYR-0478",
+    "driver": "Nicole Patel",
+    "status": "In transit",
+    "location": "Omaha, NE",
+    "lat": 41.5337,
+    "lng": -95.9642
+  },
+  {
+    "id": "VH-0363",
+    "plate": "HZQ-8233",
+    "driver": "Nicole Reyes",
+    "status": "Delayed",
+    "location": "Fort Wayne, IN",
+    "lat": 41.2743,
+    "lng": -85.328
+  },
+  {
+    "id": "VH-0364",
+    "plate": "BFL-8867",
+    "driver": "Anthony Foster",
+    "status": "Idle",
+    "location": "Toledo, OH",
+    "lat": 41.3527,
+    "lng": -83.2827
+  },
+  {
+    "id": "VH-0365",
+    "plate": "XJH-1252",
+    "driver": "Megan Patel",
+    "status": "Delayed",
+    "location": "Kansas City, MO",
+    "lat": 39.3913,
+    "lng": -94.5608
+  },
+  {
+    "id": "VH-0366",
+    "plate": "ZWH-3661",
+    "driver": "Linda Nowak",
+    "status": "In transit",
+    "location": "Detroit, MI",
+    "lat": 42.3385,
+    "lng": -82.9155
+  },
+  {
+    "id": "VH-0367",
+    "plate": "NZP-2678",
+    "driver": "Derek Torres",
+    "status": "Maintenance",
+    "location": "Minneapolis, MN",
+    "lat": 44.7622,
+    "lng": -93.3547
+  },
+  {
+    "id": "VH-0368",
+    "plate": "APJ-1492",
+    "driver": "Linda Thompson",
+    "status": "Loading",
+    "location": "Cincinnati, OH",
+    "lat": 39.2122,
+    "lng": -84.3974
+  },
+  {
+    "id": "VH-0369",
+    "plate": "AMH-7517",
+    "driver": "Teresa Rivera",
+    "status": "Idle",
+    "location": "Indianapolis, IN",
+    "lat": 39.8405,
+    "lng": -86.279
+  },
+  {
+    "id": "VH-0370",
+    "plate": "HDE-4007",
+    "driver": "Linda Nowak",
+    "status": "Loading",
+    "location": "Madison, WI",
+    "lat": 42.9616,
+    "lng": -89.241
+  },
+  {
+    "id": "VH-0371",
+    "plate": "ZBT-0483",
+    "driver": "Patricia Torres",
+    "status": "In transit",
+    "location": "Kansas City, MO",
+    "lat": 39.1309,
+    "lng": -94.5569
+  },
+  {
+    "id": "VH-0372",
+    "plate": "YUD-5416",
+    "driver": "Megan Martinez",
+    "status": "Idle",
+    "location": "Des Moines, IA",
+    "lat": 41.3354,
+    "lng": -93.6367
+  },
+  {
+    "id": "VH-0373",
+    "plate": "EWU-2955",
+    "driver": "Susan Williams",
+    "status": "In transit",
+    "location": "Fort Wayne, IN",
+    "lat": 41.333,
+    "lng": -85.3602
+  },
+  {
+    "id": "VH-0374",
+    "plate": "DFA-0284",
+    "driver": "Susan Sullivan",
+    "status": "In transit",
+    "location": "Fort Wayne, IN",
+    "lat": 40.8648,
+    "lng": -85.0733
+  },
+  {
+    "id": "VH-0375",
+    "plate": "UDX-9932",
+    "driver": "Patricia Larsen",
+    "status": "Maintenance",
+    "location": "Indianapolis, IN",
+    "lat": 39.5266,
+    "lng": -86.0495
+  },
+  {
+    "id": "VH-0376",
+    "plate": "PJF-3944",
+    "driver": "Susan Mitchell",
+    "status": "In transit",
+    "location": "Fort Wayne, IN",
+    "lat": 41.2584,
+    "lng": -85.1905
+  },
+  {
+    "id": "VH-0377",
+    "plate": "GEF-3771",
+    "driver": "Olivia Carter",
+    "status": "In transit",
+    "location": "Omaha, NE",
+    "lat": 41.3908,
+    "lng": -95.6484
+  },
+  {
+    "id": "VH-0378",
+    "plate": "QMN-0764",
+    "driver": "Daniel Hughes",
+    "status": "In transit",
+    "location": "Indianapolis, IN",
+    "lat": 39.6156,
+    "lng": -85.9395
+  },
+  {
+    "id": "VH-0379",
+    "plate": "NPU-7627",
+    "driver": "Samuel Olson",
+    "status": "In transit",
+    "location": "Madison, WI",
+    "lat": 43.2915,
+    "lng": -89.6935
+  },
+  {
+    "id": "VH-0380",
+    "plate": "XTM-9732",
+    "driver": "Maria Kowalski",
+    "status": "In transit",
+    "location": "St. Louis, MO",
+    "lat": 38.8479,
+    "lng": -90.3497
+  },
+  {
+    "id": "VH-0381",
+    "plate": "JGZ-8805",
+    "driver": "Marcus Reyes",
+    "status": "In transit",
+    "location": "Cincinnati, OH",
+    "lat": 38.8225,
+    "lng": -84.2495
+  },
+  {
+    "id": "VH-0382",
+    "plate": "FJR-2129",
+    "driver": "Susan Olson",
+    "status": "Idle",
+    "location": "Columbus, OH",
+    "lat": 39.9078,
+    "lng": -83.1929
+  },
+  {
+    "id": "VH-0383",
+    "plate": "CZJ-9577",
+    "driver": "Carlos Nowak",
+    "status": "Idle",
+    "location": "Cincinnati, OH",
+    "lat": 39.2302,
+    "lng": -84.5472
+  },
+  {
+    "id": "VH-0384",
+    "plate": "XSL-8673",
+    "driver": "James Johnson",
+    "status": "Loading",
+    "location": "Louisville, KY",
+    "lat": 38.537,
+    "lng": -85.8388
+  },
+  {
+    "id": "VH-0385",
+    "plate": "LXD-9802",
+    "driver": "Laura Thompson",
+    "status": "Maintenance",
+    "location": "Columbus, OH",
+    "lat": 39.6684,
+    "lng": -83.0001
+  },
+  {
+    "id": "VH-0386",
+    "plate": "CEL-7811",
+    "driver": "Maria Reyes",
+    "status": "Delayed",
+    "location": "Madison, WI",
+    "lat": 42.9,
+    "lng": -89.4394
+  },
+  {
+    "id": "VH-0387",
+    "plate": "ZEX-9264",
+    "driver": "Samuel Foster",
+    "status": "Loading",
+    "location": "Cincinnati, OH",
+    "lat": 39.3182,
+    "lng": -84.6612
+  },
+  {
+    "id": "VH-0388",
+    "plate": "CYN-1532",
+    "driver": "Teresa Hansen",
+    "status": "In transit",
+    "location": "Columbus, OH",
+    "lat": 39.7276,
+    "lng": -83.1602
+  },
+  {
+    "id": "VH-0389",
+    "plate": "YNV-8819",
+    "driver": "Olivia Brown",
+    "status": "In transit",
+    "location": "Cincinnati, OH",
+    "lat": 39.0927,
+    "lng": -84.5339
+  },
+  {
+    "id": "VH-0390",
+    "plate": "AVZ-7809",
+    "driver": "Rachel Kowalski",
+    "status": "In transit",
+    "location": "Chicago, IL",
+    "lat": 41.9069,
+    "lng": -87.5716
+  },
+  {
+    "id": "VH-0391",
+    "plate": "FMA-1516",
+    "driver": "Olivia Sullivan",
+    "status": "Idle",
+    "location": "Madison, WI",
+    "lat": 42.9528,
+    "lng": -89.5866
+  },
+  {
+    "id": "VH-0392",
+    "plate": "ZLN-4619",
+    "driver": "Victor Schmidt",
+    "status": "Loading",
+    "location": "Madison, WI",
+    "lat": 43.2147,
+    "lng": -89.4057
+  },
+  {
+    "id": "VH-0393",
+    "plate": "BXU-5822",
+    "driver": "David Foster",
+    "status": "Delayed",
+    "location": "Cincinnati, OH",
+    "lat": 38.89,
+    "lng": -84.3941
+  },
+  {
+    "id": "VH-0394",
+    "plate": "FEH-1688",
+    "driver": "Kevin Martinez",
+    "status": "Idle",
+    "location": "Cincinnati, OH",
+    "lat": 39.3822,
+    "lng": -84.7368
+  },
+  {
+    "id": "VH-0395",
+    "plate": "JJL-0061",
+    "driver": "Anthony Brown",
+    "status": "In transit",
+    "location": "Omaha, NE",
+    "lat": 41.4878,
+    "lng": -95.7146
+  },
+  {
+    "id": "VH-0396",
+    "plate": "HGM-5256",
+    "driver": "Nicole Larsen",
+    "status": "Delayed",
+    "location": "Indianapolis, IN",
+    "lat": 39.4972,
+    "lng": -86.0975
+  },
+  {
+    "id": "VH-0397",
+    "plate": "BVZ-2152",
+    "driver": "Patricia Brown",
+    "status": "In transit",
+    "location": "Indianapolis, IN",
+    "lat": 39.6373,
+    "lng": -85.8725
+  },
+  {
+    "id": "VH-0398",
+    "plate": "UVL-6493",
+    "driver": "Derek Miller",
+    "status": "In transit",
+    "location": "Chicago, IL",
+    "lat": 42.1414,
+    "lng": -87.731
+  },
+  {
+    "id": "VH-0399",
+    "plate": "CNN-5850",
+    "driver": "Nicole Anderson",
+    "status": "Maintenance",
+    "location": "Milwaukee, WI",
+    "lat": 43.2165,
+    "lng": -87.9321
+  },
+  {
+    "id": "VH-0400",
+    "plate": "ZKH-6488",
+    "driver": "Robert Patel",
+    "status": "In transit",
+    "location": "St. Louis, MO",
+    "lat": 38.4798,
+    "lng": -90.411
+  }
+]

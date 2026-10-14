@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>RapidRoute Dispatch Console</title>
+    <meta name="description" content="Live dispatch console for a 400-vehicle delivery fleet." />
+  </head>
+  <body>
+    <a class="skip-link" href="#vehicle-list">Skip to vehicle list</a>
+
+    <header class="topbar">
+      <div class="wrap topbar-inner">
+        <h1>RapidRoute <span>Dispatch Console</span></h1>
+        <p class="fleet-size"><strong id="total">400</strong> vehicles in the fleet</p>
+      </div>
+    </header>
+
+    <main class="wrap">
+      <section aria-labelledby="list-title">
+        <div class="list-head">
+          <h2 id="list-title">All vehicles</h2>
+          <p class="dom-count">
+            Rows in the page: <strong id="rendered">0</strong> of <strong id="total-rows">400</strong>
+          </p>
+        </div>
+
+        <div class="scroller" id="vehicle-list" role="table" aria-label="Fleet vehicles" tabindex="0">
+          <div class="row header" role="row">
+            <div class="cell cell-id" role="columnheader">Vehicle ID</div>
+            <div class="cell cell-plate" role="columnheader">Plate</div>
+            <div class="cell cell-driver" role="columnheader">Driver</div>
+            <div class="cell cell-status" role="columnheader">Status</div>
+            <div class="cell cell-location" role="columnheader">Last known location</div>
+          </div>
+          <div class="spacer">
+            <div class="rows" role="rowgroup"></div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script type="module" src="/src/main.js"></script>
+  </body>
+</html>
