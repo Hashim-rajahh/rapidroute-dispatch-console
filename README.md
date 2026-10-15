@@ -27,6 +27,10 @@ Other scripts: `npm run check:data` (validates the JSON), `npm run lint`, `npm r
 | `src/main.js` | Builds the rows and connects the data to the list |
 | `src/style.css` | Layout and styling (CSS Grid for rows) |
 | `.github/workflows/ci.yml` | Runs lint, data check and build on every push |
+| `scripts/mockServer.js` | Mock WebSocket server (Node + `ws`), one random vehicle update every 5 seconds |
+| `src/mockPositions.js` | Makes the fake position updates; shared by the server and the in-page mock |
+| `src/liveFeed.js` | Native WebSocket client with the in-page fallback |
+| `src/liveStore.js` | Applies an update to the vehicle record and tells subscribers (the detail panel will use this) |
 
 ## How the virtualization works
 1. A tall empty "spacer" gives the scrollbar the height of all 400 rows (400 x 44 px).
@@ -56,3 +60,45 @@ Other scripts: `npm run check:data` (validates the JSON), `npm run lint`, `npm r
 - The list is a keyboard-focusable region: use Tab to reach it, then arrow keys, Page Up and Page Down to scroll.
 - Table roles and `aria-rowindex` / `aria-rowcount` tell screen readers there are 400 rows even though only some are on the page.
 - Skip link, visible focus outlines and text colors with enough contrast.
+
+
+# README for Task 2
+
+### Live position updates (Task 2)
+
+A mock WebSocket server sends the new position of one random vehicle every 5 seconds. The page updates only that vehicle's row. The rest of the list is not re-rendered.
+
+### Run it
+Use two terminals:
+```bash
+npm run mock-server   # ws://localhost:8787, one update every 5 seconds
+npm run dev           # the console at http://localhost:5173
+```
+`npm run dev` connects to the mock server automatically. The "Live feed" line above the list shows `mock server` when it is connected.
+
+If the server is not running (for example on the deployed Netlify site), the page falls back to an in-page mock that sends the same messages, so the live feed still works.
+
+To speed things up for testing:
+- With the mock server, set the interval when you start it. In PowerShell: `$env:INTERVAL_MS=200; npm run mock-server`.
+- For the in-page mock (`npm run preview` or the deployed site), add `?interval=200` to the URL.
+
+### How it works
+1. `scripts/mockServer.js` (Node and the `ws` package) sends `{ type: "position", vehicleId, lat, lng, ts }` for one random vehicle on a timer. `src/mockPositions.js` makes these messages and is shared with the in-page mock.
+2. `src/liveFeed.js` opens a native WebSocket and calls `onUpdate` for each message. If the server cannot be reached, it starts the in-page mock instead.
+3. `src/liveStore.js` writes the new coordinates into that vehicle's record and returns its index.
+4. `list.refreshRow(index)` in `src/virtualList.js` checks whether that vehicle is one of the ~16 to 21 rows currently in the page. If it is, only the coordinates text in that one row changes, and the row flashes yellow. If it is not, no DOM changes, and the new position shows when the vehicle scrolls into view.
+
+This project uses plain JavaScript, not React, so `React.memo` is not needed. The row is updated directly in the DOM, and the list is never re-bound on an update.
+
+### How I checked it
+I watched the browser console. Every update prints one line, for example:
+
+`[live] VH-0012 -> 42.8560, -88.0177 | 1 row updated in 0.30 ms (avg 0.02 ms) | full list re-renders since load: 1`
+
+- A visible row updated in 0.30 ms, and the average over all updates was 0.02 ms. Both are under the 5 ms target.
+- `full list re-renders since load` stayed at 1 (the first render) while updates kept arriving, so the list was never re-rendered.
+- Only about 16 of 400 vehicles are in the page, so most updates say `not on screen, data only`. That is expected.
+
+### Limits
+- The detail panel is part of a later task. `liveStore.subscribe()` is ready so the panel can show the same live coordinates when it exists.
+- The deployed site uses the in-page mock, because Netlify cannot run the Node server.

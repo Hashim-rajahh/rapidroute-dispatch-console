@@ -14,11 +14,13 @@ export function createVirtualList({
   overscan = 4,
   createRow,
   bindRow,
+  updateRow,
   onRange
 }) {
   let first = -1;
   let last = -1;
   let frame = 0;
+  let renders = 0;
   const pool = [];
 
   spacer.style.height = `${items.length * rowHeight}px`;
@@ -34,6 +36,7 @@ export function createVirtualList({
     if (start === first && end === last) return;
     first = start;
     last = end;
+    renders += 1;
 
     const count = end - start;
     while (pool.length < count) {
@@ -70,6 +73,19 @@ export function createVirtualList({
   render();
 
   return {
+    // Updates ONE row in place. If that vehicle is not in the DOM right now there
+    // is nothing to touch: its new data is read when it scrolls into view.
+    // Returns the row element that was updated, or null.
+    refreshRow(index) {
+      if (index < first || index >= last || !updateRow) return null;
+      const row = pool[index - first];
+      updateRow(row, items[index]);
+      return row;
+    },
+    // How many times the whole window of rows has been re-bound (for verification).
+    getRenderCount() {
+      return renders;
+    },
     scrollToIndex(index) {
       scroller.scrollTop = Math.max(0, Math.min(index, items.length - 1)) * rowHeight;
     }
