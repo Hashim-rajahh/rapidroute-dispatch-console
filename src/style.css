@@ -84,16 +84,16 @@ main { padding-block: 1.75rem 3rem; }
 }
 .scroller:focus-visible { outline-offset: -3px; }
 
-.spacer { position: relative; min-width: 62rem; }
+.spacer { position: relative; min-width: 70rem; }
 .rows { position: absolute; top: 0; left: 0; right: 0; will-change: transform; }
 
 .row {
   display: grid;
-  grid-template-columns: 7.5rem 8.5rem minmax(11rem, 1.2fr) 9.5rem minmax(19rem, 1.6fr);
+  grid-template-columns: 7.5rem 8.5rem minmax(11rem, 1.2fr) 9.5rem minmax(19rem, 1.6fr) 5.5rem;
   align-items: center;
   column-gap: 1rem;
   height: var(--row-h);
-  min-width: 62rem;
+  min-width: 70rem;
   padding-inline: 1rem;
 }
 .row[data-stripe="1"] { background: var(--stripe); }
@@ -115,6 +115,44 @@ main { padding-block: 1.75rem 3rem; }
   font-variant-numeric: tabular-nums;
 }
 .header .cell-id, .header .cell-plate { font-family: inherit; font-size: inherit; }
+
+/* Filter and sort controls */
+.filters {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 0.75rem 1rem;
+  margin-bottom: 0.5rem;
+}
+.field { display: flex; flex-direction: column; gap: 0.25rem; min-width: 11rem; }
+.field-grow { flex: 1 1 14rem; }
+.field label { font-size: 0.85rem; font-weight: 700; color: var(--muted); }
+.field select,
+.field input {
+  min-height: 2.5rem;
+  padding: 0.4rem 0.6rem;
+  font: inherit;
+  color: var(--ink);
+  background: var(--panel);
+  border: 1px solid #8794a1;
+  border-radius: 6px;
+}
+.clear {
+  min-height: 2.5rem;
+  padding: 0.4rem 0.9rem;
+  font: inherit;
+  font-weight: 700;
+  color: var(--ink);
+  background: transparent;
+  border: 1px solid #8794a1;
+  border-radius: 6px;
+  cursor: pointer;
+}
+.clear:hover { background: var(--stripe); }
+.clear[hidden], .empty[hidden] { display: none; }
+.result-count { margin: 0 0 0.35rem; font-weight: 700; font-variant-numeric: tabular-nums; }
+.empty { margin: 0.75rem 0 0; padding: 1rem; background: var(--panel); border: 1px dashed #8794a1; border-radius: 8px; }
+.cell-updated { font-variant-numeric: tabular-nums; }
 
 /* Live coordinates: muted, fixed-width digits so they do not jitter when they change */
 .coords {

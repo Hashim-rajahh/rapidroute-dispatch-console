@@ -23,6 +23,9 @@ function createRandom(seed) {
 }
 
 const random = createRandom(SEED);
+// A second generator, so adding last-update times does not change any other field.
+const timeRandom = createRandom(SEED + 1);
+const REFERENCE_TIME = Date.parse('2026-10-13T09:00:00.000Z');
 const pick = (list) => list[Math.floor(random() * list.length)];
 
 const FIRST_NAMES = [
@@ -86,7 +89,9 @@ const vehicles = Array.from({ length: COUNT }, (_, index) => {
     status: pickStatus(),
     location: `${city}, ${state}`,
     lat: Number((lat + (random() - 0.5) * 0.6).toFixed(4)),
-    lng: Number((lng + (random() - 0.5) * 0.6).toFixed(4))
+    lng: Number((lng + (random() - 0.5) * 0.6).toFixed(4)),
+    // Between 0 and 3 hours before the reference time, to the second.
+    lastUpdate: new Date(REFERENCE_TIME - Math.floor(timeRandom() * 3 * 60 * 60) * 1000).toISOString()
   };
 });
 

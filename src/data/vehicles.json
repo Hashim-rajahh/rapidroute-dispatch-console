@@ -6,7 +6,8 @@
     "status": "In transit",
     "location": "Indianapolis, IN",
     "lat": 39.4721,
-    "lng": -86.1872
+    "lng": -86.1872,
+    "lastUpdate": "2026-10-13T08:24:46.000Z"
   },
   {
     "id": "VH-0002",
@@ -15,7 +16,8 @@
     "status": "In transit",
     "location": "Omaha, NE",
     "lat": 41.4804,
-    "lng": -95.6929
+    "lng": -95.6929,
+    "lastUpdate": "2026-10-13T06:18:51.000Z"
   },
   {
     "id": "VH-0003",
@@ -24,7 +26,8 @@
     "status": "In transit",
     "location": "St. Louis, MO",
     "lat": 38.8793,
-    "lng": -89.9956
+    "lng": -89.9956,
+    "lastUpdate": "2026-10-13T08:46:25.000Z"
   },
   {
     "id": "VH-0004",
@@ -33,7 +36,8 @@
     "status": "Delayed",
     "location": "Minneapolis, MN",
     "lat": 45.0055,
-    "lng": -93.3325
+    "lng": -93.3325,
+    "lastUpdate": "2026-10-13T08:29:04.000Z"
   },
   {
     "id": "VH-0005",
@@ -42,7 +46,8 @@
     "status": "In transit",
     "location": "Fort Wayne, IN",
     "lat": 40.9094,
-    "lng": -85.426
+    "lng": -85.426,
+    "lastUpdate": "2026-10-13T06:25:36.000Z"
   },
   {
     "id": "VH-0006",
@@ -51,7 +56,8 @@
     "status": "Idle",
     "location": "Cincinnati, OH",
     "lat": 39.0109,
-    "lng": -84.3125
+    "lng": -84.3125,
+    "lastUpdate": "2026-10-13T08:06:05.000Z"
   },
   {
     "id": "VH-0007",
@@ -60,7 +66,8 @@
     "status": "Delayed",
     "location": "Toledo, OH",
     "lat": 41.7561,
-    "lng": -83.2563
+    "lng": -83.2563,
+    "lastUpdate": "2026-10-13T08:27:52.000Z"
   },
   {
     "id": "VH-0008",
@@ -69,7 +76,8 @@
     "status": "In transit",
     "location": "Detroit, MI",
     "lat": 42.4801,
-    "lng": -83.005
+    "lng": -83.005,
+    "lastUpdate": "2026-10-13T08:08:09.000Z"
   },
   {
     "id": "VH-0009",
@@ -78,7 +86,8 @@
     "status": "In transit",
     "location": "Kansas City, MO",
     "lat": 38.9197,
-    "lng": -94.8392
+    "lng": -94.8392,
+    "lastUpdate": "2026-10-13T08:03:51.000Z"
   },
   {
     "id": "VH-0010",
@@ -87,7 +96,8 @@
     "status": "Maintenance",
     "location": "Des Moines, IA",
     "lat": 41.8459,
-    "lng": -93.6746
+    "lng": -93.6746,
+    "lastUpdate": "2026-10-13T07:13:41.000Z"
   },
   {
     "id": "VH-0011",
@@ -96,7 +106,8 @@
     "status": "In transit",
     "location": "Minneapolis, MN",
     "lat": 44.9417,
-    "lng": -93.0557
+    "lng": -93.0557,
+    "lastUpdate": "2026-10-13T08:21:44.000Z"
   },
   {
     "id": "VH-0012",
@@ -105,7 +116,8 @@
     "status": "In transit",
     "location": "Milwaukee, WI",
     "lat": 42.8416,
-    "lng": -88.0148
+    "lng": -88.0148,
+    "lastUpdate": "2026-10-13T07:58:21.000Z"
   },
   {
     "id": "VH-0013",
@@ -114,7 +126,8 @@
     "status": "In transit",
     "location": "Cleveland, OH",
     "lat": 41.6764,
-    "lng": -81.6076
+    "lng": -81.6076,
+    "lastUpdate": "2026-10-13T07:10:27.000Z"
   },
   {
     "id": "VH-0014",
@@ -123,7 +136,8 @@
     "status": "Delayed",
     "location": "Cleveland, OH",
     "lat": 41.7671,
-    "lng": -81.936
+    "lng": -81.936,
+    "lastUpdate": "2026-10-13T07:22:02.000Z"
   },
   {
     "id": "VH-0015",
@@ -132,7 +146,8 @@
     "status": "Maintenance",
     "location": "Toledo, OH",
     "lat": 41.6978,
-    "lng": -83.5724
+    "lng": -83.5724,
+    "lastUpdate": "2026-10-13T07:45:39.000Z"
   },
   {
     "id": "VH-0016",
@@ -141,7 +156,8 @@
     "status": "In transit",
     "location": "Omaha, NE",
     "lat": 41.1074,
-    "lng": -96.0028
+    "lng": -96.0028,
+    "lastUpdate": "2026-10-13T06:42:41.000Z"
   },
   {
     "id": "VH-0017",
@@ -150,7 +166,8 @@
     "status": "In transit",
     "location": "Chicago, IL",
     "lat": 41.7666,
-    "lng": -87.7452
+    "lng": -87.7452,
+    "lastUpdate": "2026-10-13T08:04:12.000Z"
   },
   {
     "id": "VH-0018",
@@ -159,7 +176,8 @@
     "status": "In transit",
     "location": "Detroit, MI",
     "lat": 42.234,
-    "lng": -82.997
+    "lng": -82.997,
+    "lastUpdate": "2026-10-13T08:04:24.000Z"
   },
   {
     "id": "VH-0019",
@@ -168,7 +186,8 @@
     "status": "Idle",
     "location": "Cleveland, OH",
     "lat": 41.7829,
-    "lng": -81.5247
+    "lng": -81.5247,
+    "lastUpdate": "2026-10-13T07:36:10.000Z"
   },
   {
     "id": "VH-0020",
@@ -177,7 +196,8 @@
     "status": "Maintenance",
     "location": "Milwaukee, WI",
     "lat": 43.1529,
-    "lng": -87.6624
+    "lng": -87.6624,
+    "lastUpdate": "2026-10-13T08:06:33.000Z"
   },
   {
     "id": "VH-0021",
@@ -186,7 +206,8 @@
     "status": "Delayed",
     "location": "St. Louis, MO",
     "lat": 38.4164,
-    "lng": -90.4819
+    "lng": -90.4819,
+    "lastUpdate": "2026-10-13T06:01:49.000Z"
   },
   {
     "id": "VH-0022",
@@ -195,7 +216,8 @@
     "status": "In transit",
     "location": "Omaha, NE",
     "lat": 41.2714,
-    "lng": -96.1539
+    "lng": -96.1539,
+    "lastUpdate": "2026-10-13T06:02:16.000Z"
   },
   {
     "id": "VH-0023",
@@ -204,7 +226,8 @@
     "status": "Maintenance",
     "location": "Cincinnati, OH",
     "lat": 39.2886,
-    "lng": -84.7236
+    "lng": -84.7236,
+    "lastUpdate": "2026-10-13T08:05:18.000Z"
   },
   {
     "id": "VH-0024",
@@ -213,7 +236,8 @@
     "status": "Loading",
     "location": "Kansas City, MO",
     "lat": 39.1697,
-    "lng": -94.3352
+    "lng": -94.3352,
+    "lastUpdate": "2026-10-13T08:46:16.000Z"
   },
   {
     "id": "VH-0025",
@@ -222,7 +246,8 @@
     "status": "Delayed",
     "location": "Fort Wayne, IN",
     "lat": 41.2041,
-    "lng": -85.0838
+    "lng": -85.0838,
+    "lastUpdate": "2026-10-13T06:29:42.000Z"
   },
   {
     "id": "VH-0026",
@@ -231,7 +256,8 @@
     "status": "Idle",
     "location": "Fort Wayne, IN",
     "lat": 41.3777,
-    "lng": -85.3422
+    "lng": -85.3422,
+    "lastUpdate": "2026-10-13T07:26:52.000Z"
   },
   {
     "id": "VH-0027",
@@ -240,7 +266,8 @@
     "status": "In transit",
     "location": "Des Moines, IA",
     "lat": 41.6127,
-    "lng": -93.6088
+    "lng": -93.6088,
+    "lastUpdate": "2026-10-13T07:38:26.000Z"
   },
   {
     "id": "VH-0028",
@@ -249,7 +276,8 @@
     "status": "In transit",
     "location": "Milwaukee, WI",
     "lat": 43.1828,
-    "lng": -87.993
+    "lng": -87.993,
+    "lastUpdate": "2026-10-13T06:43:26.000Z"
   },
   {
     "id": "VH-0029",
@@ -258,7 +286,8 @@
     "status": "Maintenance",
     "location": "Columbus, OH",
     "lat": 39.8575,
-    "lng": -83.127
+    "lng": -83.127,
+    "lastUpdate": "2026-10-13T06:50:59.000Z"
   },
   {
     "id": "VH-0030",
@@ -267,7 +296,8 @@
     "status": "In transit",
     "location": "Chicago, IL",
     "lat": 41.6182,
-    "lng": -87.679
+    "lng": -87.679,
+    "lastUpdate": "2026-10-13T08:39:53.000Z"
   },
   {
     "id": "VH-0031",
@@ -276,7 +306,8 @@
     "status": "Idle",
     "location": "Minneapolis, MN",
     "lat": 44.831,
-    "lng": -93.0494
+    "lng": -93.0494,
+    "lastUpdate": "2026-10-13T07:15:05.000Z"
   },
   {
     "id": "VH-0032",
@@ -285,7 +316,8 @@
     "status": "Delayed",
     "location": "Kansas City, MO",
     "lat": 39.0916,
-    "lng": -94.5755
+    "lng": -94.5755,
+    "lastUpdate": "2026-10-13T07:57:21.000Z"
   },
   {
     "id": "VH-0033",
@@ -294,7 +326,8 @@
     "status": "In transit",
     "location": "Omaha, NE",
     "lat": 41.4266,
-    "lng": -95.9962
+    "lng": -95.9962,
+    "lastUpdate": "2026-10-13T08:32:21.000Z"
   },
   {
     "id": "VH-0034",
@@ -303,7 +336,8 @@
     "status": "In transit",
     "location": "Chicago, IL",
     "lat": 41.832,
-    "lng": -87.4716
+    "lng": -87.4716,
+    "lastUpdate": "2026-10-13T06:38:43.000Z"
   },
   {
     "id": "VH-0035",
@@ -312,7 +346,8 @@
     "status": "Loading",
     "location": "Madison, WI",
     "lat": 43.0557,
-    "lng": -89.1191
+    "lng": -89.1191,
+    "lastUpdate": "2026-10-13T07:52:50.000Z"
   },
   {
     "id": "VH-0036",
@@ -321,7 +356,8 @@
     "status": "Idle",
     "location": "Kansas City, MO",
     "lat": 39.0655,
-    "lng": -94.2938
+    "lng": -94.2938,
+    "lastUpdate": "2026-10-13T07:30:51.000Z"
   },
   {
     "id": "VH-0037",
@@ -330,7 +366,8 @@
     "status": "In transit",
     "location": "Omaha, NE",
     "lat": 41.4313,
-    "lng": -95.6843
+    "lng": -95.6843,
+    "lastUpdate": "2026-10-13T08:18:00.000Z"
   },
   {
     "id": "VH-0038",
@@ -339,7 +376,8 @@
     "status": "Idle",
     "location": "Cincinnati, OH",
     "lat": 39.3552,
-    "lng": -84.6557
+    "lng": -84.6557,
+    "lastUpdate": "2026-10-13T06:32:46.000Z"
   },
   {
     "id": "VH-0039",
@@ -348,7 +386,8 @@
     "status": "Loading",
     "location": "St. Louis, MO",
     "lat": 38.8588,
-    "lng": -90.171
+    "lng": -90.171,
+    "lastUpdate": "2026-10-13T07:06:51.000Z"
   },
   {
     "id": "VH-0040",
@@ -357,7 +396,8 @@
     "status": "Maintenance",
     "location": "Omaha, NE",
     "lat": 41.2248,
-    "lng": -96.1489
+    "lng": -96.1489,
+    "lastUpdate": "2026-10-13T07:36:42.000Z"
   },
   {
     "id": "VH-0041",
@@ -366,7 +406,8 @@
     "status": "In transit",
     "location": "Minneapolis, MN",
     "lat": 45.1437,
-    "lng": -93.1156
+    "lng": -93.1156,
+    "lastUpdate": "2026-10-13T06:43:30.000Z"
   },
   {
     "id": "VH-0042",
@@ -375,7 +416,8 @@
     "status": "In transit",
     "location": "Milwaukee, WI",
     "lat": 42.9395,
-    "lng": -88.2
+    "lng": -88.2,
+    "lastUpdate": "2026-10-13T07:15:48.000Z"
   },
   {
     "id": "VH-0043",
@@ -384,7 +426,8 @@
     "status": "In transit",
     "location": "Detroit, MI",
     "lat": 42.6281,
-    "lng": -83.0564
+    "lng": -83.0564,
+    "lastUpdate": "2026-10-13T08:26:25.000Z"
   },
   {
     "id": "VH-0044",
@@ -393,7 +436,8 @@
     "status": "In transit",
     "location": "Des Moines, IA",
     "lat": 41.3378,
-    "lng": -93.7761
+    "lng": -93.7761,
+    "lastUpdate": "2026-10-13T06:18:30.000Z"
   },
   {
     "id": "VH-0045",
@@ -402,7 +446,8 @@
     "status": "Delayed",
     "location": "Milwaukee, WI",
     "lat": 43.2616,
-    "lng": -87.7895
+    "lng": -87.7895,
+    "lastUpdate": "2026-10-13T07:43:12.000Z"
   },
   {
     "id": "VH-0046",
@@ -411,7 +456,8 @@
     "status": "Idle",
     "location": "Madison, WI",
     "lat": 42.833,
-    "lng": -89.6547
+    "lng": -89.6547,
+    "lastUpdate": "2026-10-13T06:30:41.000Z"
   },
   {
     "id": "VH-0047",
@@ -420,7 +466,8 @@
     "status": "In transit",
     "location": "Kansas City, MO",
     "lat": 38.9625,
-    "lng": -94.6988
+    "lng": -94.6988,
+    "lastUpdate": "2026-10-13T06:28:04.000Z"
   },
   {
     "id": "VH-0048",
@@ -429,7 +476,8 @@
     "status": "Idle",
     "location": "Milwaukee, WI",
     "lat": 43.2099,
-    "lng": -88.0405
+    "lng": -88.0405,
+    "lastUpdate": "2026-10-13T08:36:28.000Z"
   },
   {
     "id": "VH-0049",
@@ -438,7 +486,8 @@
     "status": "In transit",
     "location": "Detroit, MI",
     "lat": 42.2816,
-    "lng": -83.282
+    "lng": -83.282,
+    "lastUpdate": "2026-10-13T07:13:03.000Z"
   },
   {
     "id": "VH-0050",
@@ -447,7 +496,8 @@
     "status": "In transit",
     "location": "Toledo, OH",
     "lat": 41.8919,
-    "lng": -83.6722
+    "lng": -83.6722,
+    "lastUpdate": "2026-10-13T06:28:01.000Z"
   },
   {
     "id": "VH-0051",
@@ -456,7 +506,8 @@
     "status": "Idle",
     "location": "Indianapolis, IN",
     "lat": 40.012,
-    "lng": -85.9689
+    "lng": -85.9689,
+    "lastUpdate": "2026-10-13T06:03:45.000Z"
   },
   {
     "id": "VH-0052",
@@ -465,7 +516,8 @@
     "status": "In transit",
     "location": "Kansas City, MO",
     "lat": 38.9458,
-    "lng": -94.8401
+    "lng": -94.8401,
+    "lastUpdate": "2026-10-13T06:30:46.000Z"
   },
   {
     "id": "VH-0053",
@@ -474,7 +526,8 @@
     "status": "Idle",
     "location": "Fort Wayne, IN",
     "lat": 40.9298,
-    "lng": -85.0428
+    "lng": -85.0428,
+    "lastUpdate": "2026-10-13T06:35:40.000Z"
   },
   {
     "id": "VH-0054",
@@ -483,7 +536,8 @@
     "status": "Delayed",
     "location": "Cleveland, OH",
     "lat": 41.6676,
-    "lng": -81.6219
+    "lng": -81.6219,
+    "lastUpdate": "2026-10-13T06:23:46.000Z"
   },
   {
     "id": "VH-0055",
@@ -492,7 +546,8 @@
     "status": "Loading",
     "location": "Cincinnati, OH",
     "lat": 39.2847,
-    "lng": -84.2187
+    "lng": -84.2187,
+    "lastUpdate": "2026-10-13T07:27:54.000Z"
   },
   {
     "id": "VH-0056",
@@ -501,7 +556,8 @@
     "status": "In transit",
     "location": "Louisville, KY",
     "lat": 38.4718,
-    "lng": -85.9515
+    "lng": -85.9515,
+    "lastUpdate": "2026-10-13T07:51:45.000Z"
   },
   {
     "id": "VH-0057",
@@ -510,7 +566,8 @@
     "status": "Idle",
     "location": "Des Moines, IA",
     "lat": 41.7766,
-    "lng": -93.7042
+    "lng": -93.7042,
+    "lastUpdate": "2026-10-13T06:37:40.000Z"
   },
   {
     "id": "VH-0058",
@@ -519,7 +576,8 @@
     "status": "In transit",
     "location": "St. Louis, MO",
     "lat": 38.9126,
-    "lng": -90.0242
+    "lng": -90.0242,
+    "lastUpdate": "2026-10-13T08:36:03.000Z"
   },
   {
     "id": "VH-0059",
@@ -528,7 +586,8 @@
     "status": "Loading",
     "location": "Cleveland, OH",
     "lat": 41.4863,
-    "lng": -81.5402
+    "lng": -81.5402,
+    "lastUpdate": "2026-10-13T08:18:41.000Z"
   },
   {
     "id": "VH-0060",
@@ -537,7 +596,8 @@
     "status": "Delayed",
     "location": "St. Louis, MO",
     "lat": 38.4295,
-    "lng": -90.3902
+    "lng": -90.3902,
+    "lastUpdate": "2026-10-13T07:40:22.000Z"
   },
   {
     "id": "VH-0061",
@@ -546,7 +606,8 @@
     "status": "Maintenance",
     "location": "Toledo, OH",
     "lat": 41.6877,
-    "lng": -83.6353
+    "lng": -83.6353,
+    "lastUpdate": "2026-10-13T07:44:08.000Z"
   },
   {
     "id": "VH-0062",
@@ -555,7 +616,8 @@
     "status": "In transit",
     "location": "Fort Wayne, IN",
     "lat": 41.1296,
-    "lng": -84.8734
+    "lng": -84.8734,
+    "lastUpdate": "2026-10-13T08:27:54.000Z"
   },
   {
     "id": "VH-0063",
@@ -564,7 +626,8 @@
     "status": "In transit",
     "location": "Milwaukee, WI",
     "lat": 42.8216,
-    "lng": -87.6842
+    "lng": -87.6842,
+    "lastUpdate": "2026-10-13T07:46:49.000Z"
   },
   {
     "id": "VH-0064",
@@ -573,7 +636,8 @@
     "status": "In transit",
     "location": "Detroit, MI",
     "lat": 42.1408,
-    "lng": -83.2127
+    "lng": -83.2127,
+    "lastUpdate": "2026-10-13T06:11:20.000Z"
   },
   {
     "id": "VH-0065",
@@ -582,7 +646,8 @@
     "status": "Maintenance",
     "location": "Chicago, IL",
     "lat": 41.9923,
-    "lng": -87.5975
+    "lng": -87.5975,
+    "lastUpdate": "2026-10-13T07:01:27.000Z"
   },
   {
     "id": "VH-0066",
@@ -591,7 +656,8 @@
     "status": "In transit",
     "location": "Minneapolis, MN",
     "lat": 44.8224,
-    "lng": -93.4739
+    "lng": -93.4739,
+    "lastUpdate": "2026-10-13T08:13:30.000Z"
   },
   {
     "id": "VH-0067",
@@ -600,7 +666,8 @@
     "status": "In transit",
     "location": "Madison, WI",
     "lat": 42.9546,
-    "lng": -89.2014
+    "lng": -89.2014,
+    "lastUpdate": "2026-10-13T06:35:49.000Z"
   },
   {
     "id": "VH-0068",
@@ -609,7 +676,8 @@
     "status": "In transit",
     "location": "Fort Wayne, IN",
     "lat": 41.2709,
-    "lng": -85.0288
+    "lng": -85.0288,
+    "lastUpdate": "2026-10-13T06:04:11.000Z"
   },
   {
     "id": "VH-0069",
@@ -618,7 +686,8 @@
     "status": "Delayed",
     "location": "Toledo, OH",
     "lat": 41.8742,
-    "lng": -83.3542
+    "lng": -83.3542,
+    "lastUpdate": "2026-10-13T07:13:06.000Z"
   },
   {
     "id": "VH-0070",
@@ -627,7 +696,8 @@
     "status": "Delayed",
     "location": "Milwaukee, WI",
     "lat": 43.2452,
-    "lng": -87.6737
+    "lng": -87.6737,
+    "lastUpdate": "2026-10-13T06:50:37.000Z"
   },
   {
     "id": "VH-0071",
@@ -636,7 +706,8 @@
     "status": "In transit",
     "location": "Omaha, NE",
     "lat": 41.3457,
-    "lng": -95.8765
+    "lng": -95.8765,
+    "lastUpdate": "2026-10-13T08:50:56.000Z"
   },
   {
     "id": "VH-0072",
@@ -645,7 +716,8 @@
     "status": "In transit",
     "location": "Chicago, IL",
     "lat": 41.8048,
-    "lng": -87.685
+    "lng": -87.685,
+    "lastUpdate": "2026-10-13T06:21:22.000Z"
   },
   {
     "id": "VH-0073",
@@ -654,7 +726,8 @@
     "status": "Delayed",
     "location": "Chicago, IL",
     "lat": 41.8843,
-    "lng": -87.4223
+    "lng": -87.4223,
+    "lastUpdate": "2026-10-13T08:10:12.000Z"
   },
   {
     "id": "VH-0074",
@@ -663,7 +736,8 @@
     "status": "Maintenance",
     "location": "Omaha, NE",
     "lat": 41.3155,
-    "lng": -96.1006
+    "lng": -96.1006,
+    "lastUpdate": "2026-10-13T08:33:41.000Z"
   },
   {
     "id": "VH-0075",
@@ -672,7 +746,8 @@
     "status": "Delayed",
     "location": "Kansas City, MO",
     "lat": 39.1332,
-    "lng": -94.527
+    "lng": -94.527,
+    "lastUpdate": "2026-10-13T06:35:31.000Z"
   },
   {
     "id": "VH-0076",
@@ -681,7 +756,8 @@
     "status": "In transit",
     "location": "Indianapolis, IN",
     "lat": 39.7964,
-    "lng": -86.3493
+    "lng": -86.3493,
+    "lastUpdate": "2026-10-13T08:42:06.000Z"
   },
   {
     "id": "VH-0077",
@@ -690,7 +766,8 @@
     "status": "Maintenance",
     "location": "Madison, WI",
     "lat": 43.2638,
-    "lng": -89.3393
+    "lng": -89.3393,
+    "lastUpdate": "2026-10-13T07:42:03.000Z"
   },
   {
     "id": "VH-0078",
@@ -699,7 +776,8 @@
     "status": "In transit",
     "location": "Columbus, OH",
     "lat": 40.1112,
-    "lng": -82.9017
+    "lng": -82.9017,
+    "lastUpdate": "2026-10-13T07:15:58.000Z"
   },
   {
     "id": "VH-0079",
@@ -708,7 +786,8 @@
     "status": "Delayed",
     "location": "Milwaukee, WI",
     "lat": 43.299,
-    "lng": -87.8289
+    "lng": -87.8289,
+    "lastUpdate": "2026-10-13T08:48:10.000Z"
   },
   {
     "id": "VH-0080",
@@ -717,7 +796,8 @@
     "status": "Maintenance",
     "location": "Louisville, KY",
     "lat": 38.399,
-    "lng": -85.6379
+    "lng": -85.6379,
+    "lastUpdate": "2026-10-13T08:34:54.000Z"
   },
   {
     "id": "VH-0081",
@@ -726,7 +806,8 @@
     "status": "Delayed",
     "location": "Chicago, IL",
     "lat": 42.1604,
-    "lng": -87.7735
+    "lng": -87.7735,
+    "lastUpdate": "2026-10-13T06:28:15.000Z"
   },
   {
     "id": "VH-0082",
@@ -735,7 +816,8 @@
     "status": "In transit",
     "location": "Milwaukee, WI",
     "lat": 43.2096,
-    "lng": -87.7129
+    "lng": -87.7129,
+    "lastUpdate": "2026-10-13T07:57:27.000Z"
   },
   {
     "id": "VH-0083",
@@ -744,7 +826,8 @@
     "status": "Idle",
     "location": "Des Moines, IA",
     "lat": 41.6967,
-    "lng": -93.4628
+    "lng": -93.4628,
+    "lastUpdate": "2026-10-13T08:35:34.000Z"
   },
   {
     "id": "VH-0084",
@@ -753,7 +836,8 @@
     "status": "In transit",
     "location": "St. Louis, MO",
     "lat": 38.8373,
-    "lng": -90.2378
+    "lng": -90.2378,
+    "lastUpdate": "2026-10-13T07:10:10.000Z"
   },
   {
     "id": "VH-0085",
@@ -762,7 +846,8 @@
     "status": "In transit",
     "location": "Minneapolis, MN",
     "lat": 44.8209,
-    "lng": -93.0177
+    "lng": -93.0177,
+    "lastUpdate": "2026-10-13T06:46:03.000Z"
   },
   {
     "id": "VH-0086",
@@ -771,7 +856,8 @@
     "status": "Maintenance",
     "location": "Columbus, OH",
     "lat": 39.8847,
-    "lng": -83.1219
+    "lng": -83.1219,
+    "lastUpdate": "2026-10-13T08:08:17.000Z"
   },
   {
     "id": "VH-0087",
@@ -780,7 +866,8 @@
     "status": "In transit",
     "location": "Des Moines, IA",
     "lat": 41.5687,
-    "lng": -93.3274
+    "lng": -93.3274,
+    "lastUpdate": "2026-10-13T08:38:31.000Z"
   },
   {
     "id": "VH-0088",
@@ -789,7 +876,8 @@
     "status": "In transit",
     "location": "Kansas City, MO",
     "lat": 38.9627,
-    "lng": -94.3927
+    "lng": -94.3927,
+    "lastUpdate": "2026-10-13T08:15:29.000Z"
   },
   {
     "id": "VH-0089",
@@ -798,7 +886,8 @@
     "status": "Delayed",
     "location": "Cleveland, OH",
     "lat": 41.4272,
-    "lng": -81.7083
+    "lng": -81.7083,
+    "lastUpdate": "2026-10-13T08:07:12.000Z"
   },
   {
     "id": "VH-0090",
@@ -807,7 +896,8 @@
     "status": "Loading",
     "location": "Fort Wayne, IN",
     "lat": 41.1537,
-    "lng": -85.391
+    "lng": -85.391,
+    "lastUpdate": "2026-10-13T08:32:01.000Z"
   },
   {
     "id": "VH-0091",
@@ -816,7 +906,8 @@
     "status": "In transit",
     "location": "Toledo, OH",
     "lat": 41.908,
-    "lng": -83.5581
+    "lng": -83.5581,
+    "lastUpdate": "2026-10-13T07:15:23.000Z"
   },
   {
     "id": "VH-0092",
@@ -825,7 +916,8 @@
     "status": "In transit",
     "location": "Indianapolis, IN",
     "lat": 39.6726,
-    "lng": -86.3579
+    "lng": -86.3579,
+    "lastUpdate": "2026-10-13T06:40:14.000Z"
   },
   {
     "id": "VH-0093",
@@ -834,7 +926,8 @@
     "status": "Idle",
     "location": "Fort Wayne, IN",
     "lat": 41.371,
-    "lng": -85.2462
+    "lng": -85.2462,
+    "lastUpdate": "2026-10-13T06:42:13.000Z"
   },
   {
     "id": "VH-0094",
@@ -843,7 +936,8 @@
     "status": "Loading",
     "location": "Cincinnati, OH",
     "lat": 38.8428,
-    "lng": -84.2113
+    "lng": -84.2113,
+    "lastUpdate": "2026-10-13T07:34:44.000Z"
   },
   {
     "id": "VH-0095",
@@ -852,7 +946,8 @@
     "status": "Maintenance",
     "location": "Des Moines, IA",
     "lat": 41.3294,
-    "lng": -93.6515
+    "lng": -93.6515,
+    "lastUpdate": "2026-10-13T06:18:03.000Z"
   },
   {
     "id": "VH-0096",
@@ -861,7 +956,8 @@
     "status": "In transit",
     "location": "Cleveland, OH",
     "lat": 41.7222,
-    "lng": -81.8316
+    "lng": -81.8316,
+    "lastUpdate": "2026-10-13T07:04:32.000Z"
   },
   {
     "id": "VH-0097",
@@ -870,7 +966,8 @@
     "status": "Idle",
     "location": "Kansas City, MO",
     "lat": 39.285,
-    "lng": -94.5358
+    "lng": -94.5358,
+    "lastUpdate": "2026-10-13T08:36:38.000Z"
   },
   {
     "id": "VH-0098",
@@ -879,7 +976,8 @@
     "status": "Loading",
     "location": "Omaha, NE",
     "lat": 41.0446,
-    "lng": -95.9608
+    "lng": -95.9608,
+    "lastUpdate": "2026-10-13T08:34:15.000Z"
   },
   {
     "id": "VH-0099",
@@ -888,7 +986,8 @@
     "status": "In transit",
     "location": "Des Moines, IA",
     "lat": 41.7727,
-    "lng": -93.545
+    "lng": -93.545,
+    "lastUpdate": "2026-10-13T07:25:47.000Z"
   },
   {
     "id": "VH-0100",
@@ -897,7 +996,8 @@
     "status": "In transit",
     "location": "Cleveland, OH",
     "lat": 41.6413,
-    "lng": -81.8002
+    "lng": -81.8002,
+    "lastUpdate": "2026-10-13T07:25:02.000Z"
   },
   {
     "id": "VH-0101",
@@ -906,7 +1006,8 @@
     "status": "Delayed",
     "location": "Detroit, MI",
     "lat": 42.4193,
-    "lng": -82.8172
+    "lng": -82.8172,
+    "lastUpdate": "2026-10-13T07:58:15.000Z"
   },
   {
     "id": "VH-0102",
@@ -915,7 +1016,8 @@
     "status": "Delayed",
     "location": "Milwaukee, WI",
     "lat": 42.78,
-    "lng": -88.1955
+    "lng": -88.1955,
+    "lastUpdate": "2026-10-13T06:14:16.000Z"
   },
   {
     "id": "VH-0103",
@@ -924,7 +1026,8 @@
     "status": "In transit",
     "location": "Minneapolis, MN",
     "lat": 44.696,
-    "lng": -93.5071
+    "lng": -93.5071,
+    "lastUpdate": "2026-10-13T08:35:36.000Z"
   },
   {
     "id": "VH-0104",
@@ -933,7 +1036,8 @@
     "status": "In transit",
     "location": "Omaha, NE",
     "lat": 41.5453,
-    "lng": -95.7382
+    "lng": -95.7382,
+    "lastUpdate": "2026-10-13T08:58:28.000Z"
   },
   {
     "id": "VH-0105",
@@ -942,7 +1046,8 @@
     "status": "Maintenance",
     "location": "Indianapolis, IN",
     "lat": 39.6542,
-    "lng": -86.0785
+    "lng": -86.0785,
+    "lastUpdate": "2026-10-13T06:06:18.000Z"
   },
   {
     "id": "VH-0106",
@@ -951,7 +1056,8 @@
     "status": "Idle",
     "location": "Cincinnati, OH",
     "lat": 39.2467,
-    "lng": -84.6894
+    "lng": -84.6894,
+    "lastUpdate": "2026-10-13T06:03:19.000Z"
   },
   {
     "id": "VH-0107",
@@ -960,7 +1066,8 @@
     "status": "In transit",
     "location": "Toledo, OH",
     "lat": 41.5338,
-    "lng": -83.3659
+    "lng": -83.3659,
+    "lastUpdate": "2026-10-13T06:40:24.000Z"
   },
   {
     "id": "VH-0108",
@@ -969,7 +1076,8 @@
     "status": "Loading",
     "location": "Des Moines, IA",
     "lat": 41.4015,
-    "lng": -93.5453
+    "lng": -93.5453,
+    "lastUpdate": "2026-10-13T08:01:22.000Z"
   },
   {
     "id": "VH-0109",
@@ -978,7 +1086,8 @@
     "status": "In transit",
     "location": "Madison, WI",
     "lat": 42.8209,
-    "lng": -89.5685
+    "lng": -89.5685,
+    "lastUpdate": "2026-10-13T06:57:00.000Z"
   },
   {
     "id": "VH-0110",
@@ -987,7 +1096,8 @@
     "status": "In transit",
     "location": "Chicago, IL",
     "lat": 41.981,
-    "lng": -87.894
+    "lng": -87.894,
+    "lastUpdate": "2026-10-13T08:07:02.000Z"
   },
   {
     "id": "VH-0111",
@@ -996,7 +1106,8 @@
     "status": "Idle",
     "location": "Minneapolis, MN",
     "lat": 45.0232,
-    "lng": -93.1251
+    "lng": -93.1251,
+    "lastUpdate": "2026-10-13T07:36:00.000Z"
   },
   {
     "id": "VH-0112",
@@ -1005,7 +1116,8 @@
     "status": "In transit",
     "location": "Indianapolis, IN",
     "lat": 39.9838,
-    "lng": -86.1755
+    "lng": -86.1755,
+    "lastUpdate": "2026-10-13T07:09:53.000Z"
   },
   {
     "id": "VH-0113",
@@ -1014,7 +1126,8 @@
     "status": "Idle",
     "location": "St. Louis, MO",
     "lat": 38.6818,
-    "lng": -90.3994
+    "lng": -90.3994,
+    "lastUpdate": "2026-10-13T06:44:14.000Z"
   },
   {
     "id": "VH-0114",
@@ -1023,7 +1136,8 @@
     "status": "Loading",
     "location": "Fort Wayne, IN",
     "lat": 41.3509,
-    "lng": -85.1186
+    "lng": -85.1186,
+    "lastUpdate": "2026-10-13T07:44:32.000Z"
   },
   {
     "id": "VH-0115",
@@ -1032,7 +1146,8 @@
     "status": "In transit",
     "location": "Chicago, IL",
     "lat": 42.0273,
-    "lng": -87.6902
+    "lng": -87.6902,
+    "lastUpdate": "2026-10-13T06:33:49.000Z"
   },
   {
     "id": "VH-0116",
@@ -1041,7 +1156,8 @@
     "status": "In transit",
     "location": "Minneapolis, MN",
     "lat": 44.7453,
-    "lng": -93.5142
+    "lng": -93.5142,
+    "lastUpdate": "2026-10-13T06:56:36.000Z"
   },
   {
     "id": "VH-0117",
@@ -1050,7 +1166,8 @@
     "status": "In transit",
     "location": "Fort Wayne, IN",
     "lat": 41.1703,
-    "lng": -85.3052
+    "lng": -85.3052,
+    "lastUpdate": "2026-10-13T07:09:03.000Z"
   },
   {
     "id": "VH-0118",
@@ -1059,7 +1176,8 @@
     "status": "Maintenance",
     "location": "Kansas City, MO",
     "lat": 38.9103,
-    "lng": -94.5966
+    "lng": -94.5966,
+    "lastUpdate": "2026-10-13T07:08:45.000Z"
   },
   {
     "id": "VH-0119",
@@ -1068,7 +1186,8 @@
     "status": "In transit",
     "location": "Columbus, OH",
     "lat": 39.9487,
-    "lng": -82.7458
+    "lng": -82.7458,
+    "lastUpdate": "2026-10-13T07:38:14.000Z"
   },
   {
     "id": "VH-0120",
@@ -1077,7 +1196,8 @@
     "status": "Maintenance",
     "location": "Cincinnati, OH",
     "lat": 39.0419,
-    "lng": -84.5944
+    "lng": -84.5944,
+    "lastUpdate": "2026-10-13T07:32:45.000Z"
   },
   {
     "id": "VH-0121",
@@ -1086,7 +1206,8 @@
     "status": "Idle",
     "location": "St. Louis, MO",
     "lat": 38.5507,
-    "lng": -90.364
+    "lng": -90.364,
+    "lastUpdate": "2026-10-13T08:11:23.000Z"
   },
   {
     "id": "VH-0122",
@@ -1095,7 +1216,8 @@
     "status": "Delayed",
     "location": "Minneapolis, MN",
     "lat": 44.9365,
-    "lng": -93.3522
+    "lng": -93.3522,
+    "lastUpdate": "2026-10-13T06:30:30.000Z"
   },
   {
     "id": "VH-0123",
@@ -1104,7 +1226,8 @@
     "status": "Loading",
     "location": "Cleveland, OH",
     "lat": 41.6051,
-    "lng": -81.8395
+    "lng": -81.8395,
+    "lastUpdate": "2026-10-13T06:22:42.000Z"
   },
   {
     "id": "VH-0124",
@@ -1113,7 +1236,8 @@
     "status": "Idle",
     "location": "Cleveland, OH",
     "lat": 41.2837,
-    "lng": -81.5565
+    "lng": -81.5565,
+    "lastUpdate": "2026-10-13T08:27:47.000Z"
   },
   {
     "id": "VH-0125",
@@ -1122,7 +1246,8 @@
     "status": "Loading",
     "location": "Fort Wayne, IN",
     "lat": 41.1756,
-    "lng": -85.3238
+    "lng": -85.3238,
+    "lastUpdate": "2026-10-13T07:03:20.000Z"
   },
   {
     "id": "VH-0126",
@@ -1131,7 +1256,8 @@
     "status": "Delayed",
     "location": "Columbus, OH",
     "lat": 40.2234,
-    "lng": -83.0878
+    "lng": -83.0878,
+    "lastUpdate": "2026-10-13T07:19:49.000Z"
   },
   {
     "id": "VH-0127",
@@ -1140,7 +1266,8 @@
     "status": "Idle",
     "location": "Cincinnati, OH",
     "lat": 38.92,
-    "lng": -84.3748
+    "lng": -84.3748,
+    "lastUpdate": "2026-10-13T08:30:47.000Z"
   },
   {
     "id": "VH-0128",
@@ -1149,7 +1276,8 @@
     "status": "In transit",
     "location": "Louisville, KY",
     "lat": 38.2846,
-    "lng": -85.9977
+    "lng": -85.9977,
+    "lastUpdate": "2026-10-13T07:37:04.000Z"
   },
   {
     "id": "VH-0129",
@@ -1158,7 +1286,8 @@
     "status": "In transit",
     "location": "Kansas City, MO",
     "lat": 38.8828,
-    "lng": -94.6539
+    "lng": -94.6539,
+    "lastUpdate": "2026-10-13T07:00:07.000Z"
   },
   {
     "id": "VH-0130",
@@ -1167,7 +1296,8 @@
     "status": "Delayed",
     "location": "Columbus, OH",
     "lat": 40.2014,
-    "lng": -83.2726
+    "lng": -83.2726,
+    "lastUpdate": "2026-10-13T07:13:17.000Z"
   },
   {
     "id": "VH-0131",
@@ -1176,7 +1306,8 @@
     "status": "Delayed",
     "location": "Minneapolis, MN",
     "lat": 45.1406,
-    "lng": -93.402
+    "lng": -93.402,
+    "lastUpdate": "2026-10-13T06:52:27.000Z"
   },
   {
     "id": "VH-0132",
@@ -1185,7 +1316,8 @@
     "status": "Maintenance",
     "location": "Cincinnati, OH",
     "lat": 39.3111,
-    "lng": -84.5869
+    "lng": -84.5869,
+    "lastUpdate": "2026-10-13T08:46:20.000Z"
   },
   {
     "id": "VH-0133",
@@ -1194,7 +1326,8 @@
     "status": "Idle",
     "location": "Fort Wayne, IN",
     "lat": 41.1641,
-    "lng": -85.338
+    "lng": -85.338,
+    "lastUpdate": "2026-10-13T08:34:28.000Z"
   },
   {
     "id": "VH-0134",
@@ -1203,7 +1336,8 @@
     "status": "Maintenance",
     "location": "Indianapolis, IN",
     "lat": 39.5494,
-    "lng": -86.3755
+    "lng": -86.3755,
+    "lastUpdate": "2026-10-13T07:40:31.000Z"
   },
   {
     "id": "VH-0135",
@@ -1212,7 +1346,8 @@
     "status": "In transit",
     "location": "Omaha, NE",
     "lat": 41.393,
-    "lng": -96.1997
+    "lng": -96.1997,
+    "lastUpdate": "2026-10-13T08:10:20.000Z"
   },
   {
     "id": "VH-0136",
@@ -1221,7 +1356,8 @@
     "status": "Idle",
     "location": "Minneapolis, MN",
     "lat": 44.7793,
-    "lng": -93.0378
+    "lng": -93.0378,
+    "lastUpdate": "2026-10-13T08:47:18.000Z"
   },
   {
     "id": "VH-0137",
@@ -1230,7 +1366,8 @@
     "status": "In transit",
     "location": "Columbus, OH",
     "lat": 39.7523,
-    "lng": -83.2721
+    "lng": -83.2721,
+    "lastUpdate": "2026-10-13T07:59:05.000Z"
   },
   {
     "id": "VH-0138",
@@ -1239,7 +1376,8 @@
     "status": "Idle",
     "location": "Minneapolis, MN",
     "lat": 44.8002,
-    "lng": -93.3198
+    "lng": -93.3198,
+    "lastUpdate": "2026-10-13T06:40:24.000Z"
   },
   {
     "id": "VH-0139",
@@ -1248,7 +1386,8 @@
     "status": "Delayed",
     "location": "Fort Wayne, IN",
     "lat": 41.3316,
-    "lng": -84.9379
+    "lng": -84.9379,
+    "lastUpdate": "2026-10-13T07:31:56.000Z"
   },
   {
     "id": "VH-0140",
@@ -1257,7 +1396,8 @@
     "status": "Idle",
     "location": "Des Moines, IA",
     "lat": 41.7691,
-    "lng": -93.6925
+    "lng": -93.6925,
+    "lastUpdate": "2026-10-13T06:33:16.000Z"
   },
   {
     "id": "VH-0141",
@@ -1266,7 +1406,8 @@
     "status": "Idle",
     "location": "Minneapolis, MN",
     "lat": 45.047,
-    "lng": -93.3286
+    "lng": -93.3286,
+    "lastUpdate": "2026-10-13T06:53:44.000Z"
   },
   {
     "id": "VH-0142",
@@ -1275,7 +1416,8 @@
     "status": "Maintenance",
     "location": "Detroit, MI",
     "lat": 42.3299,
-    "lng": -83.1093
+    "lng": -83.1093,
+    "lastUpdate": "2026-10-13T07:06:41.000Z"
   },
   {
     "id": "VH-0143",
@@ -1284,7 +1426,8 @@
     "status": "Idle",
     "location": "Columbus, OH",
     "lat": 39.9643,
-    "lng": -82.9247
+    "lng": -82.9247,
+    "lastUpdate": "2026-10-13T06:57:35.000Z"
   },
   {
     "id": "VH-0144",
@@ -1293,7 +1436,8 @@
     "status": "Loading",
     "location": "Des Moines, IA",
     "lat": 41.5546,
-    "lng": -93.8323
+    "lng": -93.8323,
+    "lastUpdate": "2026-10-13T07:27:30.000Z"
   },
   {
     "id": "VH-0145",
@@ -1302,7 +1446,8 @@
     "status": "Idle",
     "location": "Cincinnati, OH",
     "lat": 39.333,
-    "lng": -84.5049
+    "lng": -84.5049,
+    "lastUpdate": "2026-10-13T06:38:12.000Z"
   },
   {
     "id": "VH-0146",
@@ -1311,7 +1456,8 @@
     "status": "Loading",
     "location": "St. Louis, MO",
     "lat": 38.5976,
-    "lng": -90.4311
+    "lng": -90.4311,
+    "lastUpdate": "2026-10-13T06:50:33.000Z"
   },
   {
     "id": "VH-0147",
@@ -1320,7 +1466,8 @@
     "status": "In transit",
     "location": "Detroit, MI",
     "lat": 42.3304,
-    "lng": -82.9813
+    "lng": -82.9813,
+    "lastUpdate": "2026-10-13T07:52:44.000Z"
   },
   {
     "id": "VH-0148",
@@ -1329,7 +1476,8 @@
     "status": "In transit",
     "location": "Madison, WI",
     "lat": 43.3048,
-    "lng": -89.6741
+    "lng": -89.6741,
+    "lastUpdate": "2026-10-13T06:00:33.000Z"
   },
   {
     "id": "VH-0149",
@@ -1338,7 +1486,8 @@
     "status": "In transit",
     "location": "Minneapolis, MN",
     "lat": 44.8799,
-    "lng": -93.5144
+    "lng": -93.5144,
+    "lastUpdate": "2026-10-13T08:39:02.000Z"
   },
   {
     "id": "VH-0150",
@@ -1347,7 +1496,8 @@
     "status": "Maintenance",
     "location": "Toledo, OH",
     "lat": 41.792,
-    "lng": -83.4625
+    "lng": -83.4625,
+    "lastUpdate": "2026-10-13T06:42:42.000Z"
   },
   {
     "id": "VH-0151",
@@ -1356,7 +1506,8 @@
     "status": "In transit",
     "location": "Fort Wayne, IN",
     "lat": 40.8025,
-    "lng": -85.0701
+    "lng": -85.0701,
+    "lastUpdate": "2026-10-13T06:44:03.000Z"
   },
   {
     "id": "VH-0152",
@@ -1365,7 +1516,8 @@
     "status": "Loading",
     "location": "Madison, WI",
     "lat": 43.0187,
-    "lng": -89.5096
+    "lng": -89.5096,
+    "lastUpdate": "2026-10-13T08:25:29.000Z"
   },
   {
     "id": "VH-0153",
@@ -1374,7 +1526,8 @@
     "status": "In transit",
     "location": "Toledo, OH",
     "lat": 41.6507,
-    "lng": -83.6636
+    "lng": -83.6636,
+    "lastUpdate": "2026-10-13T06:00:39.000Z"
   },
   {
     "id": "VH-0154",
@@ -1383,7 +1536,8 @@
     "status": "In transit",
     "location": "Louisville, KY",
     "lat": 38.1471,
-    "lng": -85.6162
+    "lng": -85.6162,
+    "lastUpdate": "2026-10-13T07:09:51.000Z"
   },
   {
     "id": "VH-0155",
@@ -1392,7 +1546,8 @@
     "status": "In transit",
     "location": "Des Moines, IA",
     "lat": 41.5306,
-    "lng": -93.5208
+    "lng": -93.5208,
+    "lastUpdate": "2026-10-13T07:50:13.000Z"
   },
   {
     "id": "VH-0156",
@@ -1401,7 +1556,8 @@
     "status": "In transit",
     "location": "Minneapolis, MN",
     "lat": 44.9264,
-    "lng": -93.0361
+    "lng": -93.0361,
+    "lastUpdate": "2026-10-13T08:19:34.000Z"
   },
   {
     "id": "VH-0157",
@@ -1410,7 +1566,8 @@
     "status": "In transit",
     "location": "Detroit, MI",
     "lat": 42.4946,
-    "lng": -82.9218
+    "lng": -82.9218,
+    "lastUpdate": "2026-10-13T06:38:56.000Z"
   },
   {
     "id": "VH-0158",
@@ -1419,7 +1576,8 @@
     "status": "In transit",
     "location": "Des Moines, IA",
     "lat": 41.6346,
-    "lng": -93.6241
+    "lng": -93.6241,
+    "lastUpdate": "2026-10-13T08:38:41.000Z"
   },
   {
     "id": "VH-0159",
@@ -1428,7 +1586,8 @@
     "status": "In transit",
     "location": "Kansas City, MO",
     "lat": 38.9714,
-    "lng": -94.7932
+    "lng": -94.7932,
+    "lastUpdate": "2026-10-13T06:32:19.000Z"
   },
   {
     "id": "VH-0160",
@@ -1437,7 +1596,8 @@
     "status": "Idle",
     "location": "Des Moines, IA",
     "lat": 41.6155,
-    "lng": -93.4981
+    "lng": -93.4981,
+    "lastUpdate": "2026-10-13T06:00:16.000Z"
   },
   {
     "id": "VH-0161",
@@ -1446,7 +1606,8 @@
     "status": "Delayed",
     "location": "Fort Wayne, IN",
     "lat": 41.0938,
-    "lng": -85.0993
+    "lng": -85.0993,
+    "lastUpdate": "2026-10-13T07:48:00.000Z"
   },
   {
     "id": "VH-0162",
@@ -1455,7 +1616,8 @@
     "status": "In transit",
     "location": "Columbus, OH",
     "lat": 39.7308,
-    "lng": -82.984
+    "lng": -82.984,
+    "lastUpdate": "2026-10-13T07:38:41.000Z"
   },
   {
     "id": "VH-0163",
@@ -1464,7 +1626,8 @@
     "status": "Loading",
     "location": "Milwaukee, WI",
     "lat": 43.2293,
-    "lng": -87.7054
+    "lng": -87.7054,
+    "lastUpdate": "2026-10-13T06:48:19.000Z"
   },
   {
     "id": "VH-0164",
@@ -1473,7 +1636,8 @@
     "status": "In transit",
     "location": "Madison, WI",
     "lat": 42.8503,
-    "lng": -89.5434
+    "lng": -89.5434,
+    "lastUpdate": "2026-10-13T08:46:56.000Z"
   },
   {
     "id": "VH-0165",
@@ -1482,7 +1646,8 @@
     "status": "In transit",
     "location": "Columbus, OH",
     "lat": 39.6989,
-    "lng": -83.1078
+    "lng": -83.1078,
+    "lastUpdate": "2026-10-13T07:34:19.000Z"
   },
   {
     "id": "VH-0166",
@@ -1491,7 +1656,8 @@
     "status": "In transit",
     "location": "St. Louis, MO",
     "lat": 38.5788,
-    "lng": -90.4656
+    "lng": -90.4656,
+    "lastUpdate": "2026-10-13T06:15:11.000Z"
   },
   {
     "id": "VH-0167",
@@ -1500,7 +1666,8 @@
     "status": "In transit",
     "location": "Madison, WI",
     "lat": 42.8408,
-    "lng": -89.3105
+    "lng": -89.3105,
+    "lastUpdate": "2026-10-13T07:51:39.000Z"
   },
   {
     "id": "VH-0168",
@@ -1509,7 +1676,8 @@
     "status": "Idle",
     "location": "Des Moines, IA",
     "lat": 41.4039,
-    "lng": -93.3493
+    "lng": -93.3493,
+    "lastUpdate": "2026-10-13T07:13:31.000Z"
   },
   {
     "id": "VH-0169",
@@ -1518,7 +1686,8 @@
     "status": "In transit",
     "location": "Chicago, IL",
     "lat": 42.0906,
-    "lng": -87.5329
+    "lng": -87.5329,
+    "lastUpdate": "2026-10-13T07:38:54.000Z"
   },
   {
     "id": "VH-0170",
@@ -1527,7 +1696,8 @@
     "status": "In transit",
     "location": "Cleveland, OH",
     "lat": 41.7633,
-    "lng": -81.934
+    "lng": -81.934,
+    "lastUpdate": "2026-10-13T06:44:17.000Z"
   },
   {
     "id": "VH-0171",
@@ -1536,7 +1706,8 @@
     "status": "Delayed",
     "location": "Cleveland, OH",
     "lat": 41.4272,
-    "lng": -81.5314
+    "lng": -81.5314,
+    "lastUpdate": "2026-10-13T08:13:45.000Z"
   },
   {
     "id": "VH-0172",
@@ -1545,7 +1716,8 @@
     "status": "Maintenance",
     "location": "Kansas City, MO",
     "lat": 39.2558,
-    "lng": -94.3622
+    "lng": -94.3622,
+    "lastUpdate": "2026-10-13T07:35:08.000Z"
   },
   {
     "id": "VH-0173",
@@ -1554,7 +1726,8 @@
     "status": "Idle",
     "location": "Milwaukee, WI",
     "lat": 43.2201,
-    "lng": -88.1001
+    "lng": -88.1001,
+    "lastUpdate": "2026-10-13T07:16:11.000Z"
   },
   {
     "id": "VH-0174",
@@ -1563,7 +1736,8 @@
     "status": "In transit",
     "location": "Kansas City, MO",
     "lat": 38.8305,
-    "lng": -94.4977
+    "lng": -94.4977,
+    "lastUpdate": "2026-10-13T08:43:28.000Z"
   },
   {
     "id": "VH-0175",
@@ -1572,7 +1746,8 @@
     "status": "Idle",
     "location": "Madison, WI",
     "lat": 43.0429,
-    "lng": -89.2086
+    "lng": -89.2086,
+    "lastUpdate": "2026-10-13T06:59:10.000Z"
   },
   {
     "id": "VH-0176",
@@ -1581,7 +1756,8 @@
     "status": "In transit",
     "location": "Des Moines, IA",
     "lat": 41.5956,
-    "lng": -93.4477
+    "lng": -93.4477,
+    "lastUpdate": "2026-10-13T08:43:12.000Z"
   },
   {
     "id": "VH-0177",
@@ -1590,7 +1766,8 @@
     "status": "Delayed",
     "location": "St. Louis, MO",
     "lat": 38.4032,
-    "lng": -90.2692
+    "lng": -90.2692,
+    "lastUpdate": "2026-10-13T08:01:27.000Z"
   },
   {
     "id": "VH-0178",
@@ -1599,7 +1776,8 @@
     "status": "Delayed",
     "location": "Toledo, OH",
     "lat": 41.8929,
-    "lng": -83.8163
+    "lng": -83.8163,
+    "lastUpdate": "2026-10-13T06:07:40.000Z"
   },
   {
     "id": "VH-0179",
@@ -1608,7 +1786,8 @@
     "status": "In transit",
     "location": "Omaha, NE",
     "lat": 41.3319,
-    "lng": -96.205
+    "lng": -96.205,
+    "lastUpdate": "2026-10-13T08:00:19.000Z"
   },
   {
     "id": "VH-0180",
@@ -1617,7 +1796,8 @@
     "status": "In transit",
     "location": "Chicago, IL",
     "lat": 41.6816,
-    "lng": -87.5379
+    "lng": -87.5379,
+    "lastUpdate": "2026-10-13T08:38:42.000Z"
   },
   {
     "id": "VH-0181",
@@ -1626,7 +1806,8 @@
     "status": "In transit",
     "location": "Detroit, MI",
     "lat": 42.2387,
-    "lng": -83.0119
+    "lng": -83.0119,
+    "lastUpdate": "2026-10-13T07:50:57.000Z"
   },
   {
     "id": "VH-0182",
@@ -1635,7 +1816,8 @@
     "status": "Delayed",
     "location": "Des Moines, IA",
     "lat": 41.2902,
-    "lng": -93.7757
+    "lng": -93.7757,
+    "lastUpdate": "2026-10-13T06:25:36.000Z"
   },
   {
     "id": "VH-0183",
@@ -1644,7 +1826,8 @@
     "status": "Loading",
     "location": "Kansas City, MO",
     "lat": 39.1246,
-    "lng": -94.8026
+    "lng": -94.8026,
+    "lastUpdate": "2026-10-13T06:48:15.000Z"
   },
   {
     "id": "VH-0184",
@@ -1653,7 +1836,8 @@
     "status": "In transit",
     "location": "Milwaukee, WI",
     "lat": 43.3245,
-    "lng": -87.7243
+    "lng": -87.7243,
+    "lastUpdate": "2026-10-13T07:51:32.000Z"
   },
   {
     "id": "VH-0185",
@@ -1662,7 +1846,8 @@
     "status": "Idle",
     "location": "Des Moines, IA",
     "lat": 41.3514,
-    "lng": -93.3466
+    "lng": -93.3466,
+    "lastUpdate": "2026-10-13T07:46:41.000Z"
   },
   {
     "id": "VH-0186",
@@ -1671,7 +1856,8 @@
     "status": "In transit",
     "location": "Chicago, IL",
     "lat": 41.7531,
-    "lng": -87.8954
+    "lng": -87.8954,
+    "lastUpdate": "2026-10-13T08:57:16.000Z"
   },
   {
     "id": "VH-0187",
@@ -1680,7 +1866,8 @@
     "status": "In transit",
     "location": "Cincinnati, OH",
     "lat": 38.9842,
-    "lng": -84.7524
+    "lng": -84.7524,
+    "lastUpdate": "2026-10-13T06:41:45.000Z"
   },
   {
     "id": "VH-0188",
@@ -1689,7 +1876,8 @@
     "status": "Idle",
     "location": "Minneapolis, MN",
     "lat": 44.7548,
-    "lng": -93.4348
+    "lng": -93.4348,
+    "lastUpdate": "2026-10-13T06:38:37.000Z"
   },
   {
     "id": "VH-0189",
@@ -1698,7 +1886,8 @@
     "status": "Delayed",
     "location": "Milwaukee, WI",
     "lat": 42.9964,
-    "lng": -87.963
+    "lng": -87.963,
+    "lastUpdate": "2026-10-13T08:09:20.000Z"
   },
   {
     "id": "VH-0190",
@@ -1707,7 +1896,8 @@
     "status": "In transit",
     "location": "Toledo, OH",
     "lat": 41.527,
-    "lng": -83.3611
+    "lng": -83.3611,
+    "lastUpdate": "2026-10-13T06:49:16.000Z"
   },
   {
     "id": "VH-0191",
@@ -1716,7 +1906,8 @@
     "status": "In transit",
     "location": "Cincinnati, OH",
     "lat": 39.2778,
-    "lng": -84.2157
+    "lng": -84.2157,
+    "lastUpdate": "2026-10-13T08:08:05.000Z"
   },
   {
     "id": "VH-0192",
@@ -1725,7 +1916,8 @@
     "status": "In transit",
     "location": "Cleveland, OH",
     "lat": 41.7035,
-    "lng": -81.5139
+    "lng": -81.5139,
+    "lastUpdate": "2026-10-13T06:32:42.000Z"
   },
   {
     "id": "VH-0193",
@@ -1734,7 +1926,8 @@
     "status": "Loading",
     "location": "Indianapolis, IN",
     "lat": 39.9892,
-    "lng": -86.0671
+    "lng": -86.0671,
+    "lastUpdate": "2026-10-13T06:36:25.000Z"
   },
   {
     "id": "VH-0194",
@@ -1743,7 +1936,8 @@
     "status": "In transit",
     "location": "Kansas City, MO",
     "lat": 39.3677,
-    "lng": -94.7817
+    "lng": -94.7817,
+    "lastUpdate": "2026-10-13T06:55:05.000Z"
   },
   {
     "id": "VH-0195",
@@ -1752,7 +1946,8 @@
     "status": "In transit",
     "location": "Toledo, OH",
     "lat": 41.4386,
-    "lng": -83.2583
+    "lng": -83.2583,
+    "lastUpdate": "2026-10-13T06:09:07.000Z"
   },
   {
     "id": "VH-0196",
@@ -1761,7 +1956,8 @@
     "status": "In transit",
     "location": "Fort Wayne, IN",
     "lat": 40.8881,
-    "lng": -84.8483
+    "lng": -84.8483,
+    "lastUpdate": "2026-10-13T08:14:34.000Z"
   },
   {
     "id": "VH-0197",
@@ -1770,7 +1966,8 @@
     "status": "Idle",
     "location": "Des Moines, IA",
     "lat": 41.8214,
-    "lng": -93.4634
+    "lng": -93.4634,
+    "lastUpdate": "2026-10-13T07:13:53.000Z"
   },
   {
     "id": "VH-0198",
@@ -1779,7 +1976,8 @@
     "status": "In transit",
     "location": "St. Louis, MO",
     "lat": 38.3825,
-    "lng": -89.9626
+    "lng": -89.9626,
+    "lastUpdate": "2026-10-13T07:34:58.000Z"
   },
   {
     "id": "VH-0199",
@@ -1788,7 +1986,8 @@
     "status": "In transit",
     "location": "Detroit, MI",
     "lat": 42.5175,
-    "lng": -83.0648
+    "lng": -83.0648,
+    "lastUpdate": "2026-10-13T08:11:42.000Z"
   },
   {
     "id": "VH-0200",
@@ -1797,7 +1996,8 @@
     "status": "In transit",
     "location": "Toledo, OH",
     "lat": 41.9336,
-    "lng": -83.4065
+    "lng": -83.4065,
+    "lastUpdate": "2026-10-13T06:51:07.000Z"
   },
   {
     "id": "VH-0201",
@@ -1806,7 +2006,8 @@
     "status": "In transit",
     "location": "Cleveland, OH",
     "lat": 41.6923,
-    "lng": -81.6247
+    "lng": -81.6247,
+    "lastUpdate": "2026-10-13T08:08:11.000Z"
   },
   {
     "id": "VH-0202",
@@ -1815,7 +2016,8 @@
     "status": "In transit",
     "location": "Cleveland, OH",
     "lat": 41.6249,
-    "lng": -81.4459
+    "lng": -81.4459,
+    "lastUpdate": "2026-10-13T08:46:27.000Z"
   },
   {
     "id": "VH-0203",
@@ -1824,7 +2026,8 @@
     "status": "In transit",
     "location": "Indianapolis, IN",
     "lat": 40.0197,
-    "lng": -86.2319
+    "lng": -86.2319,
+    "lastUpdate": "2026-10-13T07:54:36.000Z"
   },
   {
     "id": "VH-0204",
@@ -1833,7 +2036,8 @@
     "status": "In transit",
     "location": "Cleveland, OH",
     "lat": 41.2971,
-    "lng": -81.9658
+    "lng": -81.9658,
+    "lastUpdate": "2026-10-13T07:40:28.000Z"
   },
   {
     "id": "VH-0205",
@@ -1842,7 +2046,8 @@
     "status": "In transit",
     "location": "Cleveland, OH",
     "lat": 41.6841,
-    "lng": -81.8107
+    "lng": -81.8107,
+    "lastUpdate": "2026-10-13T08:05:23.000Z"
   },
   {
     "id": "VH-0206",
@@ -1851,7 +2056,8 @@
     "status": "In transit",
     "location": "Chicago, IL",
     "lat": 41.5855,
-    "lng": -87.5812
+    "lng": -87.5812,
+    "lastUpdate": "2026-10-13T07:37:45.000Z"
   },
   {
     "id": "VH-0207",
@@ -1860,7 +2066,8 @@
     "status": "Loading",
     "location": "Madison, WI",
     "lat": 42.8704,
-    "lng": -89.3962
+    "lng": -89.3962,
+    "lastUpdate": "2026-10-13T06:11:58.000Z"
   },
   {
     "id": "VH-0208",
@@ -1869,7 +2076,8 @@
     "status": "Maintenance",
     "location": "Minneapolis, MN",
     "lat": 45.1869,
-    "lng": -93.3555
+    "lng": -93.3555,
+    "lastUpdate": "2026-10-13T07:08:45.000Z"
   },
   {
     "id": "VH-0209",
@@ -1878,7 +2086,8 @@
     "status": "In transit",
     "location": "Minneapolis, MN",
     "lat": 45.0126,
-    "lng": -93.0983
+    "lng": -93.0983,
+    "lastUpdate": "2026-10-13T07:01:54.000Z"
   },
   {
     "id": "VH-0210",
@@ -1887,7 +2096,8 @@
     "status": "In transit",
     "location": "Chicago, IL",
     "lat": 41.7565,
-    "lng": -87.6734
+    "lng": -87.6734,
+    "lastUpdate": "2026-10-13T07:04:46.000Z"
   },
   {
     "id": "VH-0211",
@@ -1896,7 +2106,8 @@
     "status": "Idle",
     "location": "Kansas City, MO",
     "lat": 39.2122,
-    "lng": -94.692
+    "lng": -94.692,
+    "lastUpdate": "2026-10-13T08:16:32.000Z"
   },
   {
     "id": "VH-0212",
@@ -1905,7 +2116,8 @@
     "status": "Idle",
     "location": "Minneapolis, MN",
     "lat": 44.7133,
-    "lng": -93.1727
+    "lng": -93.1727,
+    "lastUpdate": "2026-10-13T06:44:29.000Z"
   },
   {
     "id": "VH-0213",
@@ -1914,7 +2126,8 @@
     "status": "Maintenance",
     "location": "Cincinnati, OH",
     "lat": 38.9085,
-    "lng": -84.646
+    "lng": -84.646,
+    "lastUpdate": "2026-10-13T07:55:40.000Z"
   },
   {
     "id": "VH-0214",
@@ -1923,7 +2136,8 @@
     "status": "In transit",
     "location": "Madison, WI",
     "lat": 43.3012,
-    "lng": -89.2121
+    "lng": -89.2121,
+    "lastUpdate": "2026-10-13T07:47:21.000Z"
   },
   {
     "id": "VH-0215",
@@ -1932,7 +2146,8 @@
     "status": "Maintenance",
     "location": "St. Louis, MO",
     "lat": 38.9077,
-    "lng": -90.4893
+    "lng": -90.4893,
+    "lastUpdate": "2026-10-13T08:17:50.000Z"
   },
   {
     "id": "VH-0216",
@@ -1941,7 +2156,8 @@
     "status": "In transit",
     "location": "St. Louis, MO",
     "lat": 38.6939,
-    "lng": -90.4634
+    "lng": -90.4634,
+    "lastUpdate": "2026-10-13T08:16:54.000Z"
   },
   {
     "id": "VH-0217",
@@ -1950,7 +2166,8 @@
     "status": "In transit",
     "location": "Indianapolis, IN",
     "lat": 39.7223,
-    "lng": -86.2591
+    "lng": -86.2591,
+    "lastUpdate": "2026-10-13T07:26:06.000Z"
   },
   {
     "id": "VH-0218",
@@ -1959,7 +2176,8 @@
     "status": "Delayed",
     "location": "St. Louis, MO",
     "lat": 38.7908,
-    "lng": -90.4976
+    "lng": -90.4976,
+    "lastUpdate": "2026-10-13T07:28:25.000Z"
   },
   {
     "id": "VH-0219",
@@ -1968,7 +2186,8 @@
     "status": "Maintenance",
     "location": "Louisville, KY",
     "lat": 38.2768,
-    "lng": -85.4901
+    "lng": -85.4901,
+    "lastUpdate": "2026-10-13T08:28:31.000Z"
   },
   {
     "id": "VH-0220",
@@ -1977,7 +2196,8 @@
     "status": "In transit",
     "location": "Toledo, OH",
     "lat": 41.6733,
-    "lng": -83.3498
+    "lng": -83.3498,
+    "lastUpdate": "2026-10-13T06:38:48.000Z"
   },
   {
     "id": "VH-0221",
@@ -1986,7 +2206,8 @@
     "status": "Idle",
     "location": "Columbus, OH",
     "lat": 39.9436,
-    "lng": -83.0036
+    "lng": -83.0036,
+    "lastUpdate": "2026-10-13T07:32:50.000Z"
   },
   {
     "id": "VH-0222",
@@ -1995,7 +2216,8 @@
     "status": "Delayed",
     "location": "Madison, WI",
     "lat": 42.8182,
-    "lng": -89.6914
+    "lng": -89.6914,
+    "lastUpdate": "2026-10-13T08:43:14.000Z"
   },
   {
     "id": "VH-0223",
@@ -2004,7 +2226,8 @@
     "status": "In transit",
     "location": "Fort Wayne, IN",
     "lat": 41.2605,
-    "lng": -85.3355
+    "lng": -85.3355,
+    "lastUpdate": "2026-10-13T08:44:40.000Z"
   },
   {
     "id": "VH-0224",
@@ -2013,7 +2236,8 @@
     "status": "Delayed",
     "location": "Columbus, OH",
     "lat": 39.9978,
-    "lng": -83.0954
+    "lng": -83.0954,
+    "lastUpdate": "2026-10-13T06:26:25.000Z"
   },
   {
     "id": "VH-0225",
@@ -2022,7 +2246,8 @@
     "status": "In transit",
     "location": "Cincinnati, OH",
     "lat": 39.0493,
-    "lng": -84.562
+    "lng": -84.562,
+    "lastUpdate": "2026-10-13T08:30:20.000Z"
   },
   {
     "id": "VH-0226",
@@ -2031,7 +2256,8 @@
     "status": "In transit",
     "location": "Chicago, IL",
     "lat": 41.7964,
-    "lng": -87.6487
+    "lng": -87.6487,
+    "lastUpdate": "2026-10-13T07:56:07.000Z"
   },
   {
     "id": "VH-0227",
@@ -2040,7 +2266,8 @@
     "status": "Delayed",
     "location": "Omaha, NE",
     "lat": 41.5006,
-    "lng": -95.9963
+    "lng": -95.9963,
+    "lastUpdate": "2026-10-13T07:41:10.000Z"
   },
   {
     "id": "VH-0228",
@@ -2049,7 +2276,8 @@
     "status": "In transit",
     "location": "Kansas City, MO",
     "lat": 39.2107,
-    "lng": -94.8629
+    "lng": -94.8629,
+    "lastUpdate": "2026-10-13T08:59:36.000Z"
   },
   {
     "id": "VH-0229",
@@ -2058,7 +2286,8 @@
     "status": "Maintenance",
     "location": "Milwaukee, WI",
     "lat": 43.2528,
-    "lng": -87.6603
+    "lng": -87.6603,
+    "lastUpdate": "2026-10-13T07:18:11.000Z"
   },
   {
     "id": "VH-0230",
@@ -2067,7 +2296,8 @@
     "status": "In transit",
     "location": "Des Moines, IA",
     "lat": 41.4803,
-    "lng": -93.5126
+    "lng": -93.5126,
+    "lastUpdate": "2026-10-13T06:21:45.000Z"
   },
   {
     "id": "VH-0231",
@@ -2076,7 +2306,8 @@
     "status": "In transit",
     "location": "Omaha, NE",
     "lat": 41.4344,
-    "lng": -96.1561
+    "lng": -96.1561,
+    "lastUpdate": "2026-10-13T07:55:48.000Z"
   },
   {
     "id": "VH-0232",
@@ -2085,7 +2316,8 @@
     "status": "Idle",
     "location": "Milwaukee, WI",
     "lat": 43.0388,
-    "lng": -88.0991
+    "lng": -88.0991,
+    "lastUpdate": "2026-10-13T07:44:58.000Z"
   },
   {
     "id": "VH-0233",
@@ -2094,7 +2326,8 @@
     "status": "Delayed",
     "location": "Chicago, IL",
     "lat": 41.979,
-    "lng": -87.5495
+    "lng": -87.5495,
+    "lastUpdate": "2026-10-13T07:01:05.000Z"
   },
   {
     "id": "VH-0234",
@@ -2103,7 +2336,8 @@
     "status": "In transit",
     "location": "Cincinnati, OH",
     "lat": 39.0959,
-    "lng": -84.4983
+    "lng": -84.4983,
+    "lastUpdate": "2026-10-13T06:45:05.000Z"
   },
   {
     "id": "VH-0235",
@@ -2112,7 +2346,8 @@
     "status": "Delayed",
     "location": "Omaha, NE",
     "lat": 41.4138,
-    "lng": -95.6861
+    "lng": -95.6861,
+    "lastUpdate": "2026-10-13T06:48:32.000Z"
   },
   {
     "id": "VH-0236",
@@ -2121,7 +2356,8 @@
     "status": "Maintenance",
     "location": "Toledo, OH",
     "lat": 41.9311,
-    "lng": -83.411
+    "lng": -83.411,
+    "lastUpdate": "2026-10-13T07:39:39.000Z"
   },
   {
     "id": "VH-0237",
@@ -2130,7 +2366,8 @@
     "status": "Delayed",
     "location": "Fort Wayne, IN",
     "lat": 41.0764,
-    "lng": -85.0539
+    "lng": -85.0539,
+    "lastUpdate": "2026-10-13T08:35:25.000Z"
   },
   {
     "id": "VH-0238",
@@ -2139,7 +2376,8 @@
     "status": "Maintenance",
     "location": "St. Louis, MO",
     "lat": 38.6321,
-    "lng": -90.0498
+    "lng": -90.0498,
+    "lastUpdate": "2026-10-13T06:58:44.000Z"
   },
   {
     "id": "VH-0239",
@@ -2148,7 +2386,8 @@
     "status": "In transit",
     "location": "Kansas City, MO",
     "lat": 39.2006,
-    "lng": -94.4749
+    "lng": -94.4749,
+    "lastUpdate": "2026-10-13T08:30:21.000Z"
   },
   {
     "id": "VH-0240",
@@ -2157,7 +2396,8 @@
     "status": "In transit",
     "location": "Omaha, NE",
     "lat": 41.0544,
-    "lng": -96.1204
+    "lng": -96.1204,
+    "lastUpdate": "2026-10-13T08:40:36.000Z"
   },
   {
     "id": "VH-0241",
@@ -2166,7 +2406,8 @@
     "status": "Maintenance",
     "location": "Kansas City, MO",
     "lat": 39.2181,
-    "lng": -94.6881
+    "lng": -94.6881,
+    "lastUpdate": "2026-10-13T08:46:04.000Z"
   },
   {
     "id": "VH-0242",
@@ -2175,7 +2416,8 @@
     "status": "Delayed",
     "location": "St. Louis, MO",
     "lat": 38.4808,
-    "lng": -90.1992
+    "lng": -90.1992,
+    "lastUpdate": "2026-10-13T06:01:47.000Z"
   },
   {
     "id": "VH-0243",
@@ -2184,7 +2426,8 @@
     "status": "In transit",
     "location": "Detroit, MI",
     "lat": 42.1399,
-    "lng": -82.8274
+    "lng": -82.8274,
+    "lastUpdate": "2026-10-13T08:23:27.000Z"
   },
   {
     "id": "VH-0244",
@@ -2193,7 +2436,8 @@
     "status": "In transit",
     "location": "Fort Wayne, IN",
     "lat": 41.0497,
-    "lng": -85.1657
+    "lng": -85.1657,
+    "lastUpdate": "2026-10-13T07:39:44.000Z"
   },
   {
     "id": "VH-0245",
@@ -2202,7 +2446,8 @@
     "status": "In transit",
     "location": "Madison, WI",
     "lat": 43.1748,
-    "lng": -89.6815
+    "lng": -89.6815,
+    "lastUpdate": "2026-10-13T07:09:48.000Z"
   },
   {
     "id": "VH-0246",
@@ -2211,7 +2456,8 @@
     "status": "In transit",
     "location": "Madison, WI",
     "lat": 43.0953,
-    "lng": -89.5005
+    "lng": -89.5005,
+    "lastUpdate": "2026-10-13T07:18:59.000Z"
   },
   {
     "id": "VH-0247",
@@ -2220,7 +2466,8 @@
     "status": "In transit",
     "location": "Des Moines, IA",
     "lat": 41.7051,
-    "lng": -93.3442
+    "lng": -93.3442,
+    "lastUpdate": "2026-10-13T07:23:23.000Z"
   },
   {
     "id": "VH-0248",
@@ -2229,7 +2476,8 @@
     "status": "In transit",
     "location": "Milwaukee, WI",
     "lat": 42.8864,
-    "lng": -87.7838
+    "lng": -87.7838,
+    "lastUpdate": "2026-10-13T08:34:54.000Z"
   },
   {
     "id": "VH-0249",
@@ -2238,7 +2486,8 @@
     "status": "Idle",
     "location": "Cleveland, OH",
     "lat": 41.7173,
-    "lng": -81.9431
+    "lng": -81.9431,
+    "lastUpdate": "2026-10-13T08:52:34.000Z"
   },
   {
     "id": "VH-0250",
@@ -2247,7 +2496,8 @@
     "status": "Maintenance",
     "location": "Toledo, OH",
     "lat": 41.3674,
-    "lng": -83.5701
+    "lng": -83.5701,
+    "lastUpdate": "2026-10-13T06:06:32.000Z"
   },
   {
     "id": "VH-0251",
@@ -2256,7 +2506,8 @@
     "status": "Maintenance",
     "location": "Madison, WI",
     "lat": 43.0146,
-    "lng": -89.4078
+    "lng": -89.4078,
+    "lastUpdate": "2026-10-13T07:57:16.000Z"
   },
   {
     "id": "VH-0252",
@@ -2265,7 +2516,8 @@
     "status": "In transit",
     "location": "Cleveland, OH",
     "lat": 41.7793,
-    "lng": -81.539
+    "lng": -81.539,
+    "lastUpdate": "2026-10-13T06:31:11.000Z"
   },
   {
     "id": "VH-0253",
@@ -2274,7 +2526,8 @@
     "status": "Idle",
     "location": "Milwaukee, WI",
     "lat": 42.813,
-    "lng": -87.7449
+    "lng": -87.7449,
+    "lastUpdate": "2026-10-13T07:26:40.000Z"
   },
   {
     "id": "VH-0254",
@@ -2283,7 +2536,8 @@
     "status": "In transit",
     "location": "Toledo, OH",
     "lat": 41.3684,
-    "lng": -83.7337
+    "lng": -83.7337,
+    "lastUpdate": "2026-10-13T07:42:21.000Z"
   },
   {
     "id": "VH-0255",
@@ -2292,7 +2546,8 @@
     "status": "Delayed",
     "location": "Detroit, MI",
     "lat": 42.2156,
-    "lng": -82.8775
+    "lng": -82.8775,
+    "lastUpdate": "2026-10-13T06:25:56.000Z"
   },
   {
     "id": "VH-0256",
@@ -2301,7 +2556,8 @@
     "status": "Loading",
     "location": "Minneapolis, MN",
     "lat": 45.2249,
-    "lng": -93.0596
+    "lng": -93.0596,
+    "lastUpdate": "2026-10-13T07:19:24.000Z"
   },
   {
     "id": "VH-0257",
@@ -2310,7 +2566,8 @@
     "status": "In transit",
     "location": "Kansas City, MO",
     "lat": 38.9043,
-    "lng": -94.6613
+    "lng": -94.6613,
+    "lastUpdate": "2026-10-13T07:56:54.000Z"
   },
   {
     "id": "VH-0258",
@@ -2319,7 +2576,8 @@
     "status": "In transit",
     "location": "Omaha, NE",
     "lat": 40.9789,
-    "lng": -95.8765
+    "lng": -95.8765,
+    "lastUpdate": "2026-10-13T07:25:01.000Z"
   },
   {
     "id": "VH-0259",
@@ -2328,7 +2586,8 @@
     "status": "Idle",
     "location": "Cleveland, OH",
     "lat": 41.4218,
-    "lng": -81.6515
+    "lng": -81.6515,
+    "lastUpdate": "2026-10-13T07:54:46.000Z"
   },
   {
     "id": "VH-0260",
@@ -2337,7 +2596,8 @@
     "status": "In transit",
     "location": "Omaha, NE",
     "lat": 41.3651,
-    "lng": -95.6538
+    "lng": -95.6538,
+    "lastUpdate": "2026-10-13T08:43:23.000Z"
   },
   {
     "id": "VH-0261",
@@ -2346,7 +2606,8 @@
     "status": "Delayed",
     "location": "Toledo, OH",
     "lat": 41.4969,
-    "lng": -83.3791
+    "lng": -83.3791,
+    "lastUpdate": "2026-10-13T06:01:04.000Z"
   },
   {
     "id": "VH-0262",
@@ -2355,7 +2616,8 @@
     "status": "In transit",
     "location": "Detroit, MI",
     "lat": 42.5051,
-    "lng": -83.089
+    "lng": -83.089,
+    "lastUpdate": "2026-10-13T08:55:18.000Z"
   },
   {
     "id": "VH-0263",
@@ -2364,7 +2626,8 @@
     "status": "Delayed",
     "location": "Cleveland, OH",
     "lat": 41.4238,
-    "lng": -81.8079
+    "lng": -81.8079,
+    "lastUpdate": "2026-10-13T07:12:25.000Z"
   },
   {
     "id": "VH-0264",
@@ -2373,7 +2636,8 @@
     "status": "In transit",
     "location": "Madison, WI",
     "lat": 43.3368,
-    "lng": -89.1417
+    "lng": -89.1417,
+    "lastUpdate": "2026-10-13T07:32:56.000Z"
   },
   {
     "id": "VH-0265",
@@ -2382,7 +2646,8 @@
     "status": "Idle",
     "location": "Columbus, OH",
     "lat": 40.0342,
-    "lng": -82.8259
+    "lng": -82.8259,
+    "lastUpdate": "2026-10-13T07:46:05.000Z"
   },
   {
     "id": "VH-0266",
@@ -2391,7 +2656,8 @@
     "status": "In transit",
     "location": "Louisville, KY",
     "lat": 38.1741,
-    "lng": -85.8128
+    "lng": -85.8128,
+    "lastUpdate": "2026-10-13T07:30:18.000Z"
   },
   {
     "id": "VH-0267",
@@ -2400,7 +2666,8 @@
     "status": "Delayed",
     "location": "Cleveland, OH",
     "lat": 41.7174,
-    "lng": -81.4345
+    "lng": -81.4345,
+    "lastUpdate": "2026-10-13T07:29:37.000Z"
   },
   {
     "id": "VH-0268",
@@ -2409,7 +2676,8 @@
     "status": "Maintenance",
     "location": "Detroit, MI",
     "lat": 42.4905,
-    "lng": -83.0494
+    "lng": -83.0494,
+    "lastUpdate": "2026-10-13T07:13:28.000Z"
   },
   {
     "id": "VH-0269",
@@ -2418,7 +2686,8 @@
     "status": "In transit",
     "location": "Cleveland, OH",
     "lat": 41.4755,
-    "lng": -81.8222
+    "lng": -81.8222,
+    "lastUpdate": "2026-10-13T08:17:25.000Z"
   },
   {
     "id": "VH-0270",
@@ -2427,7 +2696,8 @@
     "status": "In transit",
     "location": "Detroit, MI",
     "lat": 42.5514,
-    "lng": -83.1136
+    "lng": -83.1136,
+    "lastUpdate": "2026-10-13T08:50:49.000Z"
   },
   {
     "id": "VH-0271",
@@ -2436,7 +2706,8 @@
     "status": "Idle",
     "location": "Toledo, OH",
     "lat": 41.3836,
-    "lng": -83.7642
+    "lng": -83.7642,
+    "lastUpdate": "2026-10-13T07:40:19.000Z"
   },
   {
     "id": "VH-0272",
@@ -2445,7 +2716,8 @@
     "status": "Delayed",
     "location": "St. Louis, MO",
     "lat": 38.734,
-    "lng": -90.1119
+    "lng": -90.1119,
+    "lastUpdate": "2026-10-13T08:57:52.000Z"
   },
   {
     "id": "VH-0273",
@@ -2454,7 +2726,8 @@
     "status": "Maintenance",
     "location": "Detroit, MI",
     "lat": 42.3678,
-    "lng": -83.1623
+    "lng": -83.1623,
+    "lastUpdate": "2026-10-13T06:37:40.000Z"
   },
   {
     "id": "VH-0274",
@@ -2463,7 +2736,8 @@
     "status": "In transit",
     "location": "Fort Wayne, IN",
     "lat": 41.2777,
-    "lng": -85.4122
+    "lng": -85.4122,
+    "lastUpdate": "2026-10-13T06:57:38.000Z"
   },
   {
     "id": "VH-0275",
@@ -2472,7 +2746,8 @@
     "status": "Idle",
     "location": "St. Louis, MO",
     "lat": 38.911,
-    "lng": -89.9474
+    "lng": -89.9474,
+    "lastUpdate": "2026-10-13T06:18:16.000Z"
   },
   {
     "id": "VH-0276",
@@ -2481,7 +2756,8 @@
     "status": "Idle",
     "location": "Detroit, MI",
     "lat": 42.6183,
-    "lng": -82.8598
+    "lng": -82.8598,
+    "lastUpdate": "2026-10-13T08:02:06.000Z"
   },
   {
     "id": "VH-0277",
@@ -2490,7 +2766,8 @@
     "status": "Loading",
     "location": "Fort Wayne, IN",
     "lat": 40.9304,
-    "lng": -85.3333
+    "lng": -85.3333,
+    "lastUpdate": "2026-10-13T07:29:41.000Z"
   },
   {
     "id": "VH-0278",
@@ -2499,7 +2776,8 @@
     "status": "In transit",
     "location": "Indianapolis, IN",
     "lat": 39.5856,
-    "lng": -85.9227
+    "lng": -85.9227,
+    "lastUpdate": "2026-10-13T07:19:13.000Z"
   },
   {
     "id": "VH-0279",
@@ -2508,7 +2786,8 @@
     "status": "Idle",
     "location": "Omaha, NE",
     "lat": 40.974,
-    "lng": -96.0544
+    "lng": -96.0544,
+    "lastUpdate": "2026-10-13T08:54:28.000Z"
   },
   {
     "id": "VH-0280",
@@ -2517,7 +2796,8 @@
     "status": "In transit",
     "location": "Kansas City, MO",
     "lat": 39.325,
-    "lng": -94.2805
+    "lng": -94.2805,
+    "lastUpdate": "2026-10-13T06:42:45.000Z"
   },
   {
     "id": "VH-0281",
@@ -2526,7 +2806,8 @@
     "status": "In transit",
     "location": "Minneapolis, MN",
     "lat": 44.7706,
-    "lng": -93.3471
+    "lng": -93.3471,
+    "lastUpdate": "2026-10-13T06:21:22.000Z"
   },
   {
     "id": "VH-0282",
@@ -2535,7 +2816,8 @@
     "status": "Loading",
     "location": "Cleveland, OH",
     "lat": 41.7347,
-    "lng": -81.8956
+    "lng": -81.8956,
+    "lastUpdate": "2026-10-13T07:36:33.000Z"
   },
   {
     "id": "VH-0283",
@@ -2544,7 +2826,8 @@
     "status": "Idle",
     "location": "Madison, WI",
     "lat": 43.1078,
-    "lng": -89.5231
+    "lng": -89.5231,
+    "lastUpdate": "2026-10-13T06:29:48.000Z"
   },
   {
     "id": "VH-0284",
@@ -2553,7 +2836,8 @@
     "status": "In transit",
     "location": "Columbus, OH",
     "lat": 39.7395,
-    "lng": -82.7102
+    "lng": -82.7102,
+    "lastUpdate": "2026-10-13T07:19:14.000Z"
   },
   {
     "id": "VH-0285",
@@ -2562,7 +2846,8 @@
     "status": "In transit",
     "location": "Cincinnati, OH",
     "lat": 39.0138,
-    "lng": -84.3366
+    "lng": -84.3366,
+    "lastUpdate": "2026-10-13T07:32:42.000Z"
   },
   {
     "id": "VH-0286",
@@ -2571,7 +2856,8 @@
     "status": "Delayed",
     "location": "Minneapolis, MN",
     "lat": 45.1941,
-    "lng": -93.1784
+    "lng": -93.1784,
+    "lastUpdate": "2026-10-13T06:53:36.000Z"
   },
   {
     "id": "VH-0287",
@@ -2580,7 +2866,8 @@
     "status": "Idle",
     "location": "Fort Wayne, IN",
     "lat": 41.0132,
-    "lng": -84.9911
+    "lng": -84.9911,
+    "lastUpdate": "2026-10-13T07:35:46.000Z"
   },
   {
     "id": "VH-0288",
@@ -2589,7 +2876,8 @@
     "status": "Idle",
     "location": "Madison, WI",
     "lat": 42.955,
-    "lng": -89.4809
+    "lng": -89.4809,
+    "lastUpdate": "2026-10-13T06:49:50.000Z"
   },
   {
     "id": "VH-0289",
@@ -2598,7 +2886,8 @@
     "status": "In transit",
     "location": "Omaha, NE",
     "lat": 41.162,
-    "lng": -95.7468
+    "lng": -95.7468,
+    "lastUpdate": "2026-10-13T08:46:11.000Z"
   },
   {
     "id": "VH-0290",
@@ -2607,7 +2896,8 @@
     "status": "Maintenance",
     "location": "Louisville, KY",
     "lat": 38.3175,
-    "lng": -85.7416
+    "lng": -85.7416,
+    "lastUpdate": "2026-10-13T08:27:51.000Z"
   },
   {
     "id": "VH-0291",
@@ -2616,7 +2906,8 @@
     "status": "Delayed",
     "location": "Fort Wayne, IN",
     "lat": 40.9228,
-    "lng": -85.2082
+    "lng": -85.2082,
+    "lastUpdate": "2026-10-13T07:02:36.000Z"
   },
   {
     "id": "VH-0292",
@@ -2625,7 +2916,8 @@
     "status": "Loading",
     "location": "Cleveland, OH",
     "lat": 41.6279,
-    "lng": -81.7576
+    "lng": -81.7576,
+    "lastUpdate": "2026-10-13T06:39:31.000Z"
   },
   {
     "id": "VH-0293",
@@ -2634,7 +2926,8 @@
     "status": "In transit",
     "location": "Fort Wayne, IN",
     "lat": 41.3307,
-    "lng": -84.9621
+    "lng": -84.9621,
+    "lastUpdate": "2026-10-13T08:40:59.000Z"
   },
   {
     "id": "VH-0294",
@@ -2643,7 +2936,8 @@
     "status": "In transit",
     "location": "Fort Wayne, IN",
     "lat": 40.8399,
-    "lng": -84.8938
+    "lng": -84.8938,
+    "lastUpdate": "2026-10-13T08:07:42.000Z"
   },
   {
     "id": "VH-0295",
@@ -2652,7 +2946,8 @@
     "status": "In transit",
     "location": "Cincinnati, OH",
     "lat": 38.9084,
-    "lng": -84.6064
+    "lng": -84.6064,
+    "lastUpdate": "2026-10-13T07:31:40.000Z"
   },
   {
     "id": "VH-0296",
@@ -2661,7 +2956,8 @@
     "status": "Maintenance",
     "location": "Fort Wayne, IN",
     "lat": 40.787,
-    "lng": -85.1472
+    "lng": -85.1472,
+    "lastUpdate": "2026-10-13T06:09:10.000Z"
   },
   {
     "id": "VH-0297",
@@ -2670,7 +2966,8 @@
     "status": "Idle",
     "location": "Toledo, OH",
     "lat": 41.6591,
-    "lng": -83.2412
+    "lng": -83.2412,
+    "lastUpdate": "2026-10-13T08:49:39.000Z"
   },
   {
     "id": "VH-0298",
@@ -2679,7 +2976,8 @@
     "status": "Idle",
     "location": "Milwaukee, WI",
     "lat": 43.1059,
-    "lng": -88.0905
+    "lng": -88.0905,
+    "lastUpdate": "2026-10-13T08:18:07.000Z"
   },
   {
     "id": "VH-0299",
@@ -2688,7 +2986,8 @@
     "status": "In transit",
     "location": "Cincinnati, OH",
     "lat": 39.3615,
-    "lng": -84.7954
+    "lng": -84.7954,
+    "lastUpdate": "2026-10-13T08:05:47.000Z"
   },
   {
     "id": "VH-0300",
@@ -2697,7 +2996,8 @@
     "status": "Idle",
     "location": "Des Moines, IA",
     "lat": 41.7009,
-    "lng": -93.7145
+    "lng": -93.7145,
+    "lastUpdate": "2026-10-13T08:29:15.000Z"
   },
   {
     "id": "VH-0301",
@@ -2706,7 +3006,8 @@
     "status": "In transit",
     "location": "Milwaukee, WI",
     "lat": 42.9325,
-    "lng": -88.1908
+    "lng": -88.1908,
+    "lastUpdate": "2026-10-13T08:17:13.000Z"
   },
   {
     "id": "VH-0302",
@@ -2715,7 +3016,8 @@
     "status": "In transit",
     "location": "Cincinnati, OH",
     "lat": 39.0946,
-    "lng": -84.4062
+    "lng": -84.4062,
+    "lastUpdate": "2026-10-13T06:40:26.000Z"
   },
   {
     "id": "VH-0303",
@@ -2724,7 +3026,8 @@
     "status": "In transit",
     "location": "Kansas City, MO",
     "lat": 38.8036,
-    "lng": -94.3299
+    "lng": -94.3299,
+    "lastUpdate": "2026-10-13T08:31:18.000Z"
   },
   {
     "id": "VH-0304",
@@ -2733,7 +3036,8 @@
     "status": "In transit",
     "location": "Milwaukee, WI",
     "lat": 42.9556,
-    "lng": -87.9765
+    "lng": -87.9765,
+    "lastUpdate": "2026-10-13T07:09:20.000Z"
   },
   {
     "id": "VH-0305",
@@ -2742,7 +3046,8 @@
     "status": "In transit",
     "location": "Minneapolis, MN",
     "lat": 44.773,
-    "lng": -93.416
+    "lng": -93.416,
+    "lastUpdate": "2026-10-13T06:50:56.000Z"
   },
   {
     "id": "VH-0306",
@@ -2751,7 +3056,8 @@
     "status": "Maintenance",
     "location": "Louisville, KY",
     "lat": 38.0067,
-    "lng": -86.0258
+    "lng": -86.0258,
+    "lastUpdate": "2026-10-13T07:51:50.000Z"
   },
   {
     "id": "VH-0307",
@@ -2760,7 +3066,8 @@
     "status": "Idle",
     "location": "Fort Wayne, IN",
     "lat": 41.0483,
-    "lng": -85.1127
+    "lng": -85.1127,
+    "lastUpdate": "2026-10-13T08:40:32.000Z"
   },
   {
     "id": "VH-0308",
@@ -2769,7 +3076,8 @@
     "status": "Idle",
     "location": "Milwaukee, WI",
     "lat": 43.1353,
-    "lng": -87.9976
+    "lng": -87.9976,
+    "lastUpdate": "2026-10-13T08:18:24.000Z"
   },
   {
     "id": "VH-0309",
@@ -2778,7 +3086,8 @@
     "status": "Idle",
     "location": "Kansas City, MO",
     "lat": 38.9699,
-    "lng": -94.8288
+    "lng": -94.8288,
+    "lastUpdate": "2026-10-13T06:58:00.000Z"
   },
   {
     "id": "VH-0310",
@@ -2787,7 +3096,8 @@
     "status": "In transit",
     "location": "Indianapolis, IN",
     "lat": 40.0219,
-    "lng": -86.2727
+    "lng": -86.2727,
+    "lastUpdate": "2026-10-13T06:53:09.000Z"
   },
   {
     "id": "VH-0311",
@@ -2796,7 +3106,8 @@
     "status": "Idle",
     "location": "Louisville, KY",
     "lat": 38.0476,
-    "lng": -85.9617
+    "lng": -85.9617,
+    "lastUpdate": "2026-10-13T08:51:33.000Z"
   },
   {
     "id": "VH-0312",
@@ -2805,7 +3116,8 @@
     "status": "Loading",
     "location": "Des Moines, IA",
     "lat": 41.6447,
-    "lng": -93.464
+    "lng": -93.464,
+    "lastUpdate": "2026-10-13T06:00:32.000Z"
   },
   {
     "id": "VH-0313",
@@ -2814,7 +3126,8 @@
     "status": "In transit",
     "location": "Indianapolis, IN",
     "lat": 39.4942,
-    "lng": -86.1814
+    "lng": -86.1814,
+    "lastUpdate": "2026-10-13T06:49:32.000Z"
   },
   {
     "id": "VH-0314",
@@ -2823,7 +3136,8 @@
     "status": "Idle",
     "location": "Kansas City, MO",
     "lat": 38.9187,
-    "lng": -94.3247
+    "lng": -94.3247,
+    "lastUpdate": "2026-10-13T08:17:55.000Z"
   },
   {
     "id": "VH-0315",
@@ -2832,7 +3146,8 @@
     "status": "In transit",
     "location": "Des Moines, IA",
     "lat": 41.7824,
-    "lng": -93.5546
+    "lng": -93.5546,
+    "lastUpdate": "2026-10-13T06:42:33.000Z"
   },
   {
     "id": "VH-0316",
@@ -2841,7 +3156,8 @@
     "status": "In transit",
     "location": "Detroit, MI",
     "lat": 42.5458,
-    "lng": -82.9609
+    "lng": -82.9609,
+    "lastUpdate": "2026-10-13T08:57:44.000Z"
   },
   {
     "id": "VH-0317",
@@ -2850,7 +3166,8 @@
     "status": "In transit",
     "location": "Chicago, IL",
     "lat": 41.7095,
-    "lng": -87.8776
+    "lng": -87.8776,
+    "lastUpdate": "2026-10-13T08:49:09.000Z"
   },
   {
     "id": "VH-0318",
@@ -2859,7 +3176,8 @@
     "status": "Loading",
     "location": "Kansas City, MO",
     "lat": 39.2773,
-    "lng": -94.4554
+    "lng": -94.4554,
+    "lastUpdate": "2026-10-13T06:24:32.000Z"
   },
   {
     "id": "VH-0319",
@@ -2868,7 +3186,8 @@
     "status": "In transit",
     "location": "Minneapolis, MN",
     "lat": 44.7937,
-    "lng": -93.4202
+    "lng": -93.4202,
+    "lastUpdate": "2026-10-13T07:25:24.000Z"
   },
   {
     "id": "VH-0320",
@@ -2877,7 +3196,8 @@
     "status": "In transit",
     "location": "Kansas City, MO",
     "lat": 39.0661,
-    "lng": -94.3749
+    "lng": -94.3749,
+    "lastUpdate": "2026-10-13T07:26:43.000Z"
   },
   {
     "id": "VH-0321",
@@ -2886,7 +3206,8 @@
     "status": "Idle",
     "location": "Milwaukee, WI",
     "lat": 42.8411,
-    "lng": -87.6244
+    "lng": -87.6244,
+    "lastUpdate": "2026-10-13T08:41:02.000Z"
   },
   {
     "id": "VH-0322",
@@ -2895,7 +3216,8 @@
     "status": "In transit",
     "location": "Des Moines, IA",
     "lat": 41.4136,
-    "lng": -93.4401
+    "lng": -93.4401,
+    "lastUpdate": "2026-10-13T07:47:46.000Z"
   },
   {
     "id": "VH-0323",
@@ -2904,7 +3226,8 @@
     "status": "Maintenance",
     "location": "Louisville, KY",
     "lat": 38.4879,
-    "lng": -85.9248
+    "lng": -85.9248,
+    "lastUpdate": "2026-10-13T06:46:24.000Z"
   },
   {
     "id": "VH-0324",
@@ -2913,7 +3236,8 @@
     "status": "In transit",
     "location": "Louisville, KY",
     "lat": 38.0583,
-    "lng": -85.8345
+    "lng": -85.8345,
+    "lastUpdate": "2026-10-13T06:35:50.000Z"
   },
   {
     "id": "VH-0325",
@@ -2922,7 +3246,8 @@
     "status": "In transit",
     "location": "Milwaukee, WI",
     "lat": 43.0696,
-    "lng": -87.6758
+    "lng": -87.6758,
+    "lastUpdate": "2026-10-13T07:22:49.000Z"
   },
   {
     "id": "VH-0326",
@@ -2931,7 +3256,8 @@
     "status": "Maintenance",
     "location": "Fort Wayne, IN",
     "lat": 40.8751,
-    "lng": -85.2571
+    "lng": -85.2571,
+    "lastUpdate": "2026-10-13T08:08:35.000Z"
   },
   {
     "id": "VH-0327",
@@ -2940,7 +3266,8 @@
     "status": "Idle",
     "location": "Cleveland, OH",
     "lat": 41.5566,
-    "lng": -81.7475
+    "lng": -81.7475,
+    "lastUpdate": "2026-10-13T06:49:40.000Z"
   },
   {
     "id": "VH-0328",
@@ -2949,7 +3276,8 @@
     "status": "Idle",
     "location": "Indianapolis, IN",
     "lat": 39.9328,
-    "lng": -86.1416
+    "lng": -86.1416,
+    "lastUpdate": "2026-10-13T08:26:31.000Z"
   },
   {
     "id": "VH-0329",
@@ -2958,7 +3286,8 @@
     "status": "Delayed",
     "location": "St. Louis, MO",
     "lat": 38.8968,
-    "lng": -90.0664
+    "lng": -90.0664,
+    "lastUpdate": "2026-10-13T08:51:49.000Z"
   },
   {
     "id": "VH-0330",
@@ -2967,7 +3296,8 @@
     "status": "Delayed",
     "location": "Columbus, OH",
     "lat": 40.25,
-    "lng": -83.1376
+    "lng": -83.1376,
+    "lastUpdate": "2026-10-13T06:42:13.000Z"
   },
   {
     "id": "VH-0331",
@@ -2976,7 +3306,8 @@
     "status": "Delayed",
     "location": "Des Moines, IA",
     "lat": 41.4379,
-    "lng": -93.8993
+    "lng": -93.8993,
+    "lastUpdate": "2026-10-13T07:35:29.000Z"
   },
   {
     "id": "VH-0332",
@@ -2985,7 +3316,8 @@
     "status": "In transit",
     "location": "St. Louis, MO",
     "lat": 38.7045,
-    "lng": -89.9448
+    "lng": -89.9448,
+    "lastUpdate": "2026-10-13T07:29:00.000Z"
   },
   {
     "id": "VH-0333",
@@ -2994,7 +3326,8 @@
     "status": "Idle",
     "location": "Kansas City, MO",
     "lat": 39.2762,
-    "lng": -94.4664
+    "lng": -94.4664,
+    "lastUpdate": "2026-10-13T07:41:38.000Z"
   },
   {
     "id": "VH-0334",
@@ -3003,7 +3336,8 @@
     "status": "Delayed",
     "location": "Chicago, IL",
     "lat": 41.7763,
-    "lng": -87.8226
+    "lng": -87.8226,
+    "lastUpdate": "2026-10-13T08:54:26.000Z"
   },
   {
     "id": "VH-0335",
@@ -3012,7 +3346,8 @@
     "status": "In transit",
     "location": "Des Moines, IA",
     "lat": 41.6503,
-    "lng": -93.6679
+    "lng": -93.6679,
+    "lastUpdate": "2026-10-13T08:24:58.000Z"
   },
   {
     "id": "VH-0336",
@@ -3021,7 +3356,8 @@
     "status": "Idle",
     "location": "Des Moines, IA",
     "lat": 41.3048,
-    "lng": -93.6284
+    "lng": -93.6284,
+    "lastUpdate": "2026-10-13T06:24:58.000Z"
   },
   {
     "id": "VH-0337",
@@ -3030,7 +3366,8 @@
     "status": "In transit",
     "location": "Cincinnati, OH",
     "lat": 38.951,
-    "lng": -84.7254
+    "lng": -84.7254,
+    "lastUpdate": "2026-10-13T08:55:12.000Z"
   },
   {
     "id": "VH-0338",
@@ -3039,7 +3376,8 @@
     "status": "Loading",
     "location": "Madison, WI",
     "lat": 43.3558,
-    "lng": -89.6008
+    "lng": -89.6008,
+    "lastUpdate": "2026-10-13T08:00:03.000Z"
   },
   {
     "id": "VH-0339",
@@ -3048,7 +3386,8 @@
     "status": "In transit",
     "location": "Milwaukee, WI",
     "lat": 43.0256,
-    "lng": -87.8487
+    "lng": -87.8487,
+    "lastUpdate": "2026-10-13T08:07:22.000Z"
   },
   {
     "id": "VH-0340",
@@ -3057,7 +3396,8 @@
     "status": "In transit",
     "location": "Madison, WI",
     "lat": 42.8669,
-    "lng": -89.4214
+    "lng": -89.4214,
+    "lastUpdate": "2026-10-13T08:28:46.000Z"
   },
   {
     "id": "VH-0341",
@@ -3066,7 +3406,8 @@
     "status": "Idle",
     "location": "Cleveland, OH",
     "lat": 41.4456,
-    "lng": -81.7993
+    "lng": -81.7993,
+    "lastUpdate": "2026-10-13T07:41:27.000Z"
   },
   {
     "id": "VH-0342",
@@ -3075,7 +3416,8 @@
     "status": "Idle",
     "location": "Cleveland, OH",
     "lat": 41.5271,
-    "lng": -81.654
+    "lng": -81.654,
+    "lastUpdate": "2026-10-13T06:42:43.000Z"
   },
   {
     "id": "VH-0343",
@@ -3084,7 +3426,8 @@
     "status": "In transit",
     "location": "Madison, WI",
     "lat": 43.356,
-    "lng": -89.6975
+    "lng": -89.6975,
+    "lastUpdate": "2026-10-13T06:38:47.000Z"
   },
   {
     "id": "VH-0344",
@@ -3093,7 +3436,8 @@
     "status": "Loading",
     "location": "Columbus, OH",
     "lat": 39.8554,
-    "lng": -83.204
+    "lng": -83.204,
+    "lastUpdate": "2026-10-13T07:18:41.000Z"
   },
   {
     "id": "VH-0345",
@@ -3102,7 +3446,8 @@
     "status": "Maintenance",
     "location": "Detroit, MI",
     "lat": 42.3919,
-    "lng": -82.7936
+    "lng": -82.7936,
+    "lastUpdate": "2026-10-13T06:04:01.000Z"
   },
   {
     "id": "VH-0346",
@@ -3111,7 +3456,8 @@
     "status": "Maintenance",
     "location": "Toledo, OH",
     "lat": 41.5682,
-    "lng": -83.8321
+    "lng": -83.8321,
+    "lastUpdate": "2026-10-13T08:53:33.000Z"
   },
   {
     "id": "VH-0347",
@@ -3120,7 +3466,8 @@
     "status": "In transit",
     "location": "Louisville, KY",
     "lat": 38.5072,
-    "lng": -85.9045
+    "lng": -85.9045,
+    "lastUpdate": "2026-10-13T06:47:15.000Z"
   },
   {
     "id": "VH-0348",
@@ -3129,7 +3476,8 @@
     "status": "Maintenance",
     "location": "Madison, WI",
     "lat": 42.9885,
-    "lng": -89.2417
+    "lng": -89.2417,
+    "lastUpdate": "2026-10-13T08:39:20.000Z"
   },
   {
     "id": "VH-0349",
@@ -3138,7 +3486,8 @@
     "status": "In transit",
     "location": "Louisville, KY",
     "lat": 38.4088,
-    "lng": -85.8666
+    "lng": -85.8666,
+    "lastUpdate": "2026-10-13T08:35:57.000Z"
   },
   {
     "id": "VH-0350",
@@ -3147,7 +3496,8 @@
     "status": "In transit",
     "location": "St. Louis, MO",
     "lat": 38.7912,
-    "lng": -90.4452
+    "lng": -90.4452,
+    "lastUpdate": "2026-10-13T08:13:21.000Z"
   },
   {
     "id": "VH-0351",
@@ -3156,7 +3506,8 @@
     "status": "Idle",
     "location": "Indianapolis, IN",
     "lat": 39.8607,
-    "lng": -86.2542
+    "lng": -86.2542,
+    "lastUpdate": "2026-10-13T07:45:47.000Z"
   },
   {
     "id": "VH-0352",
@@ -3165,7 +3516,8 @@
     "status": "Idle",
     "location": "St. Louis, MO",
     "lat": 38.564,
-    "lng": -90.0583
+    "lng": -90.0583,
+    "lastUpdate": "2026-10-13T07:18:35.000Z"
   },
   {
     "id": "VH-0353",
@@ -3174,7 +3526,8 @@
     "status": "In transit",
     "location": "Chicago, IL",
     "lat": 41.6985,
-    "lng": -87.3956
+    "lng": -87.3956,
+    "lastUpdate": "2026-10-13T07:14:47.000Z"
   },
   {
     "id": "VH-0354",
@@ -3183,7 +3536,8 @@
     "status": "In transit",
     "location": "Milwaukee, WI",
     "lat": 42.8163,
-    "lng": -88.0714
+    "lng": -88.0714,
+    "lastUpdate": "2026-10-13T07:51:17.000Z"
   },
   {
     "id": "VH-0355",
@@ -3192,7 +3546,8 @@
     "status": "Maintenance",
     "location": "Toledo, OH",
     "lat": 41.4446,
-    "lng": -83.424
+    "lng": -83.424,
+    "lastUpdate": "2026-10-13T08:51:44.000Z"
   },
   {
     "id": "VH-0356",
@@ -3201,7 +3556,8 @@
     "status": "Delayed",
     "location": "Columbus, OH",
     "lat": 39.9707,
-    "lng": -82.7737
+    "lng": -82.7737,
+    "lastUpdate": "2026-10-13T08:29:59.000Z"
   },
   {
     "id": "VH-0357",
@@ -3210,7 +3566,8 @@
     "status": "In transit",
     "location": "Des Moines, IA",
     "lat": 41.6671,
-    "lng": -93.6988
+    "lng": -93.6988,
+    "lastUpdate": "2026-10-13T08:45:14.000Z"
   },
   {
     "id": "VH-0358",
@@ -3219,7 +3576,8 @@
     "status": "Idle",
     "location": "Toledo, OH",
     "lat": 41.8164,
-    "lng": -83.6768
+    "lng": -83.6768,
+    "lastUpdate": "2026-10-13T08:17:24.000Z"
   },
   {
     "id": "VH-0359",
@@ -3228,7 +3586,8 @@
     "status": "In transit",
     "location": "Cincinnati, OH",
     "lat": 39.2648,
-    "lng": -84.7127
+    "lng": -84.7127,
+    "lastUpdate": "2026-10-13T07:12:49.000Z"
   },
   {
     "id": "VH-0360",
@@ -3237,7 +3596,8 @@
     "status": "In transit",
     "location": "Kansas City, MO",
     "lat": 38.8477,
-    "lng": -94.3865
+    "lng": -94.3865,
+    "lastUpdate": "2026-10-13T06:28:21.000Z"
   },
   {
     "id": "VH-0361",
@@ -3246,7 +3606,8 @@
     "status": "Delayed",
     "location": "Madison, WI",
     "lat": 43.1628,
-    "lng": -89.3517
+    "lng": -89.3517,
+    "lastUpdate": "2026-10-13T08:14:35.000Z"
   },
   {
     "id": "VH-0362",
@@ -3255,7 +3616,8 @@
     "status": "In transit",
     "location": "Omaha, NE",
     "lat": 41.5337,
-    "lng": -95.9642
+    "lng": -95.9642,
+    "lastUpdate": "2026-10-13T07:45:43.000Z"
   },
   {
     "id": "VH-0363",
@@ -3264,7 +3626,8 @@
     "status": "Delayed",
     "location": "Fort Wayne, IN",
     "lat": 41.2743,
-    "lng": -85.328
+    "lng": -85.328,
+    "lastUpdate": "2026-10-13T07:07:42.000Z"
   },
   {
     "id": "VH-0364",
@@ -3273,7 +3636,8 @@
     "status": "Idle",
     "location": "Toledo, OH",
     "lat": 41.3527,
-    "lng": -83.2827
+    "lng": -83.2827,
+    "lastUpdate": "2026-10-13T08:39:44.000Z"
   },
   {
     "id": "VH-0365",
@@ -3282,7 +3646,8 @@
     "status": "Delayed",
     "location": "Kansas City, MO",
     "lat": 39.3913,
-    "lng": -94.5608
+    "lng": -94.5608,
+    "lastUpdate": "2026-10-13T06:44:09.000Z"
   },
   {
     "id": "VH-0366",
@@ -3291,7 +3656,8 @@
     "status": "In transit",
     "location": "Detroit, MI",
     "lat": 42.3385,
-    "lng": -82.9155
+    "lng": -82.9155,
+    "lastUpdate": "2026-10-13T07:14:42.000Z"
   },
   {
     "id": "VH-0367",
@@ -3300,7 +3666,8 @@
     "status": "Maintenance",
     "location": "Minneapolis, MN",
     "lat": 44.7622,
-    "lng": -93.3547
+    "lng": -93.3547,
+    "lastUpdate": "2026-10-13T07:32:10.000Z"
   },
   {
     "id": "VH-0368",
@@ -3309,7 +3676,8 @@
     "status": "Loading",
     "location": "Cincinnati, OH",
     "lat": 39.2122,
-    "lng": -84.3974
+    "lng": -84.3974,
+    "lastUpdate": "2026-10-13T08:37:51.000Z"
   },
   {
     "id": "VH-0369",
@@ -3318,7 +3686,8 @@
     "status": "Idle",
     "location": "Indianapolis, IN",
     "lat": 39.8405,
-    "lng": -86.279
+    "lng": -86.279,
+    "lastUpdate": "2026-10-13T08:51:22.000Z"
   },
   {
     "id": "VH-0370",
@@ -3327,7 +3696,8 @@
     "status": "Loading",
     "location": "Madison, WI",
     "lat": 42.9616,
-    "lng": -89.241
+    "lng": -89.241,
+    "lastUpdate": "2026-10-13T07:31:24.000Z"
   },
   {
     "id": "VH-0371",
@@ -3336,7 +3706,8 @@
     "status": "In transit",
     "location": "Kansas City, MO",
     "lat": 39.1309,
-    "lng": -94.5569
+    "lng": -94.5569,
+    "lastUpdate": "2026-10-13T07:39:36.000Z"
   },
   {
     "id": "VH-0372",
@@ -3345,7 +3716,8 @@
     "status": "Idle",
     "location": "Des Moines, IA",
     "lat": 41.3354,
-    "lng": -93.6367
+    "lng": -93.6367,
+    "lastUpdate": "2026-10-13T08:11:38.000Z"
   },
   {
     "id": "VH-0373",
@@ -3354,7 +3726,8 @@
     "status": "In transit",
     "location": "Fort Wayne, IN",
     "lat": 41.333,
-    "lng": -85.3602
+    "lng": -85.3602,
+    "lastUpdate": "2026-10-13T08:20:58.000Z"
   },
   {
     "id": "VH-0374",
@@ -3363,7 +3736,8 @@
     "status": "In transit",
     "location": "Fort Wayne, IN",
     "lat": 40.8648,
-    "lng": -85.0733
+    "lng": -85.0733,
+    "lastUpdate": "2026-10-13T08:03:13.000Z"
   },
   {
     "id": "VH-0375",
@@ -3372,7 +3746,8 @@
     "status": "Maintenance",
     "location": "Indianapolis, IN",
     "lat": 39.5266,
-    "lng": -86.0495
+    "lng": -86.0495,
+    "lastUpdate": "2026-10-13T07:56:58.000Z"
   },
   {
     "id": "VH-0376",
@@ -3381,7 +3756,8 @@
     "status": "In transit",
     "location": "Fort Wayne, IN",
     "lat": 41.2584,
-    "lng": -85.1905
+    "lng": -85.1905,
+    "lastUpdate": "2026-10-13T06:44:21.000Z"
   },
   {
     "id": "VH-0377",
@@ -3390,7 +3766,8 @@
     "status": "In transit",
     "location": "Omaha, NE",
     "lat": 41.3908,
-    "lng": -95.6484
+    "lng": -95.6484,
+    "lastUpdate": "2026-10-13T07:53:03.000Z"
   },
   {
     "id": "VH-0378",
@@ -3399,7 +3776,8 @@
     "status": "In transit",
     "location": "Indianapolis, IN",
     "lat": 39.6156,
-    "lng": -85.9395
+    "lng": -85.9395,
+    "lastUpdate": "2026-10-13T08:14:51.000Z"
   },
   {
     "id": "VH-0379",
@@ -3408,7 +3786,8 @@
     "status": "In transit",
     "location": "Madison, WI",
     "lat": 43.2915,
-    "lng": -89.6935
+    "lng": -89.6935,
+    "lastUpdate": "2026-10-13T08:51:41.000Z"
   },
   {
     "id": "VH-0380",
@@ -3417,7 +3796,8 @@
     "status": "In transit",
     "location": "St. Louis, MO",
     "lat": 38.8479,
-    "lng": -90.3497
+    "lng": -90.3497,
+    "lastUpdate": "2026-10-13T08:07:12.000Z"
   },
   {
     "id": "VH-0381",
@@ -3426,7 +3806,8 @@
     "status": "In transit",
     "location": "Cincinnati, OH",
     "lat": 38.8225,
-    "lng": -84.2495
+    "lng": -84.2495,
+    "lastUpdate": "2026-10-13T08:12:06.000Z"
   },
   {
     "id": "VH-0382",
@@ -3435,7 +3816,8 @@
     "status": "Idle",
     "location": "Columbus, OH",
     "lat": 39.9078,
-    "lng": -83.1929
+    "lng": -83.1929,
+    "lastUpdate": "2026-10-13T08:51:29.000Z"
   },
   {
     "id": "VH-0383",
@@ -3444,7 +3826,8 @@
     "status": "Idle",
     "location": "Cincinnati, OH",
     "lat": 39.2302,
-    "lng": -84.5472
+    "lng": -84.5472,
+    "lastUpdate": "2026-10-13T07:57:23.000Z"
   },
   {
     "id": "VH-0384",
@@ -3453,7 +3836,8 @@
     "status": "Loading",
     "location": "Louisville, KY",
     "lat": 38.537,
-    "lng": -85.8388
+    "lng": -85.8388,
+    "lastUpdate": "2026-10-13T08:36:44.000Z"
   },
   {
     "id": "VH-0385",
@@ -3462,7 +3846,8 @@
     "status": "Maintenance",
     "location": "Columbus, OH",
     "lat": 39.6684,
-    "lng": -83.0001
+    "lng": -83.0001,
+    "lastUpdate": "2026-10-13T08:26:23.000Z"
   },
   {
     "id": "VH-0386",
@@ -3471,7 +3856,8 @@
     "status": "Delayed",
     "location": "Madison, WI",
     "lat": 42.9,
-    "lng": -89.4394
+    "lng": -89.4394,
+    "lastUpdate": "2026-10-13T08:23:36.000Z"
   },
   {
     "id": "VH-0387",
@@ -3480,7 +3866,8 @@
     "status": "Loading",
     "location": "Cincinnati, OH",
     "lat": 39.3182,
-    "lng": -84.6612
+    "lng": -84.6612,
+    "lastUpdate": "2026-10-13T08:24:20.000Z"
   },
   {
     "id": "VH-0388",
@@ -3489,7 +3876,8 @@
     "status": "In transit",
     "location": "Columbus, OH",
     "lat": 39.7276,
-    "lng": -83.1602
+    "lng": -83.1602,
+    "lastUpdate": "2026-10-13T07:27:45.000Z"
   },
   {
     "id": "VH-0389",
@@ -3498,7 +3886,8 @@
     "status": "In transit",
     "location": "Cincinnati, OH",
     "lat": 39.0927,
-    "lng": -84.5339
+    "lng": -84.5339,
+    "lastUpdate": "2026-10-13T06:28:25.000Z"
   },
   {
     "id": "VH-0390",
@@ -3507,7 +3896,8 @@
     "status": "In transit",
     "location": "Chicago, IL",
     "lat": 41.9069,
-    "lng": -87.5716
+    "lng": -87.5716,
+    "lastUpdate": "2026-10-13T07:47:41.000Z"
   },
   {
     "id": "VH-0391",
@@ -3516,7 +3906,8 @@
     "status": "Idle",
     "location": "Madison, WI",
     "lat": 42.9528,
-    "lng": -89.5866
+    "lng": -89.5866,
+    "lastUpdate": "2026-10-13T06:09:17.000Z"
   },
   {
     "id": "VH-0392",
@@ -3525,7 +3916,8 @@
     "status": "Loading",
     "location": "Madison, WI",
     "lat": 43.2147,
-    "lng": -89.4057
+    "lng": -89.4057,
+    "lastUpdate": "2026-10-13T08:00:25.000Z"
   },
   {
     "id": "VH-0393",
@@ -3534,7 +3926,8 @@
     "status": "Delayed",
     "location": "Cincinnati, OH",
     "lat": 38.89,
-    "lng": -84.3941
+    "lng": -84.3941,
+    "lastUpdate": "2026-10-13T08:42:58.000Z"
   },
   {
     "id": "VH-0394",
@@ -3543,7 +3936,8 @@
     "status": "Idle",
     "location": "Cincinnati, OH",
     "lat": 39.3822,
-    "lng": -84.7368
+    "lng": -84.7368,
+    "lastUpdate": "2026-10-13T06:01:19.000Z"
   },
   {
     "id": "VH-0395",
@@ -3552,7 +3946,8 @@
     "status": "In transit",
     "location": "Omaha, NE",
     "lat": 41.4878,
-    "lng": -95.7146
+    "lng": -95.7146,
+    "lastUpdate": "2026-10-13T08:19:32.000Z"
   },
   {
     "id": "VH-0396",
@@ -3561,7 +3956,8 @@
     "status": "Delayed",
     "location": "Indianapolis, IN",
     "lat": 39.4972,
-    "lng": -86.0975
+    "lng": -86.0975,
+    "lastUpdate": "2026-10-13T08:12:04.000Z"
   },
   {
     "id": "VH-0397",
@@ -3570,7 +3966,8 @@
     "status": "In transit",
     "location": "Indianapolis, IN",
     "lat": 39.6373,
-    "lng": -85.8725
+    "lng": -85.8725,
+    "lastUpdate": "2026-10-13T08:42:20.000Z"
   },
   {
     "id": "VH-0398",
@@ -3579,7 +3976,8 @@
     "status": "In transit",
     "location": "Chicago, IL",
     "lat": 42.1414,
-    "lng": -87.731
+    "lng": -87.731,
+    "lastUpdate": "2026-10-13T06:34:55.000Z"
   },
   {
     "id": "VH-0399",
@@ -3588,7 +3986,8 @@
     "status": "Maintenance",
     "location": "Milwaukee, WI",
     "lat": 43.2165,
-    "lng": -87.9321
+    "lng": -87.9321,
+    "lastUpdate": "2026-10-13T08:59:55.000Z"
   },
   {
     "id": "VH-0400",
@@ -3597,6 +3996,7 @@
     "status": "In transit",
     "location": "St. Louis, MO",
     "lat": 38.4798,
-    "lng": -90.411
+    "lng": -90.411,
+    "lastUpdate": "2026-10-13T07:51:27.000Z"
   }
 ]

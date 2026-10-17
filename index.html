@@ -26,6 +26,23 @@
           </p>
         </div>
 
+        <form class="filters" id="filters" aria-label="Filter and sort vehicles">
+          <div class="field">
+            <label for="filter-status">Status</label>
+            <select id="filter-status" name="status"></select>
+          </div>
+          <div class="field field-grow">
+            <label for="filter-driver">Driver</label>
+            <input id="filter-driver" name="driver" type="search" placeholder="Part of a name" autocomplete="off" />
+          </div>
+          <div class="field">
+            <label for="filter-sort">Sort by</label>
+            <select id="filter-sort" name="sort"></select>
+          </div>
+          <button type="button" id="filter-clear" class="clear" hidden>Clear filters</button>
+        </form>
+        <p class="result-count" id="result-count" role="status"></p>
+
         <p class="feed-status">
           Live feed: <strong id="feed-mode">starting</strong> &middot; last update:
           <span id="feed-last">none yet</span>
@@ -38,11 +55,13 @@
             <div class="cell cell-driver" role="columnheader">Driver</div>
             <div class="cell cell-status" role="columnheader">Status</div>
             <div class="cell cell-location" role="columnheader">Last known location</div>
+            <div class="cell cell-updated" role="columnheader">Updated</div>
           </div>
           <div class="spacer">
             <div class="rows" role="rowgroup"></div>
           </div>
         </div>
+        <p class="empty" id="empty-message" hidden>No vehicles match these filters. Try clearing one of them.</p>
       </section>
     </main>
 

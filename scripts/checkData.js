@@ -5,7 +5,7 @@ import { fileURLToPath } from 'node:url';
 import { STATUSES } from '../src/statuses.js';
 
 const FILE = resolve(dirname(fileURLToPath(import.meta.url)), '../src/data/vehicles.json');
-const FIELDS = ['id', 'plate', 'driver', 'status', 'location'];
+const FIELDS = ['id', 'plate', 'driver', 'status', 'location', 'lastUpdate'];
 const errors = [];
 
 const vehicles = JSON.parse(readFileSync(FILE, 'utf8'));
@@ -22,6 +22,7 @@ for (const [index, vehicle] of (Array.isArray(vehicles) ? vehicles : []).entries
       errors.push(`Row ${index}: missing or empty "${field}"`);
     }
   }
+  if (Number.isNaN(Date.parse(vehicle.lastUpdate))) errors.push(`Row ${index}: invalid lastUpdate "${vehicle.lastUpdate}"`);
   if (!STATUSES.includes(vehicle.status)) errors.push(`Row ${index}: unknown status "${vehicle.status}"`);
   if (ids.has(vehicle.id)) errors.push(`Row ${index}: duplicate id ${vehicle.id}`);
   if (plates.has(vehicle.plate)) errors.push(`Row ${index}: duplicate plate ${vehicle.plate}`);

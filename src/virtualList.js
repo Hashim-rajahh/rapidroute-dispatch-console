@@ -9,7 +9,7 @@ export function createVirtualList({
   scroller,
   spacer,
   rowsContainer,
-  items,
+  items: initialItems,
   rowHeight,
   overscan = 4,
   createRow,
@@ -17,6 +17,7 @@ export function createVirtualList({
   updateRow,
   onRange
 }) {
+  let items = initialItems;
   let first = -1;
   let last = -1;
   let frame = 0;
@@ -73,6 +74,15 @@ export function createVirtualList({
   render();
 
   return {
+    // Swaps in a new list (for example after a filter change) and goes back to the top.
+    // The same pooled row elements are reused for the new data.
+    setItems(nextItems) {
+      items = nextItems;
+      spacer.style.height = `${items.length * rowHeight}px`;
+      first = -1;
+      scroller.scrollTop = 0;
+      render();
+    },
     // Updates ONE row in place. If that vehicle is not in the DOM right now there
     // is nothing to touch: its new data is read when it scrolls into view.
     // Returns the row element that was updated, or null.

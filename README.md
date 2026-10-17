@@ -102,3 +102,40 @@ I watched the browser console. Every update prints one line, for example:
 ### Limits
 - The detail panel is part of a later task. `liveStore.subscribe()` is ready so the panel can show the same live coordinates when it exists.
 - The deployed site uses the in-page mock, because Netlify cannot run the Node server.
+
+
+
+# README additions for Task 3 (copy these into README.md, then delete this file)
+
+## 1. In "Run it", add to the "Other scripts" line
+
+`npm test` (runs the unit tests)
+
+## 2. Add these rows to the Project layout table
+
+| `src/filters.js` | Filter, sort and URL logic (no DOM code, so it can be unit tested) |
+| `tests/filters.test.js` | Jest unit tests for `src/filters.js` |
+
+## 3. Paste this as a new section after "Live position updates (Task 2)"
+
+## Filter and sort with URL state (Task 3)
+
+Above the list there is a **Status** dropdown, a **Driver** search box and a **Sort by** dropdown (vehicle ID, driver A to Z, driver Z to A, or last update, newest first). Changing any of them updates the list straight away and also updates the address bar, for example:
+
+`?status=delayed&driver=brown&sort=driver`
+
+Reloading the page, bookmarking it or sharing the link brings back the same view. Values that are the default (all statuses, no driver text, sort by ID) are left out of the URL, so the unfiltered page has a clean URL with no query string.
+
+### How it works
+1. `src/filters.js` holds three small functions: `parseFilters` (URL to filter object), `serializeFilters` (filter object to URL) and `applyFilters` (filter and sort the vehicles). Anything in the URL that is not recognised (for example `?status=flying`) falls back to the default.
+2. When the page loads, `main.js` reads `window.location.search` with `parseFilters`, builds the list from it and sets the controls to match.
+3. When a control changes, `main.js` builds a new filter object, writes it to the URL with the History API (`URLSearchParams` and `history.pushState`) and calls `list.setItems()` on the virtualized list. The same pooled row elements are reused, so only about 16 to 21 rows exist in the page whatever the filter result.
+4. Choosing from a dropdown adds a browser history entry, so the Back button undoes it. Typing in the driver box replaces the current entry instead, so one search does not create one history entry per letter. The `popstate` event re-reads the URL on Back and Forward.
+5. If nothing matches, the list shows "No vehicles match these filters" and a **Clear filters** button resets everything.
+
+The task suggests React Router and `useEffect`. This project uses plain JavaScript, so the same job is done with `URLSearchParams` and the History API.
+
+Live position updates still work while a filter is active. The list keeps its current order until a control is changed, so rows do not jump around while someone is reading them.
+
+### Tests
+`npm test` runs 13 Jest tests in `tests/filters.test.js`. They cover filtering by status, driver search (case, spaces and part of a name), combined filters, no matches, all sort options, not changing the original array, reading the URL (including bad values) and writing the URL (including a round trip). The tests also run in GitHub Actions on every push.
