@@ -31,6 +31,12 @@ Other scripts: `npm run check:data` (validates the JSON), `npm run lint`, `npm r
 | `src/mockPositions.js` | Makes the fake position updates; shared by the server and the in-page mock |
 | `src/liveFeed.js` | Native WebSocket client with the in-page fallback |
 | `src/liveStore.js` | Applies an update to the vehicle record and tells subscribers (the detail panel will use this) |
+| `src/filters.js` | Filter, sort and URL logic (no DOM code, so it can be unit tested) |
+| `tests/filters.test.js` | Jest unit tests for `src/filters.js` |
+| `src/detailPanel.js` | The vehicle detail side panel (open, close, focus trap, live coordinates) |
+| `src/navigation.js` | Works out which row gets focus after an arrow, Page or Home/End key |
+| `tests/navigation.test.js` | Jest tests for the keyboard navigation logic |
+| `tests/liveStore.test.js` | Jest tests for the live store (updates and subscriptions) |
 
 ## How the virtualization works
 1. A tall empty "spacer" gives the scrollbar the height of all 400 rows (400 x 44 px).
@@ -73,6 +79,7 @@ Use two terminals:
 ```bash
 npm run mock-server   # ws://localhost:8787, one update every 5 seconds
 npm run dev           # the console at http://localhost:5173
+npm test (runs the unit tests)
 ```
 `npm run dev` connects to the mock server automatically. The "Live feed" line above the list shows `mock server` when it is connected.
 
@@ -105,18 +112,9 @@ I watched the browser console. Every update prints one line, for example:
 
 
 
-# README additions for Task 3 (copy these into README.md, then delete this file)
+# README additions for Task 3 
 
-## 1. In "Run it", add to the "Other scripts" line
-
-`npm test` (runs the unit tests)
-
-## 2. Add these rows to the Project layout table
-
-| `src/filters.js` | Filter, sort and URL logic (no DOM code, so it can be unit tested) |
-| `tests/filters.test.js` | Jest unit tests for `src/filters.js` |
-
-## 3. Paste this as a new section after "Live position updates (Task 2)"
+## 3. "Live position updates (Task 2)"
 
 ## Filter and sort with URL state (Task 3)
 
@@ -139,3 +137,35 @@ Live position updates still work while a filter is active. The list keeps its cu
 
 ### Tests
 `npm test` runs 13 Jest tests in `tests/filters.test.js`. They cover filtering by status, driver search (case, spaces and part of a name), combined filters, no matches, all sort options, not changing the original array, reading the URL (including bad values) and writing the URL (including a round trip). The tests also run in GitHub Actions on every push.
+
+
+
+## 3. "Filter and sort with URL state (Task 3)"
+
+## Detail side panel and keyboard navigation (Task 4)
+
+Clicking a vehicle row, or pressing **Enter** on it, opens a side panel that slides in from the right and shows all the vehicle's fields: ID, plate, driver, status, last known location, latitude, longitude and last update time.
+
+### Keyboard use
+| Key | What it does |
+|---|---|
+| Tab | Moves into the list (one tab stop for the whole list) |
+| Up / Down | Moves focus to the previous / next vehicle |
+| Page Up / Page Down, Home / End | Jump a page, or to the first / last vehicle |
+| Enter or Space | Opens the details panel for the focused vehicle |
+| Esc, or the Close button | Closes the panel and puts focus back on the vehicle you opened it from |
+
+### How it works
+- **Roving tabindex.** Only one row (the active one) has `tabindex="0"`, all others have `-1`. The list is one Tab stop, and the arrow keys move between rows. This matches the ARIA guidance for composite widgets.
+- **Keyboard and virtualization.** Only about 21 rows exist in the page, so `list.revealIndex()` scrolls just enough to bring the next row into view and draws it before it gets focus. Focus is moved with `focus({ preventScroll: true })`, so the browser never makes the list jump.
+- **Scroll position is kept.** The panel is fixed on top of the page, so opening or closing it does not change the list's width or scroll position. On close, focus goes back to the row that opened it.
+- **Focus trap.** The panel has `role="dialog"`, `aria-modal="true"` and `aria-labelledby` (its title). While it is open, everything else on the page is made `inert`, and Tab / Shift+Tab are kept inside the panel.
+- **Labels.** The Close button has visible text, the list has a text description (the keyboard hint above it), and every panel field is a `<dt>` / `<dd>` pair.
+- **Live updates.** The panel subscribes to the live store (`store.subscribe`). When a position update arrives for the vehicle shown in the panel, only its latitude, longitude and last-update text change. Updates for other vehicles are ignored.
+- **Reduced motion.** The slide-in animation is turned off if the user has asked their system for reduced motion.
+
+### Testing and findings
+- `npm test` runs the Jest tests, including 5 for the keyboard navigation logic and 3 for the live store.
+- I tested the keyboard flow by hand: Tab into the list, Up / Down through rows (including past the 21 rows in the page), Home / End, Enter to open, Tab and Shift+Tab inside the panel, Esc to close, and checked that the scroll position and the focused vehicle were the same after closing.
+- An automated axe-core run (version 4.14.0) on the list and on the open panel found one issue: `role="dialog"` is not allowed on an `<aside>` element. I changed the panel to a `<div>`, and the same run then reported 0 violations in both states.
+- **axe browser extension result (0 issues):**

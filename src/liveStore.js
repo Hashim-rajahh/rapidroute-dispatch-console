@@ -1,10 +1,14 @@
 // Holds the latest position of every vehicle and tells other parts of the app
-// (such as the detail panel in a later task) when one changes.
+// (such as the detail panel) when one changes.
 export function createLiveStore(vehicles) {
   const indexById = new Map(vehicles.map((vehicle, index) => [vehicle.id, index]));
   const listeners = new Set();
 
   return {
+    // The current record for a vehicle id (or undefined).
+    vehicle(id) {
+      return vehicles[indexById.get(id)];
+    },
     // Writes the new position into the vehicle record. Returns its index, or -1 if unknown.
     apply(message) {
       const index = indexById.get(message.vehicleId);
@@ -12,6 +16,7 @@ export function createLiveStore(vehicles) {
       const vehicle = vehicles[index];
       vehicle.lat = message.lat;
       vehicle.lng = message.lng;
+      vehicle.lastUpdate = new Date(message.ts).toISOString();
       for (const listener of listeners) listener(vehicle, index);
       return index;
     },

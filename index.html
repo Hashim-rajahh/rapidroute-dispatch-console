@@ -48,7 +48,12 @@
           <span id="feed-last">none yet</span>
         </p>
 
-        <div class="scroller" id="vehicle-list" role="table" aria-label="Fleet vehicles" tabindex="0">
+        <p class="list-help" id="list-help">
+          Keyboard: <kbd>Up</kbd> and <kbd>Down</kbd> move between vehicles, <kbd>Enter</kbd> opens the details panel,
+          <kbd>Esc</kbd> closes it.
+        </p>
+
+        <div class="scroller" id="vehicle-list" role="table" aria-label="Fleet vehicles" aria-describedby="list-help" tabindex="0">
           <div class="row header" role="row">
             <div class="cell cell-id" role="columnheader">Vehicle ID</div>
             <div class="cell cell-plate" role="columnheader">Plate</div>
@@ -64,6 +69,24 @@
         <p class="empty" id="empty-message" hidden>No vehicles match these filters. Try clearing one of them.</p>
       </section>
     </main>
+
+    <div class="backdrop" id="detail-backdrop"></div>
+    <div class="panel" id="detail-panel" role="dialog" aria-modal="true" aria-labelledby="detail-title">
+      <div class="panel-head">
+        <h2 id="detail-title" tabindex="-1">Vehicle details</h2>
+        <button type="button" id="detail-close" class="panel-close" aria-keyshortcuts="Escape">Close</button>
+      </div>
+      <dl class="fields">
+        <div><dt>Vehicle ID</dt><dd data-field="id"></dd></div>
+        <div><dt>Plate</dt><dd data-field="plate"></dd></div>
+        <div><dt>Driver</dt><dd data-field="driver"></dd></div>
+        <div><dt>Status</dt><dd><span class="chip" data-field="status"></span></dd></div>
+        <div><dt>Last known location</dt><dd data-field="location"></dd></div>
+        <div><dt>Latitude</dt><dd data-field="lat" class="live"></dd></div>
+        <div><dt>Longitude</dt><dd data-field="lng" class="live"></dd></div>
+        <div><dt>Last update</dt><dd data-field="updated" class="live"></dd></div>
+      </dl>
+    </div>
 
     <script type="module" src="/src/main.js"></script>
   </body>

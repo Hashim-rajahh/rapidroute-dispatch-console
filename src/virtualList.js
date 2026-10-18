@@ -83,6 +83,24 @@ export function createVirtualList({
       scroller.scrollTop = 0;
       render();
     },
+    // The row element for this list index, or null if it is not in the page right now.
+    getRow(index) {
+      if (index < first || index >= last) return null;
+      return pool[index - first];
+    },
+    // Scrolls just enough to bring a row fully into view (no change if it already is),
+    // and draws the rows right away so the caller can focus the row straight after.
+    revealIndex(index) {
+      const rowTop = index * rowHeight;
+      const rowBottom = rowTop + rowHeight;
+      const visibleHeight = scroller.clientHeight - rowHeight; // the sticky header covers one row
+      if (rowTop < scroller.scrollTop) {
+        scroller.scrollTop = rowTop;
+      } else if (rowBottom > scroller.scrollTop + visibleHeight) {
+        scroller.scrollTop = rowBottom - visibleHeight;
+      }
+      render();
+    },
     // Updates ONE row in place. If that vehicle is not in the DOM right now there
     // is nothing to touch: its new data is read when it scrolls into view.
     // Returns the row element that was updated, or null.
