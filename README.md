@@ -110,12 +110,7 @@ I watched the browser console. Every update prints one line, for example:
 - The detail panel is part of a later task. `liveStore.subscribe()` is ready so the panel can show the same live coordinates when it exists.
 - The deployed site uses the in-page mock, because Netlify cannot run the Node server.
 
-
-
-# README additions for Task 3 
-
-## 3. "Live position updates (Task 2)"
-
+# README for Task 3
 ## Filter and sort with URL state (Task 3)
 
 Above the list there is a **Status** dropdown, a **Driver** search box and a **Sort by** dropdown (vehicle ID, driver A to Z, driver Z to A, or last update, newest first). Changing any of them updates the list straight away and also updates the address bar, for example:
@@ -138,10 +133,7 @@ Live position updates still work while a filter is active. The list keeps its cu
 ### Tests
 `npm test` runs 13 Jest tests in `tests/filters.test.js`. They cover filtering by status, driver search (case, spaces and part of a name), combined filters, no matches, all sort options, not changing the original array, reading the URL (including bad values) and writing the URL (including a round trip). The tests also run in GitHub Actions on every push.
 
-
-
-## 3. "Filter and sort with URL state (Task 3)"
-
+# README for Task 4
 ## Detail side panel and keyboard navigation (Task 4)
 
 Clicking a vehicle row, or pressing **Enter** on it, opens a side panel that slides in from the right and shows all the vehicle's fields: ID, plate, driver, status, last known location, latitude, longitude and last update time.
