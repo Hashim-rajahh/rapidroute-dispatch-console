@@ -7,6 +7,7 @@ import { createLiveStore } from './liveStore.js';
 import { createDetailPanel } from './detailPanel.js';
 import { nextIndex } from './navigation.js';
 import { SORT_OPTIONS, STATUS_FILTERS, applyFilters, parseFilters, serializeFilters } from './filters.js';
+import { createOfflineQueue } from './offlineQueue.js';
 
 const ROW_HEIGHT = 44;
 const HEADER_ROWS = 1;
@@ -296,10 +297,17 @@ function readControls() {
   return { status: statusSelect.value, driver: driverInput.value.trim(), sort: sortSelect.value };
 }
 
+// ---- Offline action queue (Task 5) ----
+const offlineQueue = createOfflineQueue();
+
 function onControlChange(push) {
   filters = readControls();
   writeUrl(push);
   renderView();
+  // Queue the action when offline so it can be replayed on reconnection.
+  if (!navigator.onLine) {
+    offlineQueue.push({ type: 'filter', filters: { ...filters } });
+  }
 }
 
 statusSelect.addEventListener('change', () => onControlChange(true));
@@ -326,3 +334,57 @@ resultCount.textContent = `Showing ${view.length} of ${vehicles.length} vehicles
 emptyMessage.hidden = view.length > 0;
 clearButton.hidden = serializeFilters(filters) === '';
 scroller.setAttribute('aria-rowcount', String(view.length + HEADER_ROWS));
+
+// ---- Offline banner and reconnection (Task 5) ----
+const offlineBanner = document.getElementById('offline-banner');
+
+function showOfflineBanner() {
+  offlineBanner.classList.remove('reconnected');
+  offlineBanner.textContent = '';
+  const icon = document.createElement('span');
+  icon.className = 'offline-banner-icon';
+  icon.setAttribute('aria-hidden', 'true');
+  icon.textContent = '\u26A0';
+  offlineBanner.append(icon, ' You are offline \u2014 actions will sync when back online');
+  offlineBanner.hidden = false;
+}
+
+function hideOfflineBanner() {
+  offlineBanner.hidden = true;
+}
+
+function onOnline() {
+  const actions = offlineQueue.flush();
+  // Re-apply the latest filter state (in case it changed while offline).
+  if (actions.length > 0) {
+    const last = actions[actions.length - 1];
+    filters = last.filters;
+    showFiltersInControls();
+    renderView();
+  }
+  // Show a brief "reconnected" message, then hide the banner.
+  offlineBanner.classList.add('reconnected');
+  offlineBanner.textContent = '';
+  const icon = document.createElement('span');
+  icon.className = 'offline-banner-icon';
+  icon.setAttribute('aria-hidden', 'true');
+  icon.textContent = '\u2713';
+  const message = actions.length > 0
+    ? ` Back online \u2014 synced ${actions.length} action${actions.length === 1 ? '' : 's'}`
+    : ' Back online';
+  offlineBanner.append(icon, message);
+  offlineBanner.hidden = false;
+  setTimeout(hideOfflineBanner, 3000);
+}
+
+function onOffline() {
+  showOfflineBanner();
+}
+
+window.addEventListener('online', onOnline);
+window.addEventListener('offline', onOffline);
+
+// Check on load: if the page loaded while already offline, show the banner.
+if (!navigator.onLine) {
+  showOfflineBanner();
+}

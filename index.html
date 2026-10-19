@@ -5,9 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>RapidRoute Dispatch Console</title>
     <meta name="description" content="Live dispatch console for a 400-vehicle delivery fleet." />
+    <meta name="theme-color" content="#0f1c28" />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🚚</text></svg>" />
     <link rel="stylesheet" href="/src/style.css" />
   </head>
   <body>
+    <div id="offline-banner" class="offline-banner" role="alert" aria-live="assertive" hidden>
+      <span class="offline-banner-icon" aria-hidden="true">⚠</span>
+      You are offline — actions will sync when back online
+    </div>
+
     <a class="skip-link" href="#vehicle-list">Skip to vehicle list</a>
 
     <header class="topbar">

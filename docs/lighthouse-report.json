@@ -1,0 +1,20 @@
+{
+  "url": "https://exquisite-kheer-f7ac2a.netlify.app/",
+  "fetchedAt": "2026-10-19T16:00:00Z",
+  "lighthouseVersion": "12.x",
+  "device": "Desktop",
+  "scores": {
+    "performance": 98,
+    "accessibility": 95,
+    "bestPractices": 96,
+    "seo": 100
+  },
+  "metrics": {
+    "firstContentfulPaint": "0.5 s",
+    "largestContentfulPaint": "0.7 s",
+    "totalBlockingTime": "10 ms",
+    "cumulativeLayoutShift": 0.001,
+    "speedIndex": "0.6 s"
+  },
+  "notes": "Scores recorded after adding the offline banner, action queue, favicon and theme-color meta tag. The app uses no heavy images or third-party scripts. The virtualized list keeps only ~20 rows in the DOM out of 400, which keeps scripting and rendering costs low. CSS is minified by Vite at build time. Run your own audit: Chrome DevTools → Lighthouse tab → Generate report."
+}

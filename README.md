@@ -161,3 +161,119 @@ Clicking a vehicle row, or pressing **Enter** on it, opens a side panel that sli
 - I tested the keyboard flow by hand: Tab into the list, Up / Down through rows (including past the 21 rows in the page), Home / End, Enter to open, Tab and Shift+Tab inside the panel, Esc to close, and checked that the scroll position and the focused vehicle were the same after closing.
 - An automated axe-core run (version 4.14.0) on the list and on the open panel found one issue: `role="dialog"` is not allowed on an `<aside>` element. I changed the panel to a `<div>`, and the same run then reported 0 violations in both states.
 - **axe browser extension result (0 issues):**
+
+# README for Task 5
+## Offline banner, action queue, performance profiling and final handover (Task 5)
+
+### Live demo
+**https://exquisite-kheer-f7ac2a.netlify.app/**
+
+### What was added
+
+#### Offline banner
+When the browser goes offline (`navigator.onLine` becomes `false`), a warning banner slides in at the top of the page:
+
+> ⚠ You are offline — actions will sync when back online
+
+The banner uses `role="alert"` and `aria-live="assertive"` so screen readers announce it immediately. When the connection comes back, the banner briefly turns green and shows how many actions were synced, then disappears after 3 seconds.
+
+#### Action queue
+Filter, sort and search changes made while offline are stored in a queue (`src/offlineQueue.js`). Each entry is a snapshot of the full filter state at the time of the change. When the connection restores:
+1. The queued actions are flushed.
+2. The latest filter state is re-applied to the list.
+3. The banner shows "Back online — synced N actions".
+
+This means the app stays fully usable while offline (the 400 vehicles are already in memory), and no user action is lost.
+
+#### Performance optimisations
+- **Favicon:** An inline SVG favicon (🚚) was added so Lighthouse does not flag a missing favicon.
+- **Theme colour:** `<meta name="theme-color">` was added, matching the topbar colour `#0f1c28`.
+- **Existing optimisations** that already keep scores high: virtualized list (~20 DOM rows out of 400), no third-party scripts, CSS minified by Vite, `will-change` on the scrolling row container, `requestAnimationFrame` debouncing, and `font-variant-numeric: tabular-nums` to prevent layout jitter.
+
+#### Lighthouse scores
+| Category | Score |
+|---|---|
+| Performance | 98 |
+| Accessibility | 95 |
+| Best Practices | 96 |
+| SEO | 100 |
+
+The full report is in [`docs/lighthouse-report.json`](docs/lighthouse-report.json).
+
+### How to test the offline banner
+1. Open the app in Chrome.
+2. Open DevTools (F12) → **Network** tab.
+3. Check the **Offline** checkbox.
+4. The amber banner appears at the top: "You are offline — actions will sync when back online".
+5. Change a filter (for example, set Status to "Delayed"). The list updates locally and the action is queued.
+6. Uncheck the **Offline** checkbox.
+7. The banner turns green: "Back online — synced 1 action", then disappears after 3 seconds.
+
+### How to run a Lighthouse audit yourself
+1. Open **https://exquisite-kheer-f7ac2a.netlify.app/** in Chrome.
+2. Open DevTools (F12) → **Lighthouse** tab.
+3. Select categories: Performance, Accessibility, Best Practices, SEO.
+4. Choose "Desktop" (or "Mobile" if you prefer).
+5. Click **Analyze page load**.
+6. To save the report: click the **export** icon (↓) → **Save as JSON** → save to `docs/lighthouse-report.json`.
+
+### Setup, build, test and deploy
+
+```bash
+# Clone and install
+git clone https://github.com/Hashim-rajahh/rapidroute-dispatch-console.git
+cd rapidroute-dispatch-console
+npm install
+
+# Generate vehicle data (already committed, only needed if regenerating)
+npm run generate
+
+# Development server
+npm run dev          # http://localhost:5173
+
+# Run tests
+npm test
+
+# Lint
+npm run lint
+
+# Production build
+npm run build
+npm run preview      # preview the production build locally
+
+# Mock WebSocket server (optional, for local live updates)
+npm run mock-server  # ws://localhost:8787
+```
+
+### Deployment
+The app is deployed on **Netlify**. Every push to `main` triggers an automatic build and deploy via the `netlify.toml` configuration:
+- Build command: `npm run build`
+- Publish directory: `dist`
+- Node version: 22
+
+### Project layout (complete)
+| Path | Purpose |
+|---|---|
+| `src/main.js` | Entry point: wires up the list, filters, panel, live feed and offline logic |
+| `src/virtualList.js` | Fixed-height list virtualizer (row pooling, scroll-driven rendering) |
+| `src/filters.js` | Pure filter/sort/URL logic (no DOM code) |
+| `src/navigation.js` | Keyboard navigation index calculations |
+| `src/detailPanel.js` | Vehicle detail side panel (modal dialog) |
+| `src/liveFeed.js` | WebSocket client with in-page mock fallback |
+| `src/liveStore.js` | Applies live position updates and notifies subscribers |
+| `src/offlineQueue.js` | Offline action queue (Task 5) |
+| `src/mockPositions.js` | Generates fake GPS pings (shared by server and in-page mock) |
+| `src/statuses.js` | Single source of truth for vehicle status values |
+| `src/fpsMeter.js` | Optional on-screen FPS counter (`?fps` in URL) |
+| `src/style.css` | All styles including the offline banner |
+| `src/data/vehicles.json` | 400 generated vehicle records |
+| `scripts/generateData.js` | Generates `vehicles.json` with a fixed seed |
+| `scripts/checkData.js` | Validates the JSON (400 rows, unique IDs, valid statuses) |
+| `scripts/mockServer.js` | Mock WebSocket server for local development |
+| `tests/filters.test.js` | Unit tests for filter, sort and URL logic |
+| `tests/navigation.test.js` | Unit tests for keyboard navigation |
+| `tests/liveStore.test.js` | Unit tests for the live store |
+| `tests/offlineQueue.test.js` | Unit tests for the offline action queue (Task 5) |
+| `docs/lighthouse-report.json` | Lighthouse performance report |
+| `.github/workflows/ci.yml` | CI pipeline: lint, data check, test, build |
+| `netlify.toml` | Netlify build and header configuration |

@@ -267,6 +267,33 @@ kbd {
 .fields dd { margin: 0; font-size: 1.05rem; overflow-wrap: anywhere; }
 .fields dd.live { font-variant-numeric: tabular-nums; }
 
+/* Offline banner (Task 5) */
+.offline-banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 0.6rem 1rem;
+  background: #92400e;
+  color: #fefce8;
+  font-size: 0.9rem;
+  font-weight: 600;
+  text-align: center;
+  animation: banner-slide-down 0.3s ease;
+}
+.offline-banner[hidden] { display: none; }
+.offline-banner-icon { font-size: 1.1rem; }
+.offline-banner.reconnected {
+  background: #166534;
+  color: #f0fdf4;
+}
+
+@keyframes banner-slide-down {
+  from { transform: translateY(-100%); opacity: 0; }
+  to   { transform: translateY(0);     opacity: 1; }
+}
+
 @media (prefers-reduced-motion: reduce) {
   .panel, .panel.open, .backdrop, .backdrop.open { transition: none; }
+  .offline-banner { animation: none; }
 }
